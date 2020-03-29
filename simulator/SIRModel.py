@@ -43,6 +43,8 @@ class SIRModel:
 
         self.timeStep = 0
 
+        self.sirSeries = []
+
     def dSus(self):
         return - 1 * self.beta * self.IwC * self.SwC
 
@@ -76,6 +78,8 @@ class SIRModel:
 
         self.I = max(self.I + (self.N / self.NwC) * dI, 0)
         self.R = max(self.R + (self.N / self.NwC) * dR, 0)
+
+        self.sirSeries.append((self.S, self.I, self.R))
 
         commie = commuter
         if not dayTime:
@@ -144,6 +148,13 @@ class SIRModel:
     def setGamma(self):
         self.gamma = self.R / self.I
         print("set gamma to :" + str(self.gamma))
+
+    def plot(self):
+        import pandas as pd
+        import matplotlib.pyplot as plt
+        pd.DataFrame(self.sirSeries, columns=['S','I','R']).plot()
+        plt.title(self.name)
+
 
     def __str__(self):
         msg = "SIRModel " + str(self.name) + " at t=" + str(self.timeStep / 2) + "\n"
