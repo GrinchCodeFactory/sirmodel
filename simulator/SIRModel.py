@@ -10,20 +10,12 @@ import Commuter
 ##                                                          ##
 ##############################################################
 
-def apply_sir_differential1(o, beta, gamma, ir):
-    p_sus = beta * ir
-    dR = o.I * gamma
-    o.S -= p_sus * o.S
-    o.I += p_sus * o.S - dR
-    o.R += dR
-
-
 def apply_sir_differential(o, beta, gamma, ir):
-    # p_sus = beta * ir
-    dR = o.I * gamma
-    o.S += -beta * o.S / o.N * o.I
-    o.I += beta * o.S / o.N * o.I - dR
-    o.R += dR
+    ds = beta * ir * o.S
+    dr = o.I * gamma
+    o.S -= ds
+    o.I += ds - dr
+    o.R += dr
 
 
 class SIRModel:
@@ -67,17 +59,18 @@ class SIRModel:
         # imitate day and night cycle
         dayTime = self.timeStep % 2 == 0
 
-        present = []  # commuter if dayTime else self.outgoingCommuters
+        present = commuter if dayTime else self.outgoingCommuters
 
-        # self.includeCommuters(present)
+        self.includeCommuters(present)
 
-        # if self.NwC:
-        ir = self.I / self.N  # infection ratio TODO *wC
+        if self.NwC:
 
-        apply_sir_differential(self, beta=self.beta, gamma=self.gamma, ir=ir)
+            ir = self.IwC / self.NwC  # infection ratio
 
-        # for c in present:
-        #    apply_sir_differential(c, beta=self.beta, gamma=self.gamma, ir=ir)
+            apply_sir_differential(self, beta=self.beta, gamma=self.gamma, ir=ir)
+
+            for c in present:
+                apply_sir_differential(c, beta=self.beta, gamma=self.gamma, ir=ir)
 
         # capture SIR for plotting
         self.sirSeries.append((self.S, self.I, self.R))

@@ -87,7 +87,7 @@ class CommuterFactory:
                     cODict.update({commie.idTo: commie})
 
             # id, N, S, I, R, commuter: {int: Commuter}
-            sir = SIRModel(fromId, N, S, I, R, cODict, row[1])
+            sir = SIRModel(fromId, N, S, I, R, list(cODict.values()), row[1])
             sirDict.update({sir.id: sir})
         return sirDict
 
@@ -113,7 +113,7 @@ class CommuterFactory:
 
         print("Notfound: " + str(self.irg) + ", Found: " + str(self.irg2))
 
-        return self.lkDict
+        return list(self.lkDict.values())
 
 
 if __name__ == '__main__':
