@@ -1,6 +1,3 @@
-
-
-
 from Commuter import Commuter
 from CommuterFactory import CommuterFactory
 from SIRModel import SIRModel
@@ -24,7 +21,7 @@ sirList = {sir1.id:sir1, sir2.id:sir2, sir3.id:sir3}
 
 
 def runSimulation(days):
-    for i in range(2*days):
+    for i in range(2 * days):
 
         for sir in sirList.values():
 
@@ -38,16 +35,27 @@ def runSimulation(days):
             # distributing the newComs on the moddels
             if sir.timeStep % 2 == 0:
                 for newC in newCom:
-                    if(newC.idFrom==-1):
+                    if (newC.idFrom == -1):
                         print("KEY -1 !!" + str(newC))
                     sirList[newC.idFrom].setOutgoingCommuter(newC)
 
         print(sirList[1004])
 
 
+def makePeopleSick():
+    counter = 0
+    for sir in sirList.values():
+        if counter % 25 == 0:
+            print("YOU GOT CORONA!")
+            sir.I = 1000
+            sir.S -= 1000
+            counter += 1
+
+
 cf = CommuterFactory()
 sirList = cf.loadAll()
 comList = cf.getCommuterList()
+
+makePeopleSick()
+
 runSimulation(5)
-
-
