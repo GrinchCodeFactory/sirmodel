@@ -1,12 +1,9 @@
 import time
-import timeit
 from collections import defaultdict
 from typing import List, Dict
 
 from Commuter import Commuter
 from CommuterFactory import CommuterFactory
-from SIRModel import SIRModel
-from util.cpu_profiler import profiler_start, profiler_print
 
 '''
 #N, S, I, R, idFrom, idTo
@@ -26,66 +23,57 @@ sirList = {sir1.id:sir1, sir2.id:sir2, sir3.id:sir3}
 '''
 
 
-def runSimulation(days):
+def runSimulation(sirList, comList, days):
+    t0 = time.perf_counter()
+
+    comByIdTo: Dict[str, List[Commuter]] = defaultdict(list)
+    for com in comList:
+        comByIdTo[com.idTo].append(com)
+
     for i in range(2 * days):
 
-        for sir in sirList.values():
+        for sir in sirList:
 
             # find commuter coming to your city
             incCom = comByIdTo[sir.id]
-
-            # iterate modle one step and get commuter after work
-            newCom = sir.nextTimeStep(incCom)
-
-            # this is only nessecary during work perio
-            # distributing the newComs on the moddels
-            if sir.timeStep % 2 == 0:
-                for newC in newCom:
-                    if (newC.idFrom == -1):
-                        print("KEY -1 !!" + str(newC))
-                    sirList[newC.idFrom].setOutgoingCommuter(newC)
-
-        print(sirList[1004])
+            sir.nextTimeStep(incCom)
 
 
-def makePeopleSick():
+         # print(sirList[min(1004, len(sirList)])
+
+    t1 = time.perf_counter()
+    print('Simulation took %.2f seconds' % ((t1 - t0)))
+
+
+def makePeopleSick(sirList):
     counter = 0
     for sir in sirList.values():
-        if counter % 25 == 0:
+        if counter % 25 == 0 or True:
             print("YOU GOT CORONA!")
             sir.I = 1000
             sir.S -= 1000
             counter += 1
 
 
-cf = CommuterFactory()
-sirList = cf.loadAll()
-comList = cf.getCommuterList()
+def main():
+    cf = CommuterFactory()
+    sirList = cf.loadAll()
+    comList = cf.getCommuterList()
 
-comByIdTo: Dict[str, List[Commuter]] = defaultdict(list)
-for com in comList:
-    comByIdTo[com.idTo].append(com)
+    makePeopleSick(sirList)
 
-makePeopleSick()
+    runSimulation(sirList, comList, 60)
 
-t0 = time.perf_counter()
+    import numpy as np
+    import matplotlib.pyplot as plt
 
-# profiler_start()
+    np.random.seed(367)
+    plot_keys = np.random.choice(list(sirList.keys()), 4, replace=False)
+    for k in plot_keys:
+        sirList[k].plot()
 
-runSimulation(20)
+    plt.show()
 
-# profiler_print()
 
-t1 = time.perf_counter()
-
-print('Simulation took %.2f seconds' % ((t1 - t0)))
-
-import numpy as np
-import matplotlib.pyplot as plt
-
-np.random.seed(367)
-plot_keys = np.random.choice(list(sirList.keys()), 4, replace=False)
-for k in plot_keys:
-    sirList[k].plot()
-
-plt.show()
+if __name__ == '__main__':
+    main()
