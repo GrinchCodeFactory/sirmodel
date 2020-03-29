@@ -1,0 +1,5497 @@
+﻿06411,"Darmstadt, Wissenschaftsstadt",,,
+,,01003,"Lübeck, Hansestadt",25
+,,01056,Pinneberg,16
+,,01062,Stormarn,11
+,,010,Übrige Kreise (Regierungsbezirk),26
+,,010,Schleswig-Holstein,78
+,,01,Schleswig-Holstein,78
+,,02000,"Hamburg, Freie und Hansestadt",215
+,,020,Hamburg,215
+,,02,Hamburg,215
+,,03101,"Braunschweig, Stadt",12
+,,03103,"Wolfsburg, Stadt",15
+,,03159,Göttingen,15
+,,031,Übrige Kreise (Regierungsbezirk),8
+,,031,Statistische Region Braunschweig,50
+,,03241,Region Hannover,53
+,,03254,Hildesheim,10
+,,032,Übrige Kreise (Regierungsbezirk),9
+,,032,Statistische Region Hannover,72
+,,033,Statistische Region Lüneburg,29
+,,03454,Emsland,35
+,,034,Übrige Kreise (Regierungsbezirk),30
+,,034,Statistische Region Weser-Ems,65
+,,03,Niedersachsen,216
+,,04011,"Bremen, Stadt",35
+,,040,Übrige Kreise (Regierungsbezirk),*
+,,040,Bremen,37
+,,04,Bremen,37
+,,05111,"Düsseldorf, Stadt",147
+,,05112,"Duisburg, Stadt",16
+,,05113,"Essen, Stadt",130
+,,05116,"Mönchengladbach, Stadt",10
+,,05124,"Wuppertal, Stadt",11
+,,05154,Kleve,11
+,,05158,Mettmann,26
+,,05162,Rhein-Kreis Neuss,27
+,,05170,Wesel,14
+,,051,Übrige Kreise (Regierungsbezirk),32
+,,051,Reg.-Bez. Düsseldorf,424
+,,05314,"Bonn, Stadt",60
+,,05315,"Köln, Stadt",204
+,,05334,Städteregion Aachen,39
+,,05362,Rhein-Erft-Kreis,25
+,,05374,Oberbergischer Kreis,30
+,,05382,Rhein-Sieg-Kreis,37
+,,053,Übrige Kreise (Regierungsbezirk),26
+,,053,Reg.-Bez. Köln,421
+,,05515,"Münster, Stadt",16
+,,05562,Recklinghausen,17
+,,055,Übrige Kreise (Regierungsbezirk),32
+,,055,Reg.-Bez. Münster,65
+,,05754,Gütersloh,22
+,,05766,Lippe,18
+,,057,Übrige Kreise (Regierungsbezirk),28
+,,057,Reg.-Bez. Detmold,68
+,,05911,"Bochum, Stadt",31
+,,05913,"Dortmund, Stadt",34
+,,05970,Siegen-Wittgenstein,16
+,,05978,Unna,10
+,,059,Übrige Kreise (Regierungsbezirk),40
+,,059,Reg.-Bez. Arnsberg,131
+,,05,Nordrhein-Westfalen,"1,109"
+,,06412,"Frankfurt am Main, Stadt","7,971"
+,,06413,"Offenbach am Main, Stadt",391
+,,06414,"Wiesbaden, Landeshauptstadt",739
+,,06431,Bergstraße,964
+,,06432,Darmstadt-Dieburg,"6,965"
+,,06433,Groß-Gerau,"2,458"
+,,06434,Hochtaunuskreis,538
+,,06435,Main-Kinzig-Kreis,430
+,,06436,Main-Taunus-Kreis,903
+,,06437,Odenwaldkreis,215
+,,06438,Offenbach,"2,399"
+,,06439,Rheingau-Taunus-Kreis,106
+,,06440,Wetteraukreis,145
+,,064,Reg.-Bez. Darmstadt,"24,224"
+,,06531,Gießen,67
+,,06532,Lahn-Dill-Kreis,32
+,,06533,Limburg-Weilburg,55
+,,06534,Marburg-Biedenkopf,71
+,,06535,Vogelsbergkreis,19
+,,065,Reg.-Bez. Gießen,244
+,,06611,"Kassel, documenta-Stadt",74
+,,06631,Fulda,29
+,,06634,Schwalm-Eder-Kreis,11
+,,06635,Waldeck-Frankenberg,15
+,,066,Übrige Kreise (Regierungsbezirk),13
+,,066,Reg.-Bez. Kassel,142
+,,06,Hessen,"24,610"
+,,07111,"Koblenz, kreisfreie Stadt",21
+,,07133,Bad Kreuznach,17
+,,07135,Cochem-Zell,10
+,,07140,Rhein-Hunsrück-Kreis,19
+,,07141,Rhein-Lahn-Kreis,16
+,,07143,Westerwaldkreis,13
+,,07311,"Frankenthal (Pfalz), kr.f. St.",19
+,,07312,"Kaiserslautern, kreisfr. Stadt",36
+,,07313,"Landau in der Pfalz, kr.f. St.",18
+,,07314,"Ludwigshafen am Rhein, Stadt",159
+,,07315,"Mainz, kreisfreie Stadt",573
+,,07318,"Speyer, kreisfreie Stadt",15
+,,07319,"Worms, kreisfreie Stadt",84
+,,07331,Alzey-Worms,33
+,,07332,Bad Dürkheim,14
+,,07333,Donnersbergkreis,18
+,,07334,Germersheim,15
+,,07338,Rhein-Pfalz-Kreis,13
+,,07339,Mainz-Bingen,81
+,,070,Übrige Kreise (Regierungsbezirk),78
+,,070,Rheinland-Pfalz,"1,252"
+,,07,Rheinland-Pfalz,"1,252"
+,,08111,"Stuttgart, Landeshauptstadt",162
+,,08115,Böblingen,52
+,,08116,Esslingen,42
+,,08118,Ludwigsburg,46
+,,08119,Rems-Murr-Kreis,18
+,,08125,Heilbronn,41
+,,08126,Hohenlohekreis,12
+,,08127,Schwäbisch Hall,22
+,,08128,Main-Tauber-Kreis,16
+,,081,Übrige Kreise (Regierungsbezirk),22
+,,081,Reg.-Bez. Stuttgart,433
+,,08212,"Karlsruhe, Stadt",83
+,,08215,Karlsruhe,67
+,,08216,Rastatt,22
+,,08221,"Heidelberg, Stadt",201
+,,08222,"Mannheim, Universitätsstadt",443
+,,08226,Rhein-Neckar-Kreis,362
+,,082,Übrige Kreise (Regierungsbezirk),31
+,,082,Reg.-Bez. Karlsruhe,"1,209"
+,,08311,"Freiburg im Breisgau, Stadt",29
+,,08317,Ortenaukreis,26
+,,08336,Lörrach,16
+,,083,Übrige Kreise (Regierungsbezirk),40
+,,083,Reg.-Bez. Freiburg,111
+,,08415,Reutlingen,13
+,,08421,"Ulm, Universitätsstadt",14
+,,08435,Bodenseekreis,13
+,,08436,Ravensburg,14
+,,084,Übrige Kreise (Regierungsbezirk),24
+,,084,Reg.-Bez. Tübingen,78
+,,08,Baden-Württemberg,"1,831"
+,,09161,"Ingolstadt, Stadt",20
+,,09162,"München, Landeshauptstadt",299
+,,09178,Freising,23
+,,09184,München,83
+,,09188,Starnberg,77
+,,091,Übrige Kreise (Regierungsbezirk),64
+,,091,Oberbayern,566
+,,092,Niederbayern,16
+,,09362,"Regensburg, Stadt",12
+,,093,Übrige Kreise (Regierungsbezirk),10
+,,093,Oberpfalz,22
+,,094,Oberfranken,27
+,,09562,"Erlangen, Stadt",27
+,,09564,"Nürnberg, Stadt",60
+,,09572,Erlangen-Höchstadt,12
+,,095,Übrige Kreise (Regierungsbezirk),19
+,,095,Mittelfranken,118
+,,09661,"Aschaffenburg, Stadt",181
+,,09671,Aschaffenburg,139
+,,09672,Bad Kissingen,13
+,,09676,Miltenberg,68
+,,09677,Main-Spessart,16
+,,096,Übrige Kreise (Regierungsbezirk),29
+,,096,Unterfranken,446
+,,09761,"Augsburg, Stadt",23
+,,097,Übrige Kreise (Regierungsbezirk),33
+,,097,Schwaben,56
+,,09,Bayern,"1,251"
+,,10041,Regionalverband Saarbrücken,30
+,,10045,Saarpfalz-Kreis,10
+,,100,Übrige Kreise (Regierungsbezirk),15
+,,100,Saarland,55
+,,10,Saarland,55
+,,11000,"Berlin, Stadt",274
+,,110,Berlin,274
+,,11,Berlin,274
+,,12054,"Potsdam, Stadt",11
+,,12064,Märkisch-Oderland,12
+,,120,Übrige Kreise (Regierungsbezirk),23
+,,120,Brandenburg,46
+,,12,Brandenburg,46
+,,130,Mecklenburg-Vorpommern,12
+,,13,Mecklenburg-Vorpommern,12
+,,14511,"Chemnitz, Stadt",11
+,,14612,"Dresden, Stadt",21
+,,14713,"Leipzig, Stadt",22
+,,140,Übrige Kreise (Regierungsbezirk),16
+,,140,Sachsen,70
+,,14,Sachsen,70
+,,150,Sachsen-Anhalt,22
+,,15,Sachsen-Anhalt,22
+,,160,Thüringen,43
+,,16,Thüringen,43
+,,ZZ,Auspendler in das Bundesgebiet,"31,121"
+,,Z,Auspendler insgesamt,"31,121"
+06412,"Frankfurt am Main, Stadt",,,
+,,01001,"Flensburg, Stadt",14
+,,01002,"Kiel, Landeshauptstadt",35
+,,01003,"Lübeck, Hansestadt",72
+,,01053,Herzogtum Lauenburg,48
+,,01054,Nordfriesland,17
+,,01056,Pinneberg,24
+,,01059,Schleswig-Flensburg,12
+,,01060,Segeberg,60
+,,01062,Stormarn,31
+,,010,Übrige Kreise (Regierungsbezirk),35
+,,010,Schleswig-Holstein,348
+,,01,Schleswig-Holstein,348
+,,02000,"Hamburg, Freie und Hansestadt","1,482"
+,,020,Hamburg,"1,482"
+,,02,Hamburg,"1,482"
+,,03101,"Braunschweig, Stadt",78
+,,03102,"Salzgitter, Stadt",12
+,,03103,"Wolfsburg, Stadt",36
+,,03151,Gifhorn,13
+,,03155,Northeim,52
+,,03157,Peine,10
+,,03159,Göttingen,46
+,,031,Übrige Kreise (Regierungsbezirk),10
+,,031,Statistische Region Braunschweig,257
+,,03241,Region Hannover,249
+,,03251,Diepholz,13
+,,03252,Hameln-Pyrmont,17
+,,032,Übrige Kreise (Regierungsbezirk),25
+,,032,Statistische Region Hannover,304
+,,03351,Celle,17
+,,03353,Harburg,11
+,,03355,Lüneburg,14
+,,03357,Rotenburg (Wümme),11
+,,03359,Stade,13
+,,03361,Verden,12
+,,033,Übrige Kreise (Regierungsbezirk),26
+,,033,Statistische Region Lüneburg,104
+,,03403,"Oldenburg (Oldenburg), Stadt",31
+,,03404,"Osnabrück, Stadt",41
+,,03452,Aurich,11
+,,03453,Cloppenburg,15
+,,03454,Emsland,65
+,,03456,Grafschaft Bentheim,10
+,,03459,Osnabrück,15
+,,03460,Vechta,15
+,,034,Übrige Kreise (Regierungsbezirk),26
+,,034,Statistische Region Weser-Ems,229
+,,03,Niedersachsen,894
+,,04011,"Bremen, Stadt",133
+,,04012,"Bremerhaven, Stadt",12
+,,040,Bremen,145
+,,04,Bremen,145
+,,05111,"Düsseldorf, Stadt","1,494"
+,,05112,"Duisburg, Stadt",74
+,,05113,"Essen, Stadt",323
+,,05114,"Krefeld, Stadt",29
+,,05116,"Mönchengladbach, Stadt",67
+,,05117,"Mülheim an der Ruhr, Stadt",60
+,,05119,"Oberhausen, Stadt",28
+,,05122,"Solingen, Klingenstadt",19
+,,05124,"Wuppertal, Stadt",94
+,,05154,Kleve,43
+,,05158,Mettmann,166
+,,05162,Rhein-Kreis Neuss,81
+,,05166,Viersen,52
+,,05170,Wesel,32
+,,051,Übrige Kreise (Regierungsbezirk),9
+,,051,Reg.-Bez. Düsseldorf,"2,571"
+,,05314,"Bonn, Stadt",390
+,,05315,"Köln, Stadt","1,483"
+,,05316,"Leverkusen, Stadt",41
+,,05334,Städteregion Aachen,119
+,,05358,Düren,86
+,,05362,Rhein-Erft-Kreis,164
+,,05366,Euskirchen,22
+,,05374,Oberbergischer Kreis,80
+,,05378,Rheinisch-Bergischer Kreis,24
+,,05382,Rhein-Sieg-Kreis,209
+,,053,Übrige Kreise (Regierungsbezirk),9
+,,053,Reg.-Bez. Köln,"2,627"
+,,05513,"Gelsenkirchen, Stadt",56
+,,05515,"Münster, Stadt",141
+,,05554,Borken,26
+,,05558,Coesfeld,17
+,,05562,Recklinghausen,80
+,,05566,Steinfurt,60
+,,05570,Warendorf,16
+,,055,Übrige Kreise (Regierungsbezirk),8
+,,055,Reg.-Bez. Münster,404
+,,05711,"Bielefeld, Stadt",41
+,,05754,Gütersloh,74
+,,05758,Herford,12
+,,05766,Lippe,30
+,,05770,Minden-Lübbecke,30
+,,05774,Paderborn,28
+,,057,Übrige Kreise (Regierungsbezirk),7
+,,057,Reg.-Bez. Detmold,222
+,,05911,"Bochum, Stadt",69
+,,05913,"Dortmund, Stadt",358
+,,05914,"Hagen, Stadt der FernUniversi.",15
+,,05916,"Herne, Stadt",16
+,,05954,Ennepe-Ruhr-Kreis,40
+,,05958,Hochsauerlandkreis,18
+,,05962,Märkischer Kreis,32
+,,05966,Olpe,15
+,,05970,Siegen-Wittgenstein,100
+,,05974,Soest,19
+,,05978,Unna,77
+,,059,Übrige Kreise (Regierungsbezirk),8
+,,059,Reg.-Bez. Arnsberg,767
+,,05,Nordrhein-Westfalen,"6,591"
+,,06411,"Darmstadt, Wissenschaftsstadt","3,829"
+,,06413,"Offenbach am Main, Stadt","5,638"
+,,06414,"Wiesbaden, Landeshauptstadt","3,876"
+,,06431,Bergstraße,370
+,,06432,Darmstadt-Dieburg,"1,466"
+,,06433,Groß-Gerau,"5,773"
+,,06434,Hochtaunuskreis,"11,984"
+,,06435,Main-Kinzig-Kreis,"4,384"
+,,06436,Main-Taunus-Kreis,"18,347"
+,,06437,Odenwaldkreis,103
+,,06438,Offenbach,"10,201"
+,,06439,Rheingau-Taunus-Kreis,785
+,,06440,Wetteraukreis,"4,134"
+,,064,Reg.-Bez. Darmstadt,"70,890"
+,,06531,Gießen,660
+,,06532,Lahn-Dill-Kreis,267
+,,06533,Limburg-Weilburg,511
+,,06534,Marburg-Biedenkopf,634
+,,06535,Vogelsbergkreis,148
+,,065,Reg.-Bez. Gießen,"2,220"
+,,06611,"Kassel, documenta-Stadt",244
+,,06631,Fulda,189
+,,06632,Hersfeld-Rotenburg,51
+,,06633,Kassel,18
+,,06634,Schwalm-Eder-Kreis,33
+,,06635,Waldeck-Frankenberg,31
+,,066,Übrige Kreise (Regierungsbezirk),8
+,,066,Reg.-Bez. Kassel,574
+,,06,Hessen,"73,684"
+,,07111,"Koblenz, kreisfreie Stadt",106
+,,07132,Altenkirchen (Westerwald),25
+,,07133,Bad Kreuznach,101
+,,07134,Birkenfeld,24
+,,07135,Cochem-Zell,13
+,,07137,Mayen-Koblenz,44
+,,07138,Neuwied,28
+,,07140,Rhein-Hunsrück-Kreis,63
+,,07141,Rhein-Lahn-Kreis,71
+,,07143,Westerwaldkreis,131
+,,07211,"Trier, kreisfreie Stadt",32
+,,07232,Eifelkreis Bitburg-Prüm,13
+,,07233,Vulkaneifel,50
+,,07235,Trier-Saarburg,24
+,,07311,"Frankenthal (Pfalz), kr.f. St.",39
+,,07312,"Kaiserslautern, kreisfr. Stadt",62
+,,07313,"Landau in der Pfalz, kr.f. St.",11
+,,07314,"Ludwigshafen am Rhein, Stadt",436
+,,07315,"Mainz, kreisfreie Stadt","1,693"
+,,07316,"Neustadt an der Weinstraße,St.",11
+,,07318,"Speyer, kreisfreie Stadt",16
+,,07319,"Worms, kreisfreie Stadt",44
+,,07331,Alzey-Worms,116
+,,07332,Bad Dürkheim,26
+,,07333,Donnersbergkreis,14
+,,07334,Germersheim,31
+,,07335,Kaiserslautern,26
+,,07337,Südliche Weinstraße,18
+,,07338,Rhein-Pfalz-Kreis,43
+,,07339,Mainz-Bingen,521
+,,070,Übrige Kreise (Regierungsbezirk),41
+,,070,Rheinland-Pfalz,"3,873"
+,,07,Rheinland-Pfalz,"3,873"
+,,08111,"Stuttgart, Landeshauptstadt",655
+,,08115,Böblingen,120
+,,08116,Esslingen,148
+,,08117,Göppingen,43
+,,08118,Ludwigsburg,194
+,,08119,Rems-Murr-Kreis,65
+,,08121,"Heilbronn, Stadt",48
+,,08125,Heilbronn,83
+,,08126,Hohenlohekreis,24
+,,08127,Schwäbisch Hall,32
+,,08128,Main-Tauber-Kreis,44
+,,08135,Heidenheim,14
+,,08136,Ostalbkreis,41
+,,081,Reg.-Bez. Stuttgart,"1,511"
+,,08211,"Baden-Baden, Stadt",44
+,,08212,"Karlsruhe, Stadt",235
+,,08215,Karlsruhe,97
+,,08216,Rastatt,38
+,,08221,"Heidelberg, Stadt",325
+,,08222,"Mannheim, Universitätsstadt",747
+,,08225,Neckar-Odenwald-Kreis,24
+,,08226,Rhein-Neckar-Kreis,419
+,,08231,"Pforzheim, Stadt",62
+,,08235,Calw,10
+,,08236,Enzkreis,11
+,,08237,Freudenstadt,13
+,,082,Reg.-Bez. Karlsruhe,"2,025"
+,,08311,"Freiburg im Breisgau, Stadt",92
+,,08315,Breisgau-Hochschwarzwald,30
+,,08316,Emmendingen,14
+,,08317,Ortenaukreis,125
+,,08325,Rottweil,14
+,,08326,Schwarzwald-Baar-Kreis,27
+,,08327,Tuttlingen,14
+,,08335,Konstanz,40
+,,08336,Lörrach,59
+,,08337,Waldshut,21
+,,083,Reg.-Bez. Freiburg,436
+,,08415,Reutlingen,53
+,,08416,Tübingen,59
+,,08417,Zollernalbkreis,21
+,,08421,"Ulm, Universitätsstadt",32
+,,08425,Alb-Donau-Kreis,14
+,,08426,Biberach,12
+,,08435,Bodenseekreis,38
+,,08436,Ravensburg,45
+,,08437,Sigmaringen,11
+,,084,Reg.-Bez. Tübingen,285
+,,08,Baden-Württemberg,"4,257"
+,,09161,"Ingolstadt, Stadt",66
+,,09162,"München, Landeshauptstadt","2,297"
+,,09172,Berchtesgadener Land,18
+,,09174,Dachau,19
+,,09175,Ebersberg,24
+,,09177,Erding,25
+,,09178,Freising,206
+,,09179,Fürstenfeldbruck,21
+,,09181,Landsberg am Lech,10
+,,09182,Miesbach,26
+,,09184,München,400
+,,09186,Pfaffenhofen a.d.Ilm,15
+,,09187,Rosenheim,19
+,,09188,Starnberg,59
+,,09189,Traunstein,23
+,,09190,Weilheim-Schongau,11
+,,091,Übrige Kreise (Regierungsbezirk),47
+,,091,Oberbayern,"3,286"
+,,09261,"Landshut, Stadt",13
+,,09271,Deggendorf,15
+,,09274,Landshut,13
+,,09275,Passau,10
+,,09277,Rottal-Inn,11
+,,09279,Dingolfing-Landau,10
+,,092,Übrige Kreise (Regierungsbezirk),20
+,,092,Niederbayern,92
+,,09362,"Regensburg, Stadt",55
+,,09363,"Weiden i.d.OPf., Stadt",10
+,,09371,Amberg-Sulzbach,10
+,,09372,Cham,13
+,,09373,Neumarkt i.d.OPf.,25
+,,09374,Neustadt a.d.Waldnaab,10
+,,093,Übrige Kreise (Regierungsbezirk),14
+,,093,Oberpfalz,137
+,,09461,"Bamberg, Stadt",23
+,,09462,"Bayreuth, Stadt",22
+,,09463,"Coburg, Stadt",13
+,,09471,Bamberg,12
+,,09475,Hof,23
+,,094,Übrige Kreise (Regierungsbezirk),29
+,,094,Oberfranken,122
+,,09562,"Erlangen, Stadt",124
+,,09563,"Fürth, Stadt",15
+,,09564,"Nürnberg, Stadt",360
+,,09565,"Schwabach, Stadt",15
+,,09571,Ansbach,17
+,,09572,Erlangen-Höchstadt,36
+,,09573,Fürth,11
+,,09574,Nürnberger Land,26
+,,09575,Neustadt a.d.Aisch-Bad Windsh.,12
+,,09576,Roth,13
+,,095,Übrige Kreise (Regierungsbezirk),8
+,,095,Mittelfranken,637
+,,09661,"Aschaffenburg, Stadt",483
+,,09662,"Schweinfurt, Stadt",15
+,,09663,"Würzburg, Stadt",91
+,,09671,Aschaffenburg,533
+,,09672,Bad Kissingen,33
+,,09673,Rhön-Grabfeld,14
+,,09675,Kitzingen,13
+,,09676,Miltenberg,426
+,,09677,Main-Spessart,76
+,,09679,Würzburg,25
+,,096,Übrige Kreise (Regierungsbezirk),11
+,,096,Unterfranken,"1,720"
+,,09761,"Augsburg, Stadt",61
+,,09763,"Kempten (Allgäu), Stadt",22
+,,09771,Aichach-Friedberg,20
+,,09772,Augsburg,23
+,,09775,Neu-Ulm,37
+,,09776,Lindau (Bodensee),23
+,,09779,Donau-Ries,10
+,,09780,Oberallgäu,11
+,,097,Übrige Kreise (Regierungsbezirk),38
+,,097,Schwaben,245
+,,09,Bayern,"6,239"
+,,10041,Regionalverband Saarbrücken,339
+,,10042,Merzig-Wadern,24
+,,10043,Neunkirchen,16
+,,10044,Saarlouis,23
+,,10045,Saarpfalz-Kreis,35
+,,10046,St. Wendel,11
+,,100,Saarland,448
+,,10,Saarland,448
+,,11000,"Berlin, Stadt","2,003"
+,,110,Berlin,"2,003"
+,,11,Berlin,"2,003"
+,,12054,"Potsdam, Stadt",66
+,,12061,Dahme-Spreewald,18
+,,12065,Oberhavel,10
+,,12067,Oder-Spree,12
+,,12069,Potsdam-Mittelmark,33
+,,120,Übrige Kreise (Regierungsbezirk),47
+,,120,Brandenburg,186
+,,12,Brandenburg,186
+,,130,Mecklenburg-Vorpommern,44
+,,13,Mecklenburg-Vorpommern,44
+,,14511,"Chemnitz, Stadt",25
+,,14521,Erzgebirgskreis,14
+,,14522,Mittelsachsen,11
+,,14523,Vogtlandkreis,12
+,,14524,Zwickau,10
+,,14612,"Dresden, Stadt",100
+,,14625,Bautzen,19
+,,14626,Görlitz,17
+,,14627,Meißen,15
+,,14713,"Leipzig, Stadt",134
+,,14729,Leipzig,17
+,,14730,Nordsachsen,18
+,,140,Übrige Kreise (Regierungsbezirk),8
+,,140,Sachsen,400
+,,14,Sachsen,400
+,,15002,"Halle (Saale), Stadt",19
+,,15003,"Magdeburg, Landeshauptstadt",43
+,,15088,Saalekreis,14
+,,15091,Wittenberg,14
+,,150,Übrige Kreise (Regierungsbezirk),43
+,,150,Sachsen-Anhalt,133
+,,15,Sachsen-Anhalt,133
+,,16051,"Erfurt, Stadt",36
+,,16053,"Jena, Stadt",24
+,,16061,Eichsfeld,19
+,,16063,Wartburgkreis,11
+,,16064,Unstrut-Hainich-Kreis,22
+,,16067,Gotha,19
+,,16070,Ilm-Kreis,16
+,,160,Übrige Kreise (Regierungsbezirk),56
+,,160,Thüringen,203
+,,16,Thüringen,203
+,,ZZ,Auspendler in das Bundesgebiet,"100,930"
+,,Z,Auspendler insgesamt,"100,930"
+06413,"Offenbach am Main, Stadt",,,
+,,01003,"Lübeck, Hansestadt",17
+,,01053,Herzogtum Lauenburg,14
+,,01060,Segeberg,11
+,,010,Übrige Kreise (Regierungsbezirk),31
+,,010,Schleswig-Holstein,73
+,,01,Schleswig-Holstein,73
+,,02000,"Hamburg, Freie und Hansestadt",224
+,,020,Hamburg,224
+,,02,Hamburg,224
+,,03155,Northeim,14
+,,031,Übrige Kreise (Regierungsbezirk),21
+,,031,Statistische Region Braunschweig,35
+,,03241,Region Hannover,41
+,,032,Übrige Kreise (Regierungsbezirk),7
+,,032,Statistische Region Hannover,48
+,,033,Statistische Region Lüneburg,18
+,,03454,Emsland,17
+,,03460,Vechta,19
+,,034,Übrige Kreise (Regierungsbezirk),21
+,,034,Statistische Region Weser-Ems,57
+,,03,Niedersachsen,158
+,,04011,"Bremen, Stadt",25
+,,040,Übrige Kreise (Regierungsbezirk),*
+,,040,Bremen,26
+,,04,Bremen,26
+,,05111,"Düsseldorf, Stadt",163
+,,05112,"Duisburg, Stadt",13
+,,05113,"Essen, Stadt",36
+,,05119,"Oberhausen, Stadt",10
+,,05158,Mettmann,41
+,,05162,Rhein-Kreis Neuss,20
+,,051,Übrige Kreise (Regierungsbezirk),50
+,,051,Reg.-Bez. Düsseldorf,333
+,,05314,"Bonn, Stadt",30
+,,05315,"Köln, Stadt",248
+,,05334,Städteregion Aachen,19
+,,05358,Düren,13
+,,05362,Rhein-Erft-Kreis,23
+,,05374,Oberbergischer Kreis,13
+,,05382,Rhein-Sieg-Kreis,47
+,,053,Übrige Kreise (Regierungsbezirk),20
+,,053,Reg.-Bez. Köln,413
+,,05515,"Münster, Stadt",12
+,,05562,Recklinghausen,15
+,,055,Übrige Kreise (Regierungsbezirk),27
+,,055,Reg.-Bez. Münster,54
+,,05754,Gütersloh,12
+,,057,Übrige Kreise (Regierungsbezirk),24
+,,057,Reg.-Bez. Detmold,36
+,,05913,"Dortmund, Stadt",47
+,,05970,Siegen-Wittgenstein,20
+,,05978,Unna,11
+,,059,Übrige Kreise (Regierungsbezirk),37
+,,059,Reg.-Bez. Arnsberg,115
+,,05,Nordrhein-Westfalen,951
+,,06411,"Darmstadt, Wissenschaftsstadt",523
+,,06412,"Frankfurt am Main, Stadt","20,883"
+,,06414,"Wiesbaden, Landeshauptstadt",450
+,,06431,Bergstraße,73
+,,06432,Darmstadt-Dieburg,413
+,,06433,Groß-Gerau,"1,243"
+,,06434,Hochtaunuskreis,972
+,,06435,Main-Kinzig-Kreis,"1,830"
+,,06436,Main-Taunus-Kreis,"1,251"
+,,06437,Odenwaldkreis,36
+,,06438,Offenbach,"6,727"
+,,06439,Rheingau-Taunus-Kreis,116
+,,06440,Wetteraukreis,669
+,,064,Reg.-Bez. Darmstadt,"35,186"
+,,06531,Gießen,99
+,,06532,Lahn-Dill-Kreis,42
+,,06533,Limburg-Weilburg,72
+,,06534,Marburg-Biedenkopf,58
+,,06535,Vogelsbergkreis,23
+,,065,Reg.-Bez. Gießen,294
+,,06611,"Kassel, documenta-Stadt",20
+,,06631,Fulda,63
+,,06632,Hersfeld-Rotenburg,12
+,,066,Übrige Kreise (Regierungsbezirk),18
+,,066,Reg.-Bez. Kassel,113
+,,06,Hessen,"35,593"
+,,07132,Altenkirchen (Westerwald),11
+,,07133,Bad Kreuznach,35
+,,07137,Mayen-Koblenz,20
+,,07140,Rhein-Hunsrück-Kreis,17
+,,07143,Westerwaldkreis,15
+,,07314,"Ludwigshafen am Rhein, Stadt",49
+,,07315,"Mainz, kreisfreie Stadt",250
+,,07318,"Speyer, kreisfreie Stadt",36
+,,07331,Alzey-Worms,19
+,,07338,Rhein-Pfalz-Kreis,14
+,,07339,Mainz-Bingen,63
+,,070,Übrige Kreise (Regierungsbezirk),91
+,,070,Rheinland-Pfalz,620
+,,07,Rheinland-Pfalz,620
+,,08111,"Stuttgart, Landeshauptstadt",89
+,,08115,Böblingen,11
+,,08116,Esslingen,22
+,,08118,Ludwigsburg,25
+,,08119,Rems-Murr-Kreis,10
+,,08121,"Heilbronn, Stadt",13
+,,08125,Heilbronn,19
+,,081,Übrige Kreise (Regierungsbezirk),30
+,,081,Reg.-Bez. Stuttgart,219
+,,08212,"Karlsruhe, Stadt",19
+,,08215,Karlsruhe,18
+,,08221,"Heidelberg, Stadt",24
+,,08222,"Mannheim, Universitätsstadt",117
+,,08226,Rhein-Neckar-Kreis,80
+,,082,Übrige Kreise (Regierungsbezirk),28
+,,082,Reg.-Bez. Karlsruhe,286
+,,08311,"Freiburg im Breisgau, Stadt",11
+,,08317,Ortenaukreis,26
+,,083,Übrige Kreise (Regierungsbezirk),44
+,,083,Reg.-Bez. Freiburg,81
+,,084,Reg.-Bez. Tübingen,41
+,,08,Baden-Württemberg,627
+,,09161,"Ingolstadt, Stadt",10
+,,09162,"München, Landeshauptstadt",284
+,,09178,Freising,19
+,,09184,München,60
+,,091,Übrige Kreise (Regierungsbezirk),47
+,,091,Oberbayern,420
+,,092,Niederbayern,14
+,,093,Oberpfalz,30
+,,09471,Bamberg,10
+,,094,Übrige Kreise (Regierungsbezirk),16
+,,094,Oberfranken,26
+,,09562,"Erlangen, Stadt",35
+,,09564,"Nürnberg, Stadt",67
+,,095,Übrige Kreise (Regierungsbezirk),35
+,,095,Mittelfranken,137
+,,09661,"Aschaffenburg, Stadt",164
+,,09663,"Würzburg, Stadt",14
+,,09671,Aschaffenburg,250
+,,09676,Miltenberg,81
+,,09677,Main-Spessart,20
+,,096,Übrige Kreise (Regierungsbezirk),32
+,,096,Unterfranken,561
+,,09761,"Augsburg, Stadt",11
+,,097,Übrige Kreise (Regierungsbezirk),32
+,,097,Schwaben,43
+,,09,Bayern,"1,231"
+,,10041,Regionalverband Saarbrücken,23
+,,100,Übrige Kreise (Regierungsbezirk),20
+,,100,Saarland,43
+,,10,Saarland,43
+,,11000,"Berlin, Stadt",225
+,,110,Berlin,225
+,,11,Berlin,225
+,,12069,Potsdam-Mittelmark,18
+,,12071,Spree-Neiße,12
+,,120,Übrige Kreise (Regierungsbezirk),22
+,,120,Brandenburg,52
+,,12,Brandenburg,52
+,,14511,"Chemnitz, Stadt",11
+,,14612,"Dresden, Stadt",13
+,,14713,"Leipzig, Stadt",14
+,,140,Übrige Kreise (Regierungsbezirk),17
+,,140,Sachsen,55
+,,14,Sachsen,55
+,,150,Sachsen-Anhalt,22
+,,15,Sachsen-Anhalt,22
+,,16051,"Erfurt, Stadt",10
+,,160,Übrige Kreise (Regierungsbezirk),34
+,,160,Thüringen,44
+,,16,Thüringen,44
+,,ZZ,Übrige Bundesländer,7
+,,ZZ,Auspendler in das Bundesgebiet,"39,951"
+,,Z,Auspendler insgesamt,"39,951"
+06414,"Wiesbaden, Landeshauptstadt",,,
+,,01003,"Lübeck, Hansestadt",22
+,,01053,Herzogtum Lauenburg,11
+,,01056,Pinneberg,14
+,,01060,Segeberg,20
+,,01062,Stormarn,16
+,,010,Übrige Kreise (Regierungsbezirk),26
+,,010,Schleswig-Holstein,109
+,,01,Schleswig-Holstein,109
+,,02000,"Hamburg, Freie und Hansestadt",363
+,,020,Hamburg,363
+,,02,Hamburg,363
+,,03101,"Braunschweig, Stadt",11
+,,03103,"Wolfsburg, Stadt",17
+,,03159,Göttingen,17
+,,031,Übrige Kreise (Regierungsbezirk),14
+,,031,Statistische Region Braunschweig,59
+,,03241,Region Hannover,81
+,,032,Übrige Kreise (Regierungsbezirk),25
+,,032,Statistische Region Hannover,106
+,,033,Statistische Region Lüneburg,34
+,,03404,"Osnabrück, Stadt",27
+,,034,Übrige Kreise (Regierungsbezirk),42
+,,034,Statistische Region Weser-Ems,69
+,,03,Niedersachsen,268
+,,04011,"Bremen, Stadt",30
+,,040,Übrige Kreise (Regierungsbezirk),*
+,,040,Bremen,32
+,,04,Bremen,32
+,,05111,"Düsseldorf, Stadt",278
+,,05112,"Duisburg, Stadt",21
+,,05113,"Essen, Stadt",81
+,,05114,"Krefeld, Stadt",19
+,,05116,"Mönchengladbach, Stadt",13
+,,05117,"Mülheim an der Ruhr, Stadt",10
+,,05122,"Solingen, Klingenstadt",13
+,,05124,"Wuppertal, Stadt",31
+,,05154,Kleve,23
+,,05158,Mettmann,52
+,,05162,Rhein-Kreis Neuss,86
+,,05166,Viersen,23
+,,05170,Wesel,19
+,,051,Übrige Kreise (Regierungsbezirk),7
+,,051,Reg.-Bez. Düsseldorf,676
+,,05314,"Bonn, Stadt",86
+,,05315,"Köln, Stadt",380
+,,05316,"Leverkusen, Stadt",13
+,,05334,Städteregion Aachen,39
+,,05362,Rhein-Erft-Kreis,42
+,,05374,Oberbergischer Kreis,30
+,,05378,Rheinisch-Bergischer Kreis,14
+,,05382,Rhein-Sieg-Kreis,73
+,,053,Übrige Kreise (Regierungsbezirk),12
+,,053,Reg.-Bez. Köln,689
+,,05515,"Münster, Stadt",27
+,,05562,Recklinghausen,19
+,,05566,Steinfurt,11
+,,055,Übrige Kreise (Regierungsbezirk),34
+,,055,Reg.-Bez. Münster,91
+,,05711,"Bielefeld, Stadt",23
+,,05754,Gütersloh,12
+,,05766,Lippe,16
+,,05770,Minden-Lübbecke,13
+,,05774,Paderborn,25
+,,057,Übrige Kreise (Regierungsbezirk),10
+,,057,Reg.-Bez. Detmold,99
+,,05911,"Bochum, Stadt",24
+,,05913,"Dortmund, Stadt",66
+,,05954,Ennepe-Ruhr-Kreis,16
+,,05958,Hochsauerlandkreis,28
+,,05962,Märkischer Kreis,10
+,,05970,Siegen-Wittgenstein,26
+,,05978,Unna,15
+,,059,Übrige Kreise (Regierungsbezirk),27
+,,059,Reg.-Bez. Arnsberg,212
+,,05,Nordrhein-Westfalen,"1,767"
+,,06411,"Darmstadt, Wissenschaftsstadt",904
+,,06412,"Frankfurt am Main, Stadt","12,910"
+,,06413,"Offenbach am Main, Stadt",333
+,,06431,Bergstraße,113
+,,06432,Darmstadt-Dieburg,328
+,,06433,Groß-Gerau,"4,132"
+,,06434,Hochtaunuskreis,"1,034"
+,,06435,Main-Kinzig-Kreis,372
+,,06436,Main-Taunus-Kreis,"4,707"
+,,06437,Odenwaldkreis,25
+,,06438,Offenbach,"1,115"
+,,06439,Rheingau-Taunus-Kreis,"4,544"
+,,06440,Wetteraukreis,216
+,,064,Reg.-Bez. Darmstadt,"30,733"
+,,06531,Gießen,113
+,,06532,Lahn-Dill-Kreis,103
+,,06533,Limburg-Weilburg,370
+,,06534,Marburg-Biedenkopf,104
+,,06535,Vogelsbergkreis,10
+,,065,Reg.-Bez. Gießen,700
+,,06611,"Kassel, documenta-Stadt",91
+,,06631,Fulda,41
+,,06632,Hersfeld-Rotenburg,16
+,,06633,Kassel,10
+,,06634,Schwalm-Eder-Kreis,25
+,,06635,Waldeck-Frankenberg,24
+,,066,Übrige Kreise (Regierungsbezirk),5
+,,066,Reg.-Bez. Kassel,212
+,,06,Hessen,"31,645"
+,,07111,"Koblenz, kreisfreie Stadt",97
+,,07132,Altenkirchen (Westerwald),24
+,,07133,Bad Kreuznach,271
+,,07134,Birkenfeld,25
+,,07135,Cochem-Zell,16
+,,07137,Mayen-Koblenz,30
+,,07138,Neuwied,37
+,,07140,Rhein-Hunsrück-Kreis,102
+,,07141,Rhein-Lahn-Kreis,139
+,,07143,Westerwaldkreis,72
+,,07211,"Trier, kreisfreie Stadt",26
+,,07231,Bernkastel-Wittlich,22
+,,07232,Eifelkreis Bitburg-Prüm,21
+,,07311,"Frankenthal (Pfalz), kr.f. St.",25
+,,07312,"Kaiserslautern, kreisfr. Stadt",60
+,,07314,"Ludwigshafen am Rhein, Stadt",126
+,,07315,"Mainz, kreisfreie Stadt","9,081"
+,,07317,"Pirmasens, kreisfreie Stadt",12
+,,07319,"Worms, kreisfreie Stadt",65
+,,07320,"Zweibrücken, kreisfreie Stadt",24
+,,07331,Alzey-Worms,239
+,,07332,Bad Dürkheim,13
+,,07333,Donnersbergkreis,48
+,,07334,Germersheim,13
+,,07335,Kaiserslautern,23
+,,07338,Rhein-Pfalz-Kreis,16
+,,07339,Mainz-Bingen,"1,539"
+,,070,Übrige Kreise (Regierungsbezirk),52
+,,070,Rheinland-Pfalz,"12,218"
+,,07,Rheinland-Pfalz,"12,218"
+,,08111,"Stuttgart, Landeshauptstadt",240
+,,08115,Böblingen,34
+,,08116,Esslingen,46
+,,08118,Ludwigsburg,63
+,,08119,Rems-Murr-Kreis,22
+,,08121,"Heilbronn, Stadt",15
+,,08125,Heilbronn,32
+,,08128,Main-Tauber-Kreis,27
+,,08136,Ostalbkreis,13
+,,081,Übrige Kreise (Regierungsbezirk),28
+,,081,Reg.-Bez. Stuttgart,520
+,,08212,"Karlsruhe, Stadt",70
+,,08215,Karlsruhe,26
+,,08216,Rastatt,11
+,,08221,"Heidelberg, Stadt",68
+,,08222,"Mannheim, Universitätsstadt",235
+,,08226,Rhein-Neckar-Kreis,147
+,,082,Übrige Kreise (Regierungsbezirk),32
+,,082,Reg.-Bez. Karlsruhe,589
+,,08311,"Freiburg im Breisgau, Stadt",27
+,,08317,Ortenaukreis,25
+,,08335,Konstanz,10
+,,08336,Lörrach,30
+,,083,Übrige Kreise (Regierungsbezirk),20
+,,083,Reg.-Bez. Freiburg,112
+,,08415,Reutlingen,13
+,,08416,Tübingen,12
+,,08421,"Ulm, Universitätsstadt",18
+,,08426,Biberach,11
+,,08436,Ravensburg,13
+,,084,Übrige Kreise (Regierungsbezirk),15
+,,084,Reg.-Bez. Tübingen,82
+,,08,Baden-Württemberg,"1,303"
+,,09161,"Ingolstadt, Stadt",14
+,,09162,"München, Landeshauptstadt",508
+,,09178,Freising,51
+,,09184,München,136
+,,09186,Pfaffenhofen a.d.Ilm,15
+,,09187,Rosenheim,10
+,,09188,Starnberg,13
+,,091,Übrige Kreise (Regierungsbezirk),68
+,,091,Oberbayern,815
+,,092,Niederbayern,24
+,,09362,"Regensburg, Stadt",15
+,,093,Übrige Kreise (Regierungsbezirk),30
+,,093,Oberpfalz,45
+,,09475,Hof,29
+,,094,Übrige Kreise (Regierungsbezirk),32
+,,094,Oberfranken,61
+,,09562,"Erlangen, Stadt",25
+,,09564,"Nürnberg, Stadt",86
+,,09572,Erlangen-Höchstadt,10
+,,09575,Neustadt a.d.Aisch-Bad Windsh.,13
+,,095,Übrige Kreise (Regierungsbezirk),38
+,,095,Mittelfranken,172
+,,09661,"Aschaffenburg, Stadt",86
+,,09663,"Würzburg, Stadt",27
+,,09671,Aschaffenburg,60
+,,09675,Kitzingen,11
+,,09676,Miltenberg,31
+,,09677,Main-Spessart,20
+,,09679,Würzburg,17
+,,096,Übrige Kreise (Regierungsbezirk),26
+,,096,Unterfranken,278
+,,09761,"Augsburg, Stadt",18
+,,09772,Augsburg,16
+,,09775,Neu-Ulm,10
+,,09776,Lindau (Bodensee),14
+,,09780,Oberallgäu,42
+,,097,Übrige Kreise (Regierungsbezirk),21
+,,097,Schwaben,121
+,,09,Bayern,"1,516"
+,,10041,Regionalverband Saarbrücken,80
+,,10042,Merzig-Wadern,21
+,,10043,Neunkirchen,11
+,,10044,Saarlouis,19
+,,10045,Saarpfalz-Kreis,22
+,,100,Übrige Kreise (Regierungsbezirk),6
+,,100,Saarland,159
+,,10,Saarland,159
+,,11000,"Berlin, Stadt",467
+,,110,Berlin,467
+,,11,Berlin,467
+,,12054,"Potsdam, Stadt",15
+,,12069,Potsdam-Mittelmark,10
+,,120,Übrige Kreise (Regierungsbezirk),24
+,,120,Brandenburg,49
+,,12,Brandenburg,49
+,,130,Mecklenburg-Vorpommern,12
+,,13,Mecklenburg-Vorpommern,12
+,,14511,"Chemnitz, Stadt",14
+,,14612,"Dresden, Stadt",14
+,,14713,"Leipzig, Stadt",23
+,,140,Übrige Kreise (Regierungsbezirk),40
+,,140,Sachsen,91
+,,14,Sachsen,91
+,,150,Sachsen-Anhalt,33
+,,15,Sachsen-Anhalt,33
+,,160,Thüringen,60
+,,16,Thüringen,60
+,,ZZ,Auspendler in das Bundesgebiet,"50,092"
+,,Z,Auspendler insgesamt,"50,092"
+06431,Bergstraße,,,
+,,01059,Schleswig-Flensburg,16
+,,01060,Segeberg,12
+,,01062,Stormarn,15
+,,010,Übrige Kreise (Regierungsbezirk),34
+,,010,Schleswig-Holstein,77
+,,01,Schleswig-Holstein,77
+,,02000,"Hamburg, Freie und Hansestadt",204
+,,020,Hamburg,204
+,,02,Hamburg,204
+,,03101,"Braunschweig, Stadt",16
+,,031,Übrige Kreise (Regierungsbezirk),25
+,,031,Statistische Region Braunschweig,41
+,,03241,Region Hannover,45
+,,032,Übrige Kreise (Regierungsbezirk),28
+,,032,Statistische Region Hannover,73
+,,03353,Harburg,11
+,,033,Übrige Kreise (Regierungsbezirk),29
+,,033,Statistische Region Lüneburg,40
+,,03404,"Osnabrück, Stadt",14
+,,03454,Emsland,18
+,,03459,Osnabrück,53
+,,034,Übrige Kreise (Regierungsbezirk),35
+,,034,Statistische Region Weser-Ems,120
+,,03,Niedersachsen,274
+,,04011,"Bremen, Stadt",28
+,,040,Bremen,28
+,,04,Bremen,28
+,,05111,"Düsseldorf, Stadt",129
+,,05112,"Duisburg, Stadt",82
+,,05113,"Essen, Stadt",178
+,,05114,"Krefeld, Stadt",17
+,,05119,"Oberhausen, Stadt",21
+,,05124,"Wuppertal, Stadt",20
+,,05154,Kleve,14
+,,05158,Mettmann,56
+,,05162,Rhein-Kreis Neuss,25
+,,05166,Viersen,19
+,,05170,Wesel,17
+,,051,Übrige Kreise (Regierungsbezirk),23
+,,051,Reg.-Bez. Düsseldorf,601
+,,05314,"Bonn, Stadt",32
+,,05315,"Köln, Stadt",217
+,,05316,"Leverkusen, Stadt",17
+,,05334,Städteregion Aachen,25
+,,05362,Rhein-Erft-Kreis,35
+,,05370,Heinsberg,11
+,,05374,Oberbergischer Kreis,29
+,,05378,Rheinisch-Bergischer Kreis,13
+,,05382,Rhein-Sieg-Kreis,27
+,,053,Übrige Kreise (Regierungsbezirk),12
+,,053,Reg.-Bez. Köln,418
+,,05515,"Münster, Stadt",15
+,,05562,Recklinghausen,30
+,,05566,Steinfurt,11
+,,055,Übrige Kreise (Regierungsbezirk),26
+,,055,Reg.-Bez. Münster,82
+,,05711,"Bielefeld, Stadt",25
+,,05754,Gütersloh,36
+,,05758,Herford,10
+,,05766,Lippe,19
+,,057,Übrige Kreise (Regierungsbezirk),9
+,,057,Reg.-Bez. Detmold,99
+,,05911,"Bochum, Stadt",14
+,,05913,"Dortmund, Stadt",40
+,,05916,"Herne, Stadt",11
+,,05954,Ennepe-Ruhr-Kreis,26
+,,05958,Hochsauerlandkreis,23
+,,05962,Märkischer Kreis,11
+,,05970,Siegen-Wittgenstein,19
+,,05978,Unna,29
+,,059,Übrige Kreise (Regierungsbezirk),17
+,,059,Reg.-Bez. Arnsberg,190
+,,05,Nordrhein-Westfalen,"1,390"
+,,06411,"Darmstadt, Wissenschaftsstadt","4,992"
+,,06412,"Frankfurt am Main, Stadt","3,878"
+,,06413,"Offenbach am Main, Stadt",163
+,,06414,"Wiesbaden, Landeshauptstadt",387
+,,06432,Darmstadt-Dieburg,"3,012"
+,,06433,Groß-Gerau,"2,037"
+,,06434,Hochtaunuskreis,222
+,,06435,Main-Kinzig-Kreis,171
+,,06436,Main-Taunus-Kreis,443
+,,06437,Odenwaldkreis,989
+,,06438,Offenbach,747
+,,06439,Rheingau-Taunus-Kreis,60
+,,06440,Wetteraukreis,105
+,,064,Reg.-Bez. Darmstadt,"17,206"
+,,06531,Gießen,30
+,,06532,Lahn-Dill-Kreis,32
+,,06533,Limburg-Weilburg,50
+,,06534,Marburg-Biedenkopf,29
+,,065,Übrige Kreise (Regierungsbezirk),5
+,,065,Reg.-Bez. Gießen,146
+,,06611,"Kassel, documenta-Stadt",50
+,,06631,Fulda,28
+,,06632,Hersfeld-Rotenburg,13
+,,06633,Kassel,11
+,,06634,Schwalm-Eder-Kreis,28
+,,066,Übrige Kreise (Regierungsbezirk),12
+,,066,Reg.-Bez. Kassel,142
+,,06,Hessen,"17,494"
+,,07111,"Koblenz, kreisfreie Stadt",27
+,,07133,Bad Kreuznach,28
+,,07137,Mayen-Koblenz,14
+,,07138,Neuwied,11
+,,07140,Rhein-Hunsrück-Kreis,18
+,,07141,Rhein-Lahn-Kreis,17
+,,07143,Westerwaldkreis,18
+,,07231,Bernkastel-Wittlich,11
+,,07311,"Frankenthal (Pfalz), kr.f. St.",501
+,,07312,"Kaiserslautern, kreisfr. Stadt",82
+,,07313,"Landau in der Pfalz, kr.f. St.",59
+,,07314,"Ludwigshafen am Rhein, Stadt","2,760"
+,,07315,"Mainz, kreisfreie Stadt",347
+,,07316,"Neustadt an der Weinstraße,St.",82
+,,07318,"Speyer, kreisfreie Stadt",220
+,,07319,"Worms, kreisfreie Stadt","1,897"
+,,07320,"Zweibrücken, kreisfreie Stadt",11
+,,07331,Alzey-Worms,187
+,,07332,Bad Dürkheim,175
+,,07333,Donnersbergkreis,70
+,,07334,Germersheim,63
+,,07335,Kaiserslautern,22
+,,07337,Südliche Weinstraße,65
+,,07338,Rhein-Pfalz-Kreis,309
+,,07339,Mainz-Bingen,92
+,,070,Übrige Kreise (Regierungsbezirk),66
+,,070,Rheinland-Pfalz,"7,152"
+,,07,Rheinland-Pfalz,"7,152"
+,,08111,"Stuttgart, Landeshauptstadt",276
+,,08115,Böblingen,77
+,,08116,Esslingen,70
+,,08117,Göppingen,18
+,,08118,Ludwigsburg,101
+,,08119,Rems-Murr-Kreis,33
+,,08121,"Heilbronn, Stadt",46
+,,08125,Heilbronn,102
+,,08126,Hohenlohekreis,39
+,,08127,Schwäbisch Hall,21
+,,08128,Main-Tauber-Kreis,16
+,,08136,Ostalbkreis,38
+,,081,Übrige Kreise (Regierungsbezirk),7
+,,081,Reg.-Bez. Stuttgart,844
+,,08211,"Baden-Baden, Stadt",21
+,,08212,"Karlsruhe, Stadt",300
+,,08215,Karlsruhe,269
+,,08216,Rastatt,66
+,,08221,"Heidelberg, Stadt","2,914"
+,,08222,"Mannheim, Universitätsstadt","15,319"
+,,08225,Neckar-Odenwald-Kreis,107
+,,08226,Rhein-Neckar-Kreis,"10,899"
+,,08231,"Pforzheim, Stadt",18
+,,08236,Enzkreis,21
+,,082,Übrige Kreise (Regierungsbezirk),15
+,,082,Reg.-Bez. Karlsruhe,"29,949"
+,,08311,"Freiburg im Breisgau, Stadt",62
+,,08315,Breisgau-Hochschwarzwald,29
+,,08317,Ortenaukreis,40
+,,08326,Schwarzwald-Baar-Kreis,29
+,,08335,Konstanz,16
+,,08336,Lörrach,18
+,,08337,Waldshut,10
+,,083,Übrige Kreise (Regierungsbezirk),21
+,,083,Reg.-Bez. Freiburg,225
+,,08415,Reutlingen,29
+,,08416,Tübingen,13
+,,08417,Zollernalbkreis,13
+,,08421,"Ulm, Universitätsstadt",22
+,,08425,Alb-Donau-Kreis,11
+,,08435,Bodenseekreis,14
+,,08436,Ravensburg,16
+,,084,Übrige Kreise (Regierungsbezirk),8
+,,084,Reg.-Bez. Tübingen,126
+,,08,Baden-Württemberg,"31,144"
+,,09162,"München, Landeshauptstadt",312
+,,09178,Freising,18
+,,09181,Landsberg am Lech,10
+,,09182,Miesbach,12
+,,09184,München,119
+,,09185,Neuburg-Schrobenhausen,12
+,,09186,Pfaffenhofen a.d.Ilm,13
+,,09187,Rosenheim,11
+,,09188,Starnberg,15
+,,09189,Traunstein,11
+,,091,Übrige Kreise (Regierungsbezirk),65
+,,091,Oberbayern,598
+,,09277,Rottal-Inn,10
+,,092,Übrige Kreise (Regierungsbezirk),35
+,,092,Niederbayern,45
+,,093,Oberpfalz,35
+,,09475,Hof,13
+,,094,Übrige Kreise (Regierungsbezirk),35
+,,094,Oberfranken,48
+,,09562,"Erlangen, Stadt",26
+,,09563,"Fürth, Stadt",12
+,,09564,"Nürnberg, Stadt",57
+,,09571,Ansbach,15
+,,095,Übrige Kreise (Regierungsbezirk),26
+,,095,Mittelfranken,136
+,,09661,"Aschaffenburg, Stadt",36
+,,09663,"Würzburg, Stadt",14
+,,09671,Aschaffenburg,49
+,,09676,Miltenberg,35
+,,09677,Main-Spessart,18
+,,09679,Würzburg,15
+,,096,Übrige Kreise (Regierungsbezirk),25
+,,096,Unterfranken,192
+,,09761,"Augsburg, Stadt",28
+,,09775,Neu-Ulm,52
+,,097,Übrige Kreise (Regierungsbezirk),53
+,,097,Schwaben,133
+,,09,Bayern,"1,187"
+,,10041,Regionalverband Saarbrücken,60
+,,10044,Saarlouis,12
+,,10045,Saarpfalz-Kreis,36
+,,100,Übrige Kreise (Regierungsbezirk),16
+,,100,Saarland,124
+,,10,Saarland,124
+,,11000,"Berlin, Stadt",196
+,,110,Berlin,196
+,,11,Berlin,196
+,,12069,Potsdam-Mittelmark,16
+,,120,Übrige Kreise (Regierungsbezirk),35
+,,120,Brandenburg,51
+,,12,Brandenburg,51
+,,130,Mecklenburg-Vorpommern,22
+,,13,Mecklenburg-Vorpommern,22
+,,14523,Vogtlandkreis,17
+,,14612,"Dresden, Stadt",17
+,,14713,"Leipzig, Stadt",14
+,,140,Übrige Kreise (Regierungsbezirk),44
+,,140,Sachsen,92
+,,14,Sachsen,92
+,,150,Sachsen-Anhalt,33
+,,15,Sachsen-Anhalt,33
+,,160,Thüringen,47
+,,16,Thüringen,47
+,,ZZ,Auspendler in das Bundesgebiet,"59,515"
+,,Z,Auspendler insgesamt,"59,515"
+06432,Darmstadt-Dieburg,,,
+,,01002,"Kiel, Landeshauptstadt",12
+,,01056,Pinneberg,15
+,,01060,Segeberg,11
+,,01062,Stormarn,15
+,,010,Übrige Kreise (Regierungsbezirk),34
+,,010,Schleswig-Holstein,87
+,,01,Schleswig-Holstein,87
+,,02000,"Hamburg, Freie und Hansestadt",289
+,,020,Hamburg,289
+,,02,Hamburg,289
+,,03101,"Braunschweig, Stadt",21
+,,03103,"Wolfsburg, Stadt",15
+,,03159,Göttingen,14
+,,031,Übrige Kreise (Regierungsbezirk),22
+,,031,Statistische Region Braunschweig,72
+,,03241,Region Hannover,77
+,,032,Übrige Kreise (Regierungsbezirk),26
+,,032,Statistische Region Hannover,103
+,,03352,Cuxhaven,11
+,,03353,Harburg,17
+,,03357,Rotenburg (Wümme),34
+,,033,Übrige Kreise (Regierungsbezirk),22
+,,033,Statistische Region Lüneburg,84
+,,03404,"Osnabrück, Stadt",10
+,,03454,Emsland,20
+,,03459,Osnabrück,99
+,,034,Übrige Kreise (Regierungsbezirk),39
+,,034,Statistische Region Weser-Ems,168
+,,03,Niedersachsen,427
+,,04011,"Bremen, Stadt",29
+,,040,Übrige Kreise (Regierungsbezirk),*
+,,040,Bremen,31
+,,04,Bremen,31
+,,05111,"Düsseldorf, Stadt",229
+,,05112,"Duisburg, Stadt",30
+,,05113,"Essen, Stadt",186
+,,05114,"Krefeld, Stadt",16
+,,05116,"Mönchengladbach, Stadt",20
+,,05119,"Oberhausen, Stadt",10
+,,05122,"Solingen, Klingenstadt",11
+,,05124,"Wuppertal, Stadt",15
+,,05154,Kleve,16
+,,05158,Mettmann,49
+,,05162,Rhein-Kreis Neuss,45
+,,05166,Viersen,26
+,,05170,Wesel,46
+,,051,Übrige Kreise (Regierungsbezirk),11
+,,051,Reg.-Bez. Düsseldorf,710
+,,05314,"Bonn, Stadt",80
+,,05315,"Köln, Stadt",252
+,,05316,"Leverkusen, Stadt",14
+,,05334,Städteregion Aachen,24
+,,05358,Düren,19
+,,05362,Rhein-Erft-Kreis,49
+,,05374,Oberbergischer Kreis,32
+,,05378,Rheinisch-Bergischer Kreis,10
+,,05382,Rhein-Sieg-Kreis,49
+,,053,Übrige Kreise (Regierungsbezirk),9
+,,053,Reg.-Bez. Köln,538
+,,05515,"Münster, Stadt",21
+,,05554,Borken,15
+,,05562,Recklinghausen,17
+,,05566,Steinfurt,13
+,,055,Übrige Kreise (Regierungsbezirk),22
+,,055,Reg.-Bez. Münster,88
+,,05711,"Bielefeld, Stadt",18
+,,05754,Gütersloh,44
+,,05766,Lippe,35
+,,05774,Paderborn,13
+,,057,Übrige Kreise (Regierungsbezirk),13
+,,057,Reg.-Bez. Detmold,123
+,,05911,"Bochum, Stadt",25
+,,05913,"Dortmund, Stadt",51
+,,05954,Ennepe-Ruhr-Kreis,13
+,,05962,Märkischer Kreis,17
+,,05970,Siegen-Wittgenstein,33
+,,05974,Soest,13
+,,05978,Unna,16
+,,059,Übrige Kreise (Regierungsbezirk),34
+,,059,Reg.-Bez. Arnsberg,202
+,,05,Nordrhein-Westfalen,"1,661"
+,,06411,"Darmstadt, Wissenschaftsstadt","31,384"
+,,06412,"Frankfurt am Main, Stadt","11,786"
+,,06413,"Offenbach am Main, Stadt","1,029"
+,,06414,"Wiesbaden, Landeshauptstadt",988
+,,06431,Bergstraße,"2,803"
+,,06433,Groß-Gerau,"5,314"
+,,06434,Hochtaunuskreis,679
+,,06435,Main-Kinzig-Kreis,"1,130"
+,,06436,Main-Taunus-Kreis,"1,325"
+,,06437,Odenwaldkreis,"1,594"
+,,06438,Offenbach,"7,790"
+,,06439,Rheingau-Taunus-Kreis,202
+,,06440,Wetteraukreis,316
+,,064,Reg.-Bez. Darmstadt,"66,340"
+,,06531,Gießen,116
+,,06532,Lahn-Dill-Kreis,68
+,,06533,Limburg-Weilburg,87
+,,06534,Marburg-Biedenkopf,59
+,,06535,Vogelsbergkreis,22
+,,065,Reg.-Bez. Gießen,352
+,,06611,"Kassel, documenta-Stadt",73
+,,06631,Fulda,61
+,,06632,Hersfeld-Rotenburg,10
+,,06633,Kassel,10
+,,06634,Schwalm-Eder-Kreis,15
+,,066,Übrige Kreise (Regierungsbezirk),12
+,,066,Reg.-Bez. Kassel,181
+,,06,Hessen,"66,873"
+,,07111,"Koblenz, kreisfreie Stadt",26
+,,07133,Bad Kreuznach,35
+,,07134,Birkenfeld,14
+,,07135,Cochem-Zell,19
+,,07137,Mayen-Koblenz,10
+,,07138,Neuwied,13
+,,07140,Rhein-Hunsrück-Kreis,16
+,,07141,Rhein-Lahn-Kreis,17
+,,07143,Westerwaldkreis,21
+,,07211,"Trier, kreisfreie Stadt",11
+,,07235,Trier-Saarburg,10
+,,07311,"Frankenthal (Pfalz), kr.f. St.",60
+,,07312,"Kaiserslautern, kreisfr. Stadt",34
+,,07313,"Landau in der Pfalz, kr.f. St.",33
+,,07314,"Ludwigshafen am Rhein, Stadt",275
+,,07315,"Mainz, kreisfreie Stadt",686
+,,07318,"Speyer, kreisfreie Stadt",30
+,,07319,"Worms, kreisfreie Stadt",156
+,,07331,Alzey-Worms,40
+,,07332,Bad Dürkheim,27
+,,07333,Donnersbergkreis,14
+,,07334,Germersheim,11
+,,07335,Kaiserslautern,11
+,,07337,Südliche Weinstraße,14
+,,07338,Rhein-Pfalz-Kreis,43
+,,07339,Mainz-Bingen,120
+,,070,Übrige Kreise (Regierungsbezirk),53
+,,070,Rheinland-Pfalz,"1,799"
+,,07,Rheinland-Pfalz,"1,799"
+,,08111,"Stuttgart, Landeshauptstadt",178
+,,08115,Böblingen,62
+,,08116,Esslingen,68
+,,08117,Göppingen,14
+,,08118,Ludwigsburg,66
+,,08119,Rems-Murr-Kreis,39
+,,08121,"Heilbronn, Stadt",17
+,,08125,Heilbronn,64
+,,08126,Hohenlohekreis,47
+,,08127,Schwäbisch Hall,61
+,,08128,Main-Tauber-Kreis,17
+,,08136,Ostalbkreis,15
+,,081,Übrige Kreise (Regierungsbezirk),5
+,,081,Reg.-Bez. Stuttgart,653
+,,08211,"Baden-Baden, Stadt",16
+,,08212,"Karlsruhe, Stadt",91
+,,08215,Karlsruhe,78
+,,08216,Rastatt,30
+,,08221,"Heidelberg, Stadt",236
+,,08222,"Mannheim, Universitätsstadt",750
+,,08225,Neckar-Odenwald-Kreis,17
+,,08226,Rhein-Neckar-Kreis,585
+,,08231,"Pforzheim, Stadt",13
+,,08236,Enzkreis,23
+,,082,Übrige Kreise (Regierungsbezirk),10
+,,082,Reg.-Bez. Karlsruhe,"1,849"
+,,08311,"Freiburg im Breisgau, Stadt",39
+,,08315,Breisgau-Hochschwarzwald,18
+,,08317,Ortenaukreis,45
+,,08325,Rottweil,12
+,,08335,Konstanz,17
+,,08336,Lörrach,17
+,,083,Übrige Kreise (Regierungsbezirk),27
+,,083,Reg.-Bez. Freiburg,175
+,,08415,Reutlingen,18
+,,08421,"Ulm, Universitätsstadt",17
+,,08435,Bodenseekreis,10
+,,08436,Ravensburg,24
+,,084,Übrige Kreise (Regierungsbezirk),30
+,,084,Reg.-Bez. Tübingen,99
+,,08,Baden-Württemberg,"2,776"
+,,09161,"Ingolstadt, Stadt",23
+,,09162,"München, Landeshauptstadt",330
+,,09175,Ebersberg,14
+,,09178,Freising,22
+,,09179,Fürstenfeldbruck,11
+,,09182,Miesbach,11
+,,09184,München,127
+,,09187,Rosenheim,14
+,,09188,Starnberg,40
+,,091,Übrige Kreise (Regierungsbezirk),63
+,,091,Oberbayern,655
+,,092,Niederbayern,39
+,,09362,"Regensburg, Stadt",14
+,,093,Übrige Kreise (Regierungsbezirk),36
+,,093,Oberpfalz,50
+,,09462,"Bayreuth, Stadt",11
+,,09471,Bamberg,10
+,,09475,Hof,11
+,,094,Übrige Kreise (Regierungsbezirk),37
+,,094,Oberfranken,69
+,,09561,"Ansbach, Stadt",171
+,,09562,"Erlangen, Stadt",36
+,,09564,"Nürnberg, Stadt",106
+,,09572,Erlangen-Höchstadt,18
+,,095,Übrige Kreise (Regierungsbezirk),40
+,,095,Mittelfranken,371
+,,09661,"Aschaffenburg, Stadt","1,140"
+,,09663,"Würzburg, Stadt",51
+,,09671,Aschaffenburg,"1,351"
+,,09672,Bad Kissingen,23
+,,09675,Kitzingen,17
+,,09676,Miltenberg,539
+,,09677,Main-Spessart,73
+,,09679,Würzburg,16
+,,096,Übrige Kreise (Regierungsbezirk),10
+,,096,Unterfranken,"3,220"
+,,09761,"Augsburg, Stadt",19
+,,09771,Aichach-Friedberg,24
+,,09775,Neu-Ulm,19
+,,097,Übrige Kreise (Regierungsbezirk),43
+,,097,Schwaben,105
+,,09,Bayern,"4,509"
+,,10041,Regionalverband Saarbrücken,48
+,,10042,Merzig-Wadern,11
+,,10044,Saarlouis,16
+,,100,Übrige Kreise (Regierungsbezirk),13
+,,100,Saarland,88
+,,10,Saarland,88
+,,11000,"Berlin, Stadt",245
+,,110,Berlin,245
+,,11,Berlin,245
+,,12054,"Potsdam, Stadt",15
+,,120,Übrige Kreise (Regierungsbezirk),33
+,,120,Brandenburg,48
+,,12,Brandenburg,48
+,,130,Mecklenburg-Vorpommern,17
+,,13,Mecklenburg-Vorpommern,17
+,,14511,"Chemnitz, Stadt",16
+,,14612,"Dresden, Stadt",14
+,,14713,"Leipzig, Stadt",16
+,,140,Übrige Kreise (Regierungsbezirk),29
+,,140,Sachsen,75
+,,14,Sachsen,75
+,,15088,Saalekreis,18
+,,150,Übrige Kreise (Regierungsbezirk),28
+,,150,Sachsen-Anhalt,46
+,,15,Sachsen-Anhalt,46
+,,16051,"Erfurt, Stadt",15
+,,160,Übrige Kreise (Regierungsbezirk),49
+,,160,Thüringen,64
+,,16,Thüringen,64
+,,ZZ,Auspendler in das Bundesgebiet,"79,035"
+,,Z,Auspendler insgesamt,"79,035"
+06433,Groß-Gerau,,,
+,,01003,"Lübeck, Hansestadt",25
+,,01053,Herzogtum Lauenburg,14
+,,01056,Pinneberg,10
+,,01060,Segeberg,31
+,,01062,Stormarn,145
+,,010,Übrige Kreise (Regierungsbezirk),41
+,,010,Schleswig-Holstein,266
+,,01,Schleswig-Holstein,266
+,,02000,"Hamburg, Freie und Hansestadt",397
+,,020,Hamburg,397
+,,02,Hamburg,397
+,,03101,"Braunschweig, Stadt",12
+,,03103,"Wolfsburg, Stadt",14
+,,03155,Northeim,11
+,,03159,Göttingen,16
+,,031,Übrige Kreise (Regierungsbezirk),13
+,,031,Statistische Region Braunschweig,66
+,,03241,Region Hannover,62
+,,032,Übrige Kreise (Regierungsbezirk),17
+,,032,Statistische Region Hannover,79
+,,03352,Cuxhaven,12
+,,033,Übrige Kreise (Regierungsbezirk),28
+,,033,Statistische Region Lüneburg,40
+,,03404,"Osnabrück, Stadt",18
+,,03453,Cloppenburg,10
+,,03454,Emsland,14
+,,03459,Osnabrück,16
+,,03460,Vechta,10
+,,034,Übrige Kreise (Regierungsbezirk),17
+,,034,Statistische Region Weser-Ems,85
+,,03,Niedersachsen,270
+,,04011,"Bremen, Stadt",29
+,,040,Übrige Kreise (Regierungsbezirk),3
+,,040,Bremen,32
+,,04,Bremen,32
+,,05111,"Düsseldorf, Stadt",303
+,,05112,"Duisburg, Stadt",24
+,,05113,"Essen, Stadt",111
+,,05114,"Krefeld, Stadt",13
+,,05116,"Mönchengladbach, Stadt",58
+,,05119,"Oberhausen, Stadt",10
+,,05124,"Wuppertal, Stadt",25
+,,05154,Kleve,31
+,,05158,Mettmann,47
+,,05162,Rhein-Kreis Neuss,67
+,,05166,Viersen,22
+,,05170,Wesel,21
+,,051,Übrige Kreise (Regierungsbezirk),17
+,,051,Reg.-Bez. Düsseldorf,749
+,,05314,"Bonn, Stadt",50
+,,05315,"Köln, Stadt",337
+,,05316,"Leverkusen, Stadt",12
+,,05334,Städteregion Aachen,46
+,,05362,Rhein-Erft-Kreis,82
+,,05374,Oberbergischer Kreis,32
+,,05382,Rhein-Sieg-Kreis,44
+,,053,Übrige Kreise (Regierungsbezirk),20
+,,053,Reg.-Bez. Köln,623
+,,05513,"Gelsenkirchen, Stadt",26
+,,05515,"Münster, Stadt",15
+,,05554,Borken,21
+,,05562,Recklinghausen,34
+,,055,Übrige Kreise (Regierungsbezirk),21
+,,055,Reg.-Bez. Münster,117
+,,05711,"Bielefeld, Stadt",22
+,,05754,Gütersloh,101
+,,05766,Lippe,11
+,,05770,Minden-Lübbecke,15
+,,05774,Paderborn,14
+,,057,Übrige Kreise (Regierungsbezirk),10
+,,057,Reg.-Bez. Detmold,173
+,,05911,"Bochum, Stadt",21
+,,05913,"Dortmund, Stadt",135
+,,05954,Ennepe-Ruhr-Kreis,15
+,,05958,Hochsauerlandkreis,15
+,,05962,Märkischer Kreis,13
+,,05970,Siegen-Wittgenstein,45
+,,05978,Unna,29
+,,059,Übrige Kreise (Regierungsbezirk),24
+,,059,Reg.-Bez. Arnsberg,297
+,,05,Nordrhein-Westfalen,"1,959"
+,,06411,"Darmstadt, Wissenschaftsstadt","7,211"
+,,06412,"Frankfurt am Main, Stadt","26,372"
+,,06413,"Offenbach am Main, Stadt",737
+,,06414,"Wiesbaden, Landeshauptstadt","4,775"
+,,06431,Bergstraße,"1,204"
+,,06432,Darmstadt-Dieburg,"3,802"
+,,06434,Hochtaunuskreis,995
+,,06435,Main-Kinzig-Kreis,627
+,,06436,Main-Taunus-Kreis,"4,022"
+,,06437,Odenwaldkreis,63
+,,06438,Offenbach,"3,738"
+,,06439,Rheingau-Taunus-Kreis,498
+,,06440,Wetteraukreis,374
+,,064,Reg.-Bez. Darmstadt,"54,418"
+,,06531,Gießen,89
+,,06532,Lahn-Dill-Kreis,88
+,,06533,Limburg-Weilburg,164
+,,06534,Marburg-Biedenkopf,41
+,,06535,Vogelsbergkreis,16
+,,065,Reg.-Bez. Gießen,398
+,,06611,"Kassel, documenta-Stadt",134
+,,06631,Fulda,34
+,,06632,Hersfeld-Rotenburg,23
+,,06633,Kassel,11
+,,06634,Schwalm-Eder-Kreis,33
+,,066,Übrige Kreise (Regierungsbezirk),10
+,,066,Reg.-Bez. Kassel,245
+,,06,Hessen,"55,061"
+,,07111,"Koblenz, kreisfreie Stadt",44
+,,07132,Altenkirchen (Westerwald),14
+,,07133,Bad Kreuznach,124
+,,07137,Mayen-Koblenz,26
+,,07138,Neuwied,11
+,,07140,Rhein-Hunsrück-Kreis,74
+,,07141,Rhein-Lahn-Kreis,23
+,,07143,Westerwaldkreis,29
+,,07231,Bernkastel-Wittlich,11
+,,07311,"Frankenthal (Pfalz), kr.f. St.",37
+,,07312,"Kaiserslautern, kreisfr. Stadt",20
+,,07314,"Ludwigshafen am Rhein, Stadt",180
+,,07315,"Mainz, kreisfreie Stadt","4,375"
+,,07316,"Neustadt an der Weinstraße,St.",11
+,,07318,"Speyer, kreisfreie Stadt",22
+,,07319,"Worms, kreisfreie Stadt",180
+,,07331,Alzey-Worms,154
+,,07332,Bad Dürkheim,38
+,,07333,Donnersbergkreis,14
+,,07334,Germersheim,20
+,,07335,Kaiserslautern,15
+,,07338,Rhein-Pfalz-Kreis,28
+,,07339,Mainz-Bingen,726
+,,070,Übrige Kreise (Regierungsbezirk),74
+,,070,Rheinland-Pfalz,"6,250"
+,,07,Rheinland-Pfalz,"6,250"
+,,08111,"Stuttgart, Landeshauptstadt",188
+,,08115,Böblingen,52
+,,08116,Esslingen,79
+,,08117,Göppingen,14
+,,08118,Ludwigsburg,62
+,,08119,Rems-Murr-Kreis,42
+,,08121,"Heilbronn, Stadt",47
+,,08125,Heilbronn,35
+,,08126,Hohenlohekreis,13
+,,08127,Schwäbisch Hall,14
+,,08128,Main-Tauber-Kreis,10
+,,08135,Heidenheim,10
+,,08136,Ostalbkreis,10
+,,081,Reg.-Bez. Stuttgart,576
+,,08212,"Karlsruhe, Stadt",63
+,,08215,Karlsruhe,37
+,,08216,Rastatt,26
+,,08221,"Heidelberg, Stadt",96
+,,08222,"Mannheim, Universitätsstadt",624
+,,08226,Rhein-Neckar-Kreis,241
+,,082,Übrige Kreise (Regierungsbezirk),40
+,,082,Reg.-Bez. Karlsruhe,"1,127"
+,,08311,"Freiburg im Breisgau, Stadt",15
+,,08315,Breisgau-Hochschwarzwald,15
+,,08317,Ortenaukreis,17
+,,08326,Schwarzwald-Baar-Kreis,10
+,,08336,Lörrach,23
+,,083,Übrige Kreise (Regierungsbezirk),23
+,,083,Reg.-Bez. Freiburg,103
+,,08415,Reutlingen,20
+,,08421,"Ulm, Universitätsstadt",10
+,,08425,Alb-Donau-Kreis,10
+,,08436,Ravensburg,55
+,,08437,Sigmaringen,10
+,,084,Übrige Kreise (Regierungsbezirk),30
+,,084,Reg.-Bez. Tübingen,135
+,,08,Baden-Württemberg,"1,941"
+,,09161,"Ingolstadt, Stadt",24
+,,09162,"München, Landeshauptstadt",477
+,,09174,Dachau,18
+,,09175,Ebersberg,19
+,,09178,Freising,59
+,,09184,München,125
+,,09188,Starnberg,30
+,,091,Übrige Kreise (Regierungsbezirk),68
+,,091,Oberbayern,820
+,,09263,"Straubing, Stadt",15
+,,092,Übrige Kreise (Regierungsbezirk),22
+,,092,Niederbayern,37
+,,09362,"Regensburg, Stadt",16
+,,093,Übrige Kreise (Regierungsbezirk),27
+,,093,Oberpfalz,43
+,,09475,Hof,10
+,,094,Übrige Kreise (Regierungsbezirk),47
+,,094,Oberfranken,57
+,,09562,"Erlangen, Stadt",20
+,,09564,"Nürnberg, Stadt",89
+,,095,Übrige Kreise (Regierungsbezirk),46
+,,095,Mittelfranken,155
+,,09661,"Aschaffenburg, Stadt",168
+,,09663,"Würzburg, Stadt",15
+,,09671,Aschaffenburg,149
+,,09672,Bad Kissingen,14
+,,09675,Kitzingen,20
+,,09676,Miltenberg,49
+,,09677,Main-Spessart,19
+,,09679,Würzburg,18
+,,096,Übrige Kreise (Regierungsbezirk),14
+,,096,Unterfranken,466
+,,09761,"Augsburg, Stadt",11
+,,09775,Neu-Ulm,27
+,,097,Übrige Kreise (Regierungsbezirk),44
+,,097,Schwaben,82
+,,09,Bayern,"1,660"
+,,10041,Regionalverband Saarbrücken,149
+,,10044,Saarlouis,40
+,,10045,Saarpfalz-Kreis,19
+,,100,Übrige Kreise (Regierungsbezirk),16
+,,100,Saarland,224
+,,10,Saarland,224
+,,11000,"Berlin, Stadt",246
+,,110,Berlin,246
+,,11,Berlin,246
+,,12054,"Potsdam, Stadt",10
+,,120,Übrige Kreise (Regierungsbezirk),44
+,,120,Brandenburg,54
+,,12,Brandenburg,54
+,,130,Mecklenburg-Vorpommern,17
+,,13,Mecklenburg-Vorpommern,17
+,,14511,"Chemnitz, Stadt",10
+,,14612,"Dresden, Stadt",21
+,,14713,"Leipzig, Stadt",19
+,,14730,Nordsachsen,10
+,,140,Übrige Kreise (Regierungsbezirk),40
+,,140,Sachsen,100
+,,14,Sachsen,100
+,,15088,Saalekreis,11
+,,15091,Wittenberg,37
+,,150,Übrige Kreise (Regierungsbezirk),28
+,,150,Sachsen-Anhalt,76
+,,15,Sachsen-Anhalt,76
+,,160,Thüringen,72
+,,16,Thüringen,72
+,,ZZ,Auspendler in das Bundesgebiet,"68,625"
+,,Z,Auspendler insgesamt,"68,625"
+06434,Hochtaunuskreis,,,
+,,01060,Segeberg,25
+,,01062,Stormarn,16
+,,010,Übrige Kreise (Regierungsbezirk),50
+,,010,Schleswig-Holstein,91
+,,01,Schleswig-Holstein,91
+,,02000,"Hamburg, Freie und Hansestadt",301
+,,020,Hamburg,301
+,,02,Hamburg,301
+,,03103,"Wolfsburg, Stadt",11
+,,03159,Göttingen,22
+,,031,Übrige Kreise (Regierungsbezirk),20
+,,031,Statistische Region Braunschweig,53
+,,03241,Region Hannover,66
+,,032,Übrige Kreise (Regierungsbezirk),10
+,,032,Statistische Region Hannover,76
+,,03359,Stade,11
+,,033,Übrige Kreise (Regierungsbezirk),31
+,,033,Statistische Region Lüneburg,42
+,,03404,"Osnabrück, Stadt",16
+,,034,Übrige Kreise (Regierungsbezirk),45
+,,034,Statistische Region Weser-Ems,61
+,,03,Niedersachsen,232
+,,04011,"Bremen, Stadt",32
+,,040,Übrige Kreise (Regierungsbezirk),6
+,,040,Bremen,38
+,,04,Bremen,38
+,,05111,"Düsseldorf, Stadt",313
+,,05112,"Duisburg, Stadt",15
+,,05113,"Essen, Stadt",71
+,,05116,"Mönchengladbach, Stadt",15
+,,05119,"Oberhausen, Stadt",12
+,,05124,"Wuppertal, Stadt",18
+,,05158,Mettmann,68
+,,05162,Rhein-Kreis Neuss,24
+,,05166,Viersen,11
+,,051,Übrige Kreise (Regierungsbezirk),35
+,,051,Reg.-Bez. Düsseldorf,582
+,,05314,"Bonn, Stadt",82
+,,05315,"Köln, Stadt",290
+,,05316,"Leverkusen, Stadt",12
+,,05334,Städteregion Aachen,36
+,,05362,Rhein-Erft-Kreis,10
+,,05374,Oberbergischer Kreis,28
+,,05382,Rhein-Sieg-Kreis,51
+,,053,Übrige Kreise (Regierungsbezirk),18
+,,053,Reg.-Bez. Köln,527
+,,05512,"Bottrop, Stadt",11
+,,05515,"Münster, Stadt",23
+,,05562,Recklinghausen,15
+,,05566,Steinfurt,12
+,,055,Übrige Kreise (Regierungsbezirk),29
+,,055,Reg.-Bez. Münster,90
+,,05711,"Bielefeld, Stadt",15
+,,05754,Gütersloh,27
+,,05766,Lippe,13
+,,057,Übrige Kreise (Regierungsbezirk),23
+,,057,Reg.-Bez. Detmold,78
+,,05911,"Bochum, Stadt",10
+,,05913,"Dortmund, Stadt",85
+,,05954,Ennepe-Ruhr-Kreis,10
+,,05958,Hochsauerlandkreis,11
+,,05962,Märkischer Kreis,10
+,,05970,Siegen-Wittgenstein,36
+,,05978,Unna,22
+,,059,Übrige Kreise (Regierungsbezirk),27
+,,059,Reg.-Bez. Arnsberg,211
+,,05,Nordrhein-Westfalen,"1,488"
+,,06411,"Darmstadt, Wissenschaftsstadt",576
+,,06412,"Frankfurt am Main, Stadt","26,765"
+,,06413,"Offenbach am Main, Stadt",780
+,,06414,"Wiesbaden, Landeshauptstadt","1,081"
+,,06431,Bergstraße,63
+,,06432,Darmstadt-Dieburg,242
+,,06433,Groß-Gerau,847
+,,06435,Main-Kinzig-Kreis,677
+,,06436,Main-Taunus-Kreis,"6,129"
+,,06437,Odenwaldkreis,16
+,,06438,Offenbach,"1,461"
+,,06439,Rheingau-Taunus-Kreis,479
+,,06440,Wetteraukreis,"2,677"
+,,064,Reg.-Bez. Darmstadt,"41,793"
+,,06531,Gießen,376
+,,06532,Lahn-Dill-Kreis,255
+,,06533,Limburg-Weilburg,586
+,,06534,Marburg-Biedenkopf,78
+,,06535,Vogelsbergkreis,34
+,,065,Reg.-Bez. Gießen,"1,329"
+,,06611,"Kassel, documenta-Stadt",65
+,,06631,Fulda,54
+,,06632,Hersfeld-Rotenburg,20
+,,06633,Kassel,10
+,,06634,Schwalm-Eder-Kreis,18
+,,06635,Waldeck-Frankenberg,13
+,,066,Übrige Kreise (Regierungsbezirk),3
+,,066,Reg.-Bez. Kassel,183
+,,06,Hessen,"43,305"
+,,07111,"Koblenz, kreisfreie Stadt",24
+,,07132,Altenkirchen (Westerwald),12
+,,07133,Bad Kreuznach,15
+,,07134,Birkenfeld,10
+,,07138,Neuwied,12
+,,07140,Rhein-Hunsrück-Kreis,16
+,,07141,Rhein-Lahn-Kreis,31
+,,07143,Westerwaldkreis,32
+,,07211,"Trier, kreisfreie Stadt",11
+,,07311,"Frankenthal (Pfalz), kr.f. St.",20
+,,07312,"Kaiserslautern, kreisfr. Stadt",12
+,,07314,"Ludwigshafen am Rhein, Stadt",95
+,,07315,"Mainz, kreisfreie Stadt",297
+,,07331,Alzey-Worms,13
+,,07339,Mainz-Bingen,95
+,,070,Übrige Kreise (Regierungsbezirk),91
+,,070,Rheinland-Pfalz,786
+,,07,Rheinland-Pfalz,786
+,,08111,"Stuttgart, Landeshauptstadt",160
+,,08115,Böblingen,39
+,,08116,Esslingen,66
+,,08118,Ludwigsburg,49
+,,08119,Rems-Murr-Kreis,26
+,,08121,"Heilbronn, Stadt",13
+,,08125,Heilbronn,27
+,,08126,Hohenlohekreis,13
+,,08127,Schwäbisch Hall,16
+,,08128,Main-Tauber-Kreis,15
+,,08136,Ostalbkreis,32
+,,081,Übrige Kreise (Regierungsbezirk),11
+,,081,Reg.-Bez. Stuttgart,467
+,,08211,"Baden-Baden, Stadt",10
+,,08212,"Karlsruhe, Stadt",57
+,,08215,Karlsruhe,28
+,,08221,"Heidelberg, Stadt",53
+,,08222,"Mannheim, Universitätsstadt",146
+,,08226,Rhein-Neckar-Kreis,108
+,,08231,"Pforzheim, Stadt",13
+,,082,Übrige Kreise (Regierungsbezirk),27
+,,082,Reg.-Bez. Karlsruhe,442
+,,08311,"Freiburg im Breisgau, Stadt",28
+,,08315,Breisgau-Hochschwarzwald,12
+,,08317,Ortenaukreis,18
+,,08326,Schwarzwald-Baar-Kreis,12
+,,08335,Konstanz,29
+,,08336,Lörrach,16
+,,083,Übrige Kreise (Regierungsbezirk),17
+,,083,Reg.-Bez. Freiburg,132
+,,08415,Reutlingen,10
+,,08435,Bodenseekreis,10
+,,084,Übrige Kreise (Regierungsbezirk),37
+,,084,Reg.-Bez. Tübingen,57
+,,08,Baden-Württemberg,"1,098"
+,,09161,"Ingolstadt, Stadt",14
+,,09162,"München, Landeshauptstadt",482
+,,09175,Ebersberg,10
+,,09177,Erding,25
+,,09178,Freising,58
+,,09179,Fürstenfeldbruck,10
+,,09184,München,104
+,,09188,Starnberg,17
+,,091,Übrige Kreise (Regierungsbezirk),52
+,,091,Oberbayern,772
+,,09274,Landshut,15
+,,092,Übrige Kreise (Regierungsbezirk),19
+,,092,Niederbayern,34
+,,09362,"Regensburg, Stadt",18
+,,093,Übrige Kreise (Regierungsbezirk),23
+,,093,Oberpfalz,41
+,,094,Oberfranken,32
+,,09562,"Erlangen, Stadt",31
+,,09564,"Nürnberg, Stadt",81
+,,09572,Erlangen-Höchstadt,13
+,,095,Übrige Kreise (Regierungsbezirk),25
+,,095,Mittelfranken,150
+,,09661,"Aschaffenburg, Stadt",70
+,,09663,"Würzburg, Stadt",15
+,,09671,Aschaffenburg,101
+,,09672,Bad Kissingen,10
+,,09676,Miltenberg,33
+,,09677,Main-Spessart,15
+,,096,Übrige Kreise (Regierungsbezirk),30
+,,096,Unterfranken,274
+,,09761,"Augsburg, Stadt",16
+,,097,Übrige Kreise (Regierungsbezirk),51
+,,097,Schwaben,67
+,,09,Bayern,"1,370"
+,,10041,Regionalverband Saarbrücken,33
+,,100,Übrige Kreise (Regierungsbezirk),14
+,,100,Saarland,47
+,,10,Saarland,47
+,,11000,"Berlin, Stadt",358
+,,110,Berlin,358
+,,11,Berlin,358
+,,12072,Teltow-Fläming,10
+,,120,Übrige Kreise (Regierungsbezirk),40
+,,120,Brandenburg,50
+,,12,Brandenburg,50
+,,130,Mecklenburg-Vorpommern,15
+,,13,Mecklenburg-Vorpommern,15
+,,14612,"Dresden, Stadt",15
+,,14713,"Leipzig, Stadt",21
+,,140,Übrige Kreise (Regierungsbezirk),38
+,,140,Sachsen,74
+,,14,Sachsen,74
+,,150,Sachsen-Anhalt,33
+,,15,Sachsen-Anhalt,33
+,,160,Thüringen,44
+,,16,Thüringen,44
+,,ZZ,Auspendler in das Bundesgebiet,"49,330"
+,,Z,Auspendler insgesamt,"49,330"
+06435,Main-Kinzig-Kreis,,,
+,,01001,"Flensburg, Stadt",10
+,,01003,"Lübeck, Hansestadt",19
+,,01054,Nordfriesland,16
+,,01056,Pinneberg,16
+,,01059,Schleswig-Flensburg,17
+,,01060,Segeberg,22
+,,01062,Stormarn,13
+,,010,Übrige Kreise (Regierungsbezirk),36
+,,010,Schleswig-Holstein,149
+,,01,Schleswig-Holstein,149
+,,02000,"Hamburg, Freie und Hansestadt",426
+,,020,Hamburg,426
+,,02,Hamburg,426
+,,03101,"Braunschweig, Stadt",17
+,,03103,"Wolfsburg, Stadt",10
+,,03159,Göttingen,26
+,,031,Übrige Kreise (Regierungsbezirk),27
+,,031,Statistische Region Braunschweig,80
+,,03241,Region Hannover,124
+,,03254,Hildesheim,12
+,,032,Übrige Kreise (Regierungsbezirk),25
+,,032,Statistische Region Hannover,161
+,,03351,Celle,11
+,,03353,Harburg,11
+,,03355,Lüneburg,19
+,,033,Übrige Kreise (Regierungsbezirk),27
+,,033,Statistische Region Lüneburg,68
+,,03404,"Osnabrück, Stadt",27
+,,03454,Emsland,12
+,,03459,Osnabrück,12
+,,034,Übrige Kreise (Regierungsbezirk),49
+,,034,Statistische Region Weser-Ems,100
+,,03,Niedersachsen,409
+,,04011,"Bremen, Stadt",32
+,,040,Übrige Kreise (Regierungsbezirk),*
+,,040,Bremen,33
+,,04,Bremen,33
+,,05111,"Düsseldorf, Stadt",366
+,,05112,"Duisburg, Stadt",54
+,,05113,"Essen, Stadt",108
+,,05114,"Krefeld, Stadt",27
+,,05116,"Mönchengladbach, Stadt",24
+,,05117,"Mülheim an der Ruhr, Stadt",10
+,,05119,"Oberhausen, Stadt",54
+,,05122,"Solingen, Klingenstadt",11
+,,05124,"Wuppertal, Stadt",33
+,,05154,Kleve,20
+,,05158,Mettmann,82
+,,05162,Rhein-Kreis Neuss,40
+,,05166,Viersen,29
+,,05170,Wesel,15
+,,051,Übrige Kreise (Regierungsbezirk),5
+,,051,Reg.-Bez. Düsseldorf,878
+,,05314,"Bonn, Stadt",72
+,,05315,"Köln, Stadt",322
+,,05316,"Leverkusen, Stadt",16
+,,05334,Städteregion Aachen,28
+,,05358,Düren,21
+,,05362,Rhein-Erft-Kreis,36
+,,05366,Euskirchen,13
+,,05370,Heinsberg,11
+,,05374,Oberbergischer Kreis,24
+,,05378,Rheinisch-Bergischer Kreis,10
+,,05382,Rhein-Sieg-Kreis,38
+,,053,Reg.-Bez. Köln,591
+,,05513,"Gelsenkirchen, Stadt",24
+,,05515,"Münster, Stadt",28
+,,05554,Borken,13
+,,05562,Recklinghausen,50
+,,05566,Steinfurt,34
+,,05570,Warendorf,11
+,,055,Übrige Kreise (Regierungsbezirk),8
+,,055,Reg.-Bez. Münster,168
+,,05711,"Bielefeld, Stadt",30
+,,05754,Gütersloh,50
+,,05758,Herford,13
+,,05766,Lippe,22
+,,05770,Minden-Lübbecke,18
+,,05774,Paderborn,16
+,,057,Übrige Kreise (Regierungsbezirk),*
+,,057,Reg.-Bez. Detmold,150
+,,05911,"Bochum, Stadt",26
+,,05913,"Dortmund, Stadt",93
+,,05954,Ennepe-Ruhr-Kreis,30
+,,05958,Hochsauerlandkreis,19
+,,05962,Märkischer Kreis,21
+,,05966,Olpe,14
+,,05970,Siegen-Wittgenstein,30
+,,05974,Soest,17
+,,05978,Unna,93
+,,059,Übrige Kreise (Regierungsbezirk),20
+,,059,Reg.-Bez. Arnsberg,363
+,,05,Nordrhein-Westfalen,"2,150"
+,,06411,"Darmstadt, Wissenschaftsstadt",870
+,,06412,"Frankfurt am Main, Stadt","33,484"
+,,06413,"Offenbach am Main, Stadt","4,216"
+,,06414,"Wiesbaden, Landeshauptstadt",683
+,,06431,Bergstraße,132
+,,06432,Darmstadt-Dieburg,918
+,,06433,Groß-Gerau,"1,169"
+,,06434,Hochtaunuskreis,"1,974"
+,,06436,Main-Taunus-Kreis,"1,824"
+,,06437,Odenwaldkreis,133
+,,06438,Offenbach,"7,048"
+,,06439,Rheingau-Taunus-Kreis,143
+,,06440,Wetteraukreis,"5,396"
+,,064,Reg.-Bez. Darmstadt,"57,990"
+,,06531,Gießen,446
+,,06532,Lahn-Dill-Kreis,221
+,,06533,Limburg-Weilburg,63
+,,06534,Marburg-Biedenkopf,125
+,,06535,Vogelsbergkreis,383
+,,065,Reg.-Bez. Gießen,"1,238"
+,,06611,"Kassel, documenta-Stadt",164
+,,06631,Fulda,"2,540"
+,,06632,Hersfeld-Rotenburg,103
+,,06633,Kassel,28
+,,06634,Schwalm-Eder-Kreis,28
+,,06635,Waldeck-Frankenberg,32
+,,066,Übrige Kreise (Regierungsbezirk),8
+,,066,Reg.-Bez. Kassel,"2,903"
+,,06,Hessen,"62,131"
+,,07111,"Koblenz, kreisfreie Stadt",19
+,,07132,Altenkirchen (Westerwald),26
+,,07133,Bad Kreuznach,30
+,,07134,Birkenfeld,17
+,,07137,Mayen-Koblenz,12
+,,07138,Neuwied,18
+,,07140,Rhein-Hunsrück-Kreis,22
+,,07141,Rhein-Lahn-Kreis,21
+,,07143,Westerwaldkreis,35
+,,07231,Bernkastel-Wittlich,10
+,,07311,"Frankenthal (Pfalz), kr.f. St.",10
+,,07312,"Kaiserslautern, kreisfr. Stadt",12
+,,07314,"Ludwigshafen am Rhein, Stadt",64
+,,07315,"Mainz, kreisfreie Stadt",268
+,,07318,"Speyer, kreisfreie Stadt",45
+,,07319,"Worms, kreisfreie Stadt",17
+,,07331,Alzey-Worms,20
+,,07332,Bad Dürkheim,12
+,,07334,Germersheim,11
+,,07338,Rhein-Pfalz-Kreis,11
+,,07339,Mainz-Bingen,72
+,,07340,Südwestpfalz,17
+,,070,Übrige Kreise (Regierungsbezirk),65
+,,070,Rheinland-Pfalz,834
+,,07,Rheinland-Pfalz,834
+,,08111,"Stuttgart, Landeshauptstadt",155
+,,08115,Böblingen,61
+,,08116,Esslingen,49
+,,08117,Göppingen,23
+,,08118,Ludwigsburg,102
+,,08119,Rems-Murr-Kreis,35
+,,08121,"Heilbronn, Stadt",27
+,,08125,Heilbronn,39
+,,08126,Hohenlohekreis,53
+,,08127,Schwäbisch Hall,16
+,,08128,Main-Tauber-Kreis,35
+,,08136,Ostalbkreis,19
+,,081,Übrige Kreise (Regierungsbezirk),9
+,,081,Reg.-Bez. Stuttgart,623
+,,08211,"Baden-Baden, Stadt",13
+,,08212,"Karlsruhe, Stadt",74
+,,08215,Karlsruhe,49
+,,08216,Rastatt,22
+,,08221,"Heidelberg, Stadt",64
+,,08222,"Mannheim, Universitätsstadt",237
+,,08225,Neckar-Odenwald-Kreis,17
+,,08226,Rhein-Neckar-Kreis,117
+,,08231,"Pforzheim, Stadt",23
+,,08237,Freudenstadt,10
+,,082,Übrige Kreise (Regierungsbezirk),16
+,,082,Reg.-Bez. Karlsruhe,642
+,,08311,"Freiburg im Breisgau, Stadt",13
+,,08315,Breisgau-Hochschwarzwald,17
+,,08317,Ortenaukreis,52
+,,08326,Schwarzwald-Baar-Kreis,64
+,,08327,Tuttlingen,16
+,,08335,Konstanz,14
+,,08336,Lörrach,23
+,,08337,Waldshut,20
+,,083,Übrige Kreise (Regierungsbezirk),11
+,,083,Reg.-Bez. Freiburg,230
+,,08415,Reutlingen,30
+,,08416,Tübingen,12
+,,08417,Zollernalbkreis,12
+,,08421,"Ulm, Universitätsstadt",15
+,,08426,Biberach,10
+,,08435,Bodenseekreis,23
+,,08436,Ravensburg,18
+,,08437,Sigmaringen,12
+,,084,Übrige Kreise (Regierungsbezirk),5
+,,084,Reg.-Bez. Tübingen,137
+,,08,Baden-Württemberg,"1,632"
+,,09161,"Ingolstadt, Stadt",28
+,,09162,"München, Landeshauptstadt",438
+,,09172,Berchtesgadener Land,10
+,,09174,Dachau,16
+,,09175,Ebersberg,13
+,,09177,Erding,12
+,,09178,Freising,40
+,,09179,Fürstenfeldbruck,16
+,,09184,München,155
+,,09186,Pfaffenhofen a.d.Ilm,12
+,,09187,Rosenheim,13
+,,091,Übrige Kreise (Regierungsbezirk),64
+,,091,Oberbayern,817
+,,09277,Rottal-Inn,20
+,,092,Übrige Kreise (Regierungsbezirk),41
+,,092,Niederbayern,61
+,,09362,"Regensburg, Stadt",18
+,,09373,Neumarkt i.d.OPf.,15
+,,093,Übrige Kreise (Regierungsbezirk),37
+,,093,Oberpfalz,70
+,,09461,"Bamberg, Stadt",22
+,,09471,Bamberg,52
+,,09475,Hof,13
+,,094,Übrige Kreise (Regierungsbezirk),39
+,,094,Oberfranken,126
+,,09561,"Ansbach, Stadt",24
+,,09562,"Erlangen, Stadt",69
+,,09563,"Fürth, Stadt",16
+,,09564,"Nürnberg, Stadt",127
+,,09571,Ansbach,14
+,,09572,Erlangen-Höchstadt,16
+,,09574,Nürnberger Land,11
+,,095,Übrige Kreise (Regierungsbezirk),22
+,,095,Mittelfranken,299
+,,09661,"Aschaffenburg, Stadt","1,260"
+,,09662,"Schweinfurt, Stadt",24
+,,09663,"Würzburg, Stadt",80
+,,09671,Aschaffenburg,"4,002"
+,,09672,Bad Kissingen,469
+,,09673,Rhön-Grabfeld,19
+,,09674,Haßberge,11
+,,09675,Kitzingen,20
+,,09676,Miltenberg,314
+,,09677,Main-Spessart,482
+,,09678,Schweinfurt,11
+,,09679,Würzburg,25
+,,096,Unterfranken,"6,717"
+,,09761,"Augsburg, Stadt",36
+,,09772,Augsburg,19
+,,09775,Neu-Ulm,69
+,,09778,Unterallgäu,12
+,,09779,Donau-Ries,15
+,,097,Übrige Kreise (Regierungsbezirk),52
+,,097,Schwaben,203
+,,09,Bayern,"8,293"
+,,10041,Regionalverband Saarbrücken,216
+,,10042,Merzig-Wadern,11
+,,10044,Saarlouis,12
+,,100,Übrige Kreise (Regierungsbezirk),17
+,,100,Saarland,256
+,,10,Saarland,256
+,,11000,"Berlin, Stadt",430
+,,110,Berlin,430
+,,11,Berlin,430
+,,12054,"Potsdam, Stadt",14
+,,12061,Dahme-Spreewald,11
+,,12069,Potsdam-Mittelmark,30
+,,120,Übrige Kreise (Regierungsbezirk),42
+,,120,Brandenburg,97
+,,12,Brandenburg,97
+,,130,Mecklenburg-Vorpommern,25
+,,13,Mecklenburg-Vorpommern,25
+,,14511,"Chemnitz, Stadt",18
+,,14521,Erzgebirgskreis,14
+,,14612,"Dresden, Stadt",21
+,,14625,Bautzen,32
+,,14713,"Leipzig, Stadt",44
+,,140,Übrige Kreise (Regierungsbezirk),37
+,,140,Sachsen,166
+,,14,Sachsen,166
+,,15002,"Halle (Saale), Stadt",13
+,,15003,"Magdeburg, Landeshauptstadt",10
+,,150,Übrige Kreise (Regierungsbezirk),38
+,,150,Sachsen-Anhalt,61
+,,15,Sachsen-Anhalt,61
+,,16051,"Erfurt, Stadt",24
+,,16052,"Gera, Stadt",10
+,,16053,"Jena, Stadt",13
+,,16063,Wartburgkreis,41
+,,16067,Gotha,17
+,,16070,Ilm-Kreis,12
+,,160,Übrige Kreise (Regierungsbezirk),57
+,,160,Thüringen,174
+,,16,Thüringen,174
+,,ZZ,Auspendler in das Bundesgebiet,"77,266"
+,,Z,Auspendler insgesamt,"77,266"
+06436,Main-Taunus-Kreis,,,
+,,01003,"Lübeck, Hansestadt",15
+,,01053,Herzogtum Lauenburg,13
+,,01054,Nordfriesland,11
+,,01060,Segeberg,18
+,,01062,Stormarn,16
+,,010,Übrige Kreise (Regierungsbezirk),26
+,,010,Schleswig-Holstein,99
+,,01,Schleswig-Holstein,99
+,,02000,"Hamburg, Freie und Hansestadt",373
+,,020,Hamburg,373
+,,02,Hamburg,373
+,,03101,"Braunschweig, Stadt",16
+,,03155,Northeim,12
+,,03159,Göttingen,13
+,,031,Übrige Kreise (Regierungsbezirk),15
+,,031,Statistische Region Braunschweig,56
+,,03241,Region Hannover,61
+,,032,Übrige Kreise (Regierungsbezirk),13
+,,032,Statistische Region Hannover,74
+,,03353,Harburg,12
+,,033,Übrige Kreise (Regierungsbezirk),27
+,,033,Statistische Region Lüneburg,39
+,,03404,"Osnabrück, Stadt",22
+,,034,Übrige Kreise (Regierungsbezirk),38
+,,034,Statistische Region Weser-Ems,60
+,,03,Niedersachsen,229
+,,04011,"Bremen, Stadt",37
+,,040,Übrige Kreise (Regierungsbezirk),4
+,,040,Bremen,41
+,,04,Bremen,41
+,,05111,"Düsseldorf, Stadt",342
+,,05112,"Duisburg, Stadt",34
+,,05113,"Essen, Stadt",91
+,,05114,"Krefeld, Stadt",10
+,,05116,"Mönchengladbach, Stadt",22
+,,05117,"Mülheim an der Ruhr, Stadt",10
+,,05124,"Wuppertal, Stadt",19
+,,05154,Kleve,11
+,,05158,Mettmann,53
+,,05162,Rhein-Kreis Neuss,53
+,,05166,Viersen,10
+,,05170,Wesel,12
+,,051,Übrige Kreise (Regierungsbezirk),18
+,,051,Reg.-Bez. Düsseldorf,685
+,,05314,"Bonn, Stadt",88
+,,05315,"Köln, Stadt",369
+,,05316,"Leverkusen, Stadt",23
+,,05334,Städteregion Aachen,33
+,,05362,Rhein-Erft-Kreis,62
+,,05374,Oberbergischer Kreis,23
+,,05378,Rheinisch-Bergischer Kreis,23
+,,05382,Rhein-Sieg-Kreis,43
+,,053,Übrige Kreise (Regierungsbezirk),19
+,,053,Reg.-Bez. Köln,683
+,,05515,"Münster, Stadt",21
+,,05562,Recklinghausen,39
+,,05566,Steinfurt,18
+,,055,Übrige Kreise (Regierungsbezirk),28
+,,055,Reg.-Bez. Münster,106
+,,05711,"Bielefeld, Stadt",14
+,,05754,Gütersloh,28
+,,05766,Lippe,13
+,,05770,Minden-Lübbecke,12
+,,057,Übrige Kreise (Regierungsbezirk),20
+,,057,Reg.-Bez. Detmold,87
+,,05911,"Bochum, Stadt",24
+,,05913,"Dortmund, Stadt",100
+,,05962,Märkischer Kreis,10
+,,05970,Siegen-Wittgenstein,18
+,,05978,Unna,33
+,,059,Übrige Kreise (Regierungsbezirk),37
+,,059,Reg.-Bez. Arnsberg,222
+,,05,Nordrhein-Westfalen,"1,783"
+,,06411,"Darmstadt, Wissenschaftsstadt","1,061"
+,,06412,"Frankfurt am Main, Stadt","34,183"
+,,06413,"Offenbach am Main, Stadt",762
+,,06414,"Wiesbaden, Landeshauptstadt","5,972"
+,,06431,Bergstraße,111
+,,06432,Darmstadt-Dieburg,394
+,,06433,Groß-Gerau,"4,349"
+,,06434,Hochtaunuskreis,"5,111"
+,,06435,Main-Kinzig-Kreis,562
+,,06437,Odenwaldkreis,25
+,,06438,Offenbach,"2,173"
+,,06439,Rheingau-Taunus-Kreis,833
+,,06440,Wetteraukreis,615
+,,064,Reg.-Bez. Darmstadt,"56,151"
+,,06531,Gießen,109
+,,06532,Lahn-Dill-Kreis,80
+,,06533,Limburg-Weilburg,333
+,,06534,Marburg-Biedenkopf,89
+,,06535,Vogelsbergkreis,26
+,,065,Reg.-Bez. Gießen,637
+,,06611,"Kassel, documenta-Stadt",65
+,,06631,Fulda,46
+,,06632,Hersfeld-Rotenburg,11
+,,06634,Schwalm-Eder-Kreis,10
+,,06635,Waldeck-Frankenberg,14
+,,066,Übrige Kreise (Regierungsbezirk),6
+,,066,Reg.-Bez. Kassel,152
+,,06,Hessen,"56,940"
+,,07111,"Koblenz, kreisfreie Stadt",51
+,,07133,Bad Kreuznach,77
+,,07134,Birkenfeld,13
+,,07137,Mayen-Koblenz,22
+,,07138,Neuwied,13
+,,07140,Rhein-Hunsrück-Kreis,32
+,,07141,Rhein-Lahn-Kreis,43
+,,07143,Westerwaldkreis,58
+,,07211,"Trier, kreisfreie Stadt",10
+,,07233,Vulkaneifel,15
+,,07311,"Frankenthal (Pfalz), kr.f. St.",12
+,,07312,"Kaiserslautern, kreisfr. Stadt",22
+,,07314,"Ludwigshafen am Rhein, Stadt",84
+,,07315,"Mainz, kreisfreie Stadt","1,774"
+,,07316,"Neustadt an der Weinstraße,St.",10
+,,07319,"Worms, kreisfreie Stadt",12
+,,07331,Alzey-Worms,58
+,,07333,Donnersbergkreis,10
+,,07335,Kaiserslautern,12
+,,07338,Rhein-Pfalz-Kreis,13
+,,07339,Mainz-Bingen,427
+,,070,Übrige Kreise (Regierungsbezirk),77
+,,070,Rheinland-Pfalz,"2,845"
+,,07,Rheinland-Pfalz,"2,845"
+,,08111,"Stuttgart, Landeshauptstadt",146
+,,08115,Böblingen,42
+,,08116,Esslingen,52
+,,08117,Göppingen,11
+,,08118,Ludwigsburg,56
+,,08119,Rems-Murr-Kreis,27
+,,08121,"Heilbronn, Stadt",14
+,,08125,Heilbronn,36
+,,08126,Hohenlohekreis,15
+,,08128,Main-Tauber-Kreis,17
+,,08136,Ostalbkreis,19
+,,081,Übrige Kreise (Regierungsbezirk),9
+,,081,Reg.-Bez. Stuttgart,444
+,,08212,"Karlsruhe, Stadt",56
+,,08215,Karlsruhe,40
+,,08216,Rastatt,18
+,,08221,"Heidelberg, Stadt",66
+,,08222,"Mannheim, Universitätsstadt",172
+,,08226,Rhein-Neckar-Kreis,112
+,,08231,"Pforzheim, Stadt",19
+,,082,Übrige Kreise (Regierungsbezirk),17
+,,082,Reg.-Bez. Karlsruhe,500
+,,08311,"Freiburg im Breisgau, Stadt",27
+,,08317,Ortenaukreis,24
+,,08336,Lörrach,30
+,,083,Übrige Kreise (Regierungsbezirk),43
+,,083,Reg.-Bez. Freiburg,124
+,,08416,Tübingen,17
+,,08421,"Ulm, Universitätsstadt",11
+,,08435,Bodenseekreis,10
+,,08436,Ravensburg,14
+,,084,Übrige Kreise (Regierungsbezirk),26
+,,084,Reg.-Bez. Tübingen,78
+,,08,Baden-Württemberg,"1,146"
+,,09161,"Ingolstadt, Stadt",10
+,,09162,"München, Landeshauptstadt",449
+,,09174,Dachau,10
+,,09175,Ebersberg,16
+,,09178,Freising,68
+,,09179,Fürstenfeldbruck,16
+,,09184,München,128
+,,09186,Pfaffenhofen a.d.Ilm,10
+,,091,Übrige Kreise (Regierungsbezirk),60
+,,091,Oberbayern,767
+,,092,Niederbayern,31
+,,09362,"Regensburg, Stadt",21
+,,09373,Neumarkt i.d.OPf.,12
+,,093,Übrige Kreise (Regierungsbezirk),16
+,,093,Oberpfalz,49
+,,09475,Hof,10
+,,094,Übrige Kreise (Regierungsbezirk),32
+,,094,Oberfranken,42
+,,09562,"Erlangen, Stadt",28
+,,09564,"Nürnberg, Stadt",105
+,,095,Übrige Kreise (Regierungsbezirk),47
+,,095,Mittelfranken,180
+,,09661,"Aschaffenburg, Stadt",91
+,,09663,"Würzburg, Stadt",23
+,,09671,Aschaffenburg,95
+,,09672,Bad Kissingen,10
+,,09676,Miltenberg,45
+,,09677,Main-Spessart,18
+,,096,Übrige Kreise (Regierungsbezirk),21
+,,096,Unterfranken,303
+,,09761,"Augsburg, Stadt",14
+,,097,Übrige Kreise (Regierungsbezirk),54
+,,097,Schwaben,68
+,,09,Bayern,"1,440"
+,,10041,Regionalverband Saarbrücken,51
+,,10043,Neunkirchen,11
+,,10045,Saarpfalz-Kreis,10
+,,100,Übrige Kreise (Regierungsbezirk),16
+,,100,Saarland,88
+,,10,Saarland,88
+,,11000,"Berlin, Stadt",322
+,,110,Berlin,322
+,,11,Berlin,322
+,,12069,Potsdam-Mittelmark,14
+,,120,Übrige Kreise (Regierungsbezirk),35
+,,120,Brandenburg,49
+,,12,Brandenburg,49
+,,130,Mecklenburg-Vorpommern,13
+,,13,Mecklenburg-Vorpommern,13
+,,14612,"Dresden, Stadt",15
+,,14713,"Leipzig, Stadt",38
+,,140,Übrige Kreise (Regierungsbezirk),37
+,,140,Sachsen,90
+,,14,Sachsen,90
+,,15003,"Magdeburg, Landeshauptstadt",10
+,,150,Übrige Kreise (Regierungsbezirk),14
+,,150,Sachsen-Anhalt,24
+,,15,Sachsen-Anhalt,24
+,,16051,"Erfurt, Stadt",11
+,,160,Übrige Kreise (Regierungsbezirk),42
+,,160,Thüringen,53
+,,16,Thüringen,53
+,,ZZ,Auspendler in das Bundesgebiet,"65,535"
+,,Z,Auspendler insgesamt,"65,535"
+06437,Odenwaldkreis,,,
+,,010,Schleswig-Holstein,23
+,,01,Schleswig-Holstein,23
+,,02000,"Hamburg, Freie und Hansestadt",32
+,,020,Hamburg,32
+,,02,Hamburg,32
+,,031,Statistische Region Braunschweig,17
+,,03241,Region Hannover,12
+,,032,Übrige Kreise (Regierungsbezirk),3
+,,032,Statistische Region Hannover,15
+,,033,Statistische Region Lüneburg,19
+,,03460,Vechta,10
+,,034,Übrige Kreise (Regierungsbezirk),26
+,,034,Statistische Region Weser-Ems,36
+,,03,Niedersachsen,87
+,,05111,"Düsseldorf, Stadt",28
+,,05113,"Essen, Stadt",24
+,,05158,Mettmann,16
+,,051,Übrige Kreise (Regierungsbezirk),54
+,,051,Reg.-Bez. Düsseldorf,122
+,,05314,"Bonn, Stadt",15
+,,05315,"Köln, Stadt",46
+,,05362,Rhein-Erft-Kreis,31
+,,05374,Oberbergischer Kreis,10
+,,053,Übrige Kreise (Regierungsbezirk),24
+,,053,Reg.-Bez. Köln,126
+,,055,Reg.-Bez. Münster,31
+,,05754,Gütersloh,10
+,,057,Übrige Kreise (Regierungsbezirk),15
+,,057,Reg.-Bez. Detmold,25
+,,05913,"Dortmund, Stadt",17
+,,059,Übrige Kreise (Regierungsbezirk),34
+,,059,Reg.-Bez. Arnsberg,51
+,,05,Nordrhein-Westfalen,355
+,,06411,"Darmstadt, Wissenschaftsstadt","2,752"
+,,06412,"Frankfurt am Main, Stadt","1,289"
+,,06413,"Offenbach am Main, Stadt",91
+,,06414,"Wiesbaden, Landeshauptstadt",88
+,,06431,Bergstraße,"1,278"
+,,06432,Darmstadt-Dieburg,"3,647"
+,,06433,Groß-Gerau,266
+,,06434,Hochtaunuskreis,58
+,,06435,Main-Kinzig-Kreis,166
+,,06436,Main-Taunus-Kreis,120
+,,06438,Offenbach,631
+,,06439,Rheingau-Taunus-Kreis,25
+,,06440,Wetteraukreis,51
+,,064,Reg.-Bez. Darmstadt,"10,462"
+,,06531,Gießen,17
+,,06535,Vogelsbergkreis,12
+,,065,Übrige Kreise (Regierungsbezirk),12
+,,065,Reg.-Bez. Gießen,41
+,,06611,"Kassel, documenta-Stadt",11
+,,066,Übrige Kreise (Regierungsbezirk),27
+,,066,Reg.-Bez. Kassel,38
+,,06,Hessen,"10,541"
+,,07313,"Landau in der Pfalz, kr.f. St.",36
+,,07314,"Ludwigshafen am Rhein, Stadt",62
+,,07315,"Mainz, kreisfreie Stadt",65
+,,07319,"Worms, kreisfreie Stadt",18
+,,07331,Alzey-Worms,10
+,,07338,Rhein-Pfalz-Kreis,17
+,,07339,Mainz-Bingen,18
+,,070,Übrige Kreise (Regierungsbezirk),75
+,,070,Rheinland-Pfalz,301
+,,07,Rheinland-Pfalz,301
+,,08111,"Stuttgart, Landeshauptstadt",43
+,,08115,Böblingen,14
+,,08116,Esslingen,19
+,,08118,Ludwigsburg,32
+,,08119,Rems-Murr-Kreis,13
+,,08121,"Heilbronn, Stadt",13
+,,08125,Heilbronn,54
+,,08126,Hohenlohekreis,31
+,,08128,Main-Tauber-Kreis,15
+,,081,Übrige Kreise (Regierungsbezirk),19
+,,081,Reg.-Bez. Stuttgart,253
+,,08212,"Karlsruhe, Stadt",21
+,,08215,Karlsruhe,22
+,,08221,"Heidelberg, Stadt",275
+,,08222,"Mannheim, Universitätsstadt",228
+,,08225,Neckar-Odenwald-Kreis,215
+,,08226,Rhein-Neckar-Kreis,958
+,,082,Übrige Kreise (Regierungsbezirk),22
+,,082,Reg.-Bez. Karlsruhe,"1,741"
+,,083,Reg.-Bez. Freiburg,41
+,,084,Reg.-Bez. Tübingen,33
+,,08,Baden-Württemberg,"2,068"
+,,09162,"München, Landeshauptstadt",57
+,,09184,München,27
+,,091,Übrige Kreise (Regierungsbezirk),40
+,,091,Oberbayern,124
+,,092,Niederbayern,19
+,,093,Oberpfalz,12
+,,094,Oberfranken,17
+,,09564,"Nürnberg, Stadt",16
+,,095,Übrige Kreise (Regierungsbezirk),25
+,,095,Mittelfranken,41
+,,09661,"Aschaffenburg, Stadt",363
+,,09663,"Würzburg, Stadt",17
+,,09671,Aschaffenburg,347
+,,09676,Miltenberg,"1,525"
+,,09677,Main-Spessart,44
+,,096,Übrige Kreise (Regierungsbezirk),20
+,,096,Unterfranken,"2,316"
+,,097,Schwaben,38
+,,09,Bayern,"2,567"
+,,10043,Neunkirchen,20
+,,100,Übrige Kreise (Regierungsbezirk),10
+,,100,Saarland,30
+,,10,Saarland,30
+,,11000,"Berlin, Stadt",47
+,,110,Berlin,47
+,,11,Berlin,47
+,,12054,"Potsdam, Stadt",13
+,,120,Übrige Kreise (Regierungsbezirk),5
+,,120,Brandenburg,18
+,,12,Brandenburg,18
+,,140,Sachsen,20
+,,14,Sachsen,20
+,,160,Thüringen,20
+,,16,Thüringen,20
+,,ZZ,Übrige Bundesländer,21
+,,ZZ,Auspendler in das Bundesgebiet,"16,130"
+,,Z,Auspendler insgesamt,"16,130"
+06438,Offenbach,,,
+,,01002,"Kiel, Landeshauptstadt",15
+,,01003,"Lübeck, Hansestadt",26
+,,01053,Herzogtum Lauenburg,10
+,,01056,Pinneberg,13
+,,01060,Segeberg,22
+,,01062,Stormarn,15
+,,010,Übrige Kreise (Regierungsbezirk),22
+,,010,Schleswig-Holstein,123
+,,01,Schleswig-Holstein,123
+,,02000,"Hamburg, Freie und Hansestadt",480
+,,020,Hamburg,480
+,,02,Hamburg,480
+,,03101,"Braunschweig, Stadt",17
+,,03103,"Wolfsburg, Stadt",12
+,,03155,Northeim,16
+,,03159,Göttingen,19
+,,031,Übrige Kreise (Regierungsbezirk),17
+,,031,Statistische Region Braunschweig,81
+,,03241,Region Hannover,127
+,,03252,Hameln-Pyrmont,15
+,,032,Übrige Kreise (Regierungsbezirk),22
+,,032,Statistische Region Hannover,164
+,,03353,Harburg,17
+,,03359,Stade,10
+,,033,Übrige Kreise (Regierungsbezirk),29
+,,033,Statistische Region Lüneburg,56
+,,03404,"Osnabrück, Stadt",18
+,,03454,Emsland,23
+,,034,Übrige Kreise (Regierungsbezirk),55
+,,034,Statistische Region Weser-Ems,96
+,,03,Niedersachsen,397
+,,04011,"Bremen, Stadt",52
+,,040,Übrige Kreise (Regierungsbezirk),5
+,,040,Bremen,57
+,,04,Bremen,57
+,,05111,"Düsseldorf, Stadt",359
+,,05112,"Duisburg, Stadt",52
+,,05113,"Essen, Stadt",94
+,,05114,"Krefeld, Stadt",26
+,,05116,"Mönchengladbach, Stadt",45
+,,05117,"Mülheim an der Ruhr, Stadt",18
+,,05119,"Oberhausen, Stadt",19
+,,05122,"Solingen, Klingenstadt",15
+,,05124,"Wuppertal, Stadt",40
+,,05154,Kleve,20
+,,05158,Mettmann,93
+,,05162,Rhein-Kreis Neuss,71
+,,05166,Viersen,21
+,,05170,Wesel,20
+,,051,Übrige Kreise (Regierungsbezirk),6
+,,051,Reg.-Bez. Düsseldorf,899
+,,05314,"Bonn, Stadt",81
+,,05315,"Köln, Stadt",441
+,,05316,"Leverkusen, Stadt",16
+,,05334,Städteregion Aachen,37
+,,05358,Düren,12
+,,05362,Rhein-Erft-Kreis,48
+,,05366,Euskirchen,22
+,,05374,Oberbergischer Kreis,38
+,,05378,Rheinisch-Bergischer Kreis,10
+,,05382,Rhein-Sieg-Kreis,82
+,,053,Übrige Kreise (Regierungsbezirk),9
+,,053,Reg.-Bez. Köln,796
+,,05513,"Gelsenkirchen, Stadt",17
+,,05515,"Münster, Stadt",32
+,,05554,Borken,15
+,,05562,Recklinghausen,32
+,,05566,Steinfurt,24
+,,05570,Warendorf,13
+,,055,Übrige Kreise (Regierungsbezirk),13
+,,055,Reg.-Bez. Münster,146
+,,05711,"Bielefeld, Stadt",28
+,,05754,Gütersloh,37
+,,05758,Herford,16
+,,05766,Lippe,12
+,,05770,Minden-Lübbecke,17
+,,05774,Paderborn,23
+,,057,Übrige Kreise (Regierungsbezirk),3
+,,057,Reg.-Bez. Detmold,136
+,,05911,"Bochum, Stadt",27
+,,05913,"Dortmund, Stadt",104
+,,05915,"Hamm, Stadt",11
+,,05916,"Herne, Stadt",10
+,,05954,Ennepe-Ruhr-Kreis,14
+,,05958,Hochsauerlandkreis,14
+,,05962,Märkischer Kreis,12
+,,05970,Siegen-Wittgenstein,43
+,,05978,Unna,40
+,,059,Übrige Kreise (Regierungsbezirk),18
+,,059,Reg.-Bez. Arnsberg,293
+,,05,Nordrhein-Westfalen,"2,270"
+,,06411,"Darmstadt, Wissenschaftsstadt","3,815"
+,,06412,"Frankfurt am Main, Stadt","38,420"
+,,06413,"Offenbach am Main, Stadt","11,166"
+,,06414,"Wiesbaden, Landeshauptstadt","1,147"
+,,06431,Bergstraße,343
+,,06432,Darmstadt-Dieburg,"3,605"
+,,06433,Groß-Gerau,"3,405"
+,,06434,Hochtaunuskreis,"2,109"
+,,06435,Main-Kinzig-Kreis,"5,226"
+,,06436,Main-Taunus-Kreis,"2,843"
+,,06437,Odenwaldkreis,127
+,,06439,Rheingau-Taunus-Kreis,163
+,,06440,Wetteraukreis,"1,064"
+,,064,Reg.-Bez. Darmstadt,"73,433"
+,,06531,Gießen,196
+,,06532,Lahn-Dill-Kreis,89
+,,06533,Limburg-Weilburg,100
+,,06534,Marburg-Biedenkopf,73
+,,06535,Vogelsbergkreis,45
+,,065,Reg.-Bez. Gießen,503
+,,06611,"Kassel, documenta-Stadt",57
+,,06631,Fulda,107
+,,06632,Hersfeld-Rotenburg,19
+,,06633,Kassel,12
+,,06634,Schwalm-Eder-Kreis,17
+,,06635,Waldeck-Frankenberg,13
+,,066,Übrige Kreise (Regierungsbezirk),8
+,,066,Reg.-Bez. Kassel,233
+,,06,Hessen,"74,169"
+,,07111,"Koblenz, kreisfreie Stadt",30
+,,07132,Altenkirchen (Westerwald),14
+,,07133,Bad Kreuznach,38
+,,07134,Birkenfeld,14
+,,07137,Mayen-Koblenz,24
+,,07138,Neuwied,16
+,,07140,Rhein-Hunsrück-Kreis,29
+,,07141,Rhein-Lahn-Kreis,24
+,,07143,Westerwaldkreis,30
+,,07211,"Trier, kreisfreie Stadt",12
+,,07311,"Frankenthal (Pfalz), kr.f. St.",32
+,,07312,"Kaiserslautern, kreisfr. Stadt",21
+,,07314,"Ludwigshafen am Rhein, Stadt",99
+,,07315,"Mainz, kreisfreie Stadt",539
+,,07318,"Speyer, kreisfreie Stadt",73
+,,07319,"Worms, kreisfreie Stadt",34
+,,07331,Alzey-Worms,46
+,,07332,Bad Dürkheim,13
+,,07334,Germersheim,12
+,,07335,Kaiserslautern,13
+,,07337,Südliche Weinstraße,14
+,,07338,Rhein-Pfalz-Kreis,29
+,,07339,Mainz-Bingen,146
+,,07340,Südwestpfalz,12
+,,070,Übrige Kreise (Regierungsbezirk),55
+,,070,Rheinland-Pfalz,"1,369"
+,,07,Rheinland-Pfalz,"1,369"
+,,08111,"Stuttgart, Landeshauptstadt",216
+,,08115,Böblingen,57
+,,08116,Esslingen,78
+,,08117,Göppingen,26
+,,08118,Ludwigsburg,122
+,,08119,Rems-Murr-Kreis,27
+,,08121,"Heilbronn, Stadt",19
+,,08125,Heilbronn,44
+,,08126,Hohenlohekreis,33
+,,08127,Schwäbisch Hall,29
+,,08128,Main-Tauber-Kreis,32
+,,08135,Heidenheim,10
+,,08136,Ostalbkreis,19
+,,081,Reg.-Bez. Stuttgart,712
+,,08211,"Baden-Baden, Stadt",10
+,,08212,"Karlsruhe, Stadt",93
+,,08215,Karlsruhe,88
+,,08216,Rastatt,27
+,,08221,"Heidelberg, Stadt",79
+,,08222,"Mannheim, Universitätsstadt",346
+,,08225,Neckar-Odenwald-Kreis,13
+,,08226,Rhein-Neckar-Kreis,211
+,,08231,"Pforzheim, Stadt",21
+,,08236,Enzkreis,13
+,,082,Übrige Kreise (Regierungsbezirk),12
+,,082,Reg.-Bez. Karlsruhe,913
+,,08311,"Freiburg im Breisgau, Stadt",21
+,,08315,Breisgau-Hochschwarzwald,13
+,,08316,Emmendingen,14
+,,08317,Ortenaukreis,28
+,,08326,Schwarzwald-Baar-Kreis,16
+,,08335,Konstanz,20
+,,08336,Lörrach,25
+,,08337,Waldshut,20
+,,083,Übrige Kreise (Regierungsbezirk),10
+,,083,Reg.-Bez. Freiburg,167
+,,08415,Reutlingen,15
+,,08416,Tübingen,10
+,,08417,Zollernalbkreis,10
+,,08421,"Ulm, Universitätsstadt",26
+,,08435,Bodenseekreis,20
+,,08436,Ravensburg,17
+,,08437,Sigmaringen,10
+,,084,Übrige Kreise (Regierungsbezirk),11
+,,084,Reg.-Bez. Tübingen,119
+,,08,Baden-Württemberg,"1,911"
+,,09161,"Ingolstadt, Stadt",23
+,,09162,"München, Landeshauptstadt",618
+,,09171,Altötting,12
+,,09174,Dachau,28
+,,09175,Ebersberg,19
+,,09177,Erding,17
+,,09178,Freising,95
+,,09179,Fürstenfeldbruck,11
+,,09184,München,169
+,,09188,Starnberg,17
+,,09189,Traunstein,11
+,,091,Übrige Kreise (Regierungsbezirk),63
+,,091,Oberbayern,"1,083"
+,,09271,Deggendorf,10
+,,09274,Landshut,12
+,,09277,Rottal-Inn,16
+,,092,Übrige Kreise (Regierungsbezirk),30
+,,092,Niederbayern,68
+,,09362,"Regensburg, Stadt",26
+,,09374,Neustadt a.d.Waldnaab,47
+,,093,Übrige Kreise (Regierungsbezirk),32
+,,093,Oberpfalz,105
+,,09461,"Bamberg, Stadt",10
+,,09471,Bamberg,12
+,,094,Übrige Kreise (Regierungsbezirk),52
+,,094,Oberfranken,74
+,,09561,"Ansbach, Stadt",55
+,,09562,"Erlangen, Stadt",97
+,,09563,"Fürth, Stadt",16
+,,09564,"Nürnberg, Stadt",186
+,,09571,Ansbach,16
+,,09572,Erlangen-Höchstadt,14
+,,09574,Nürnberger Land,11
+,,095,Übrige Kreise (Regierungsbezirk),20
+,,095,Mittelfranken,415
+,,09661,"Aschaffenburg, Stadt","1,120"
+,,09663,"Würzburg, Stadt",45
+,,09671,Aschaffenburg,"1,638"
+,,09672,Bad Kissingen,17
+,,09676,Miltenberg,362
+,,09677,Main-Spessart,92
+,,09679,Würzburg,22
+,,096,Übrige Kreise (Regierungsbezirk),32
+,,096,Unterfranken,"3,328"
+,,09761,"Augsburg, Stadt",24
+,,09772,Augsburg,15
+,,09775,Neu-Ulm,21
+,,097,Übrige Kreise (Regierungsbezirk),49
+,,097,Schwaben,109
+,,09,Bayern,"5,182"
+,,10041,Regionalverband Saarbrücken,170
+,,10042,Merzig-Wadern,10
+,,10044,Saarlouis,37
+,,100,Übrige Kreise (Regierungsbezirk),15
+,,100,Saarland,232
+,,10,Saarland,232
+,,11000,"Berlin, Stadt",398
+,,110,Berlin,398
+,,11,Berlin,398
+,,12054,"Potsdam, Stadt",20
+,,12069,Potsdam-Mittelmark,22
+,,120,Übrige Kreise (Regierungsbezirk),40
+,,120,Brandenburg,82
+,,12,Brandenburg,82
+,,130,Mecklenburg-Vorpommern,31
+,,13,Mecklenburg-Vorpommern,31
+,,14511,"Chemnitz, Stadt",17
+,,14524,Zwickau,10
+,,14612,"Dresden, Stadt",23
+,,14713,"Leipzig, Stadt",57
+,,14730,Nordsachsen,14
+,,140,Übrige Kreise (Regierungsbezirk),42
+,,140,Sachsen,163
+,,14,Sachsen,163
+,,15088,Saalekreis,14
+,,150,Übrige Kreise (Regierungsbezirk),45
+,,150,Sachsen-Anhalt,59
+,,15,Sachsen-Anhalt,59
+,,16051,"Erfurt, Stadt",23
+,,16053,"Jena, Stadt",11
+,,16070,Ilm-Kreis,13
+,,160,Übrige Kreise (Regierungsbezirk),56
+,,160,Thüringen,103
+,,16,Thüringen,103
+,,ZZ,Auspendler in das Bundesgebiet,"87,026"
+,,Z,Auspendler insgesamt,"87,026"
+06439,Rheingau-Taunus-Kreis,,,
+,,01003,"Lübeck, Hansestadt",11
+,,01060,Segeberg,10
+,,01062,Stormarn,10
+,,010,Übrige Kreise (Regierungsbezirk),37
+,,010,Schleswig-Holstein,68
+,,01,Schleswig-Holstein,68
+,,02000,"Hamburg, Freie und Hansestadt",178
+,,020,Hamburg,178
+,,02,Hamburg,178
+,,03159,Göttingen,12
+,,031,Übrige Kreise (Regierungsbezirk),16
+,,031,Statistische Region Braunschweig,28
+,,03241,Region Hannover,35
+,,032,Übrige Kreise (Regierungsbezirk),24
+,,032,Statistische Region Hannover,59
+,,03353,Harburg,18
+,,033,Übrige Kreise (Regierungsbezirk),28
+,,033,Statistische Region Lüneburg,46
+,,03404,"Osnabrück, Stadt",13
+,,03459,Osnabrück,11
+,,034,Übrige Kreise (Regierungsbezirk),21
+,,034,Statistische Region Weser-Ems,45
+,,03,Niedersachsen,178
+,,04011,"Bremen, Stadt",14
+,,040,Übrige Kreise (Regierungsbezirk),*
+,,040,Bremen,16
+,,04,Bremen,16
+,,05111,"Düsseldorf, Stadt",169
+,,05112,"Duisburg, Stadt",15
+,,05113,"Essen, Stadt",50
+,,05114,"Krefeld, Stadt",13
+,,05117,"Mülheim an der Ruhr, Stadt",11
+,,05124,"Wuppertal, Stadt",19
+,,05154,Kleve,18
+,,05158,Mettmann,26
+,,05162,Rhein-Kreis Neuss,20
+,,05166,Viersen,43
+,,05170,Wesel,11
+,,051,Übrige Kreise (Regierungsbezirk),19
+,,051,Reg.-Bez. Düsseldorf,414
+,,05314,"Bonn, Stadt",50
+,,05315,"Köln, Stadt",297
+,,05316,"Leverkusen, Stadt",16
+,,05334,Städteregion Aachen,23
+,,05358,Düren,11
+,,05362,Rhein-Erft-Kreis,23
+,,05374,Oberbergischer Kreis,10
+,,05378,Rheinisch-Bergischer Kreis,12
+,,05382,Rhein-Sieg-Kreis,43
+,,053,Übrige Kreise (Regierungsbezirk),6
+,,053,Reg.-Bez. Köln,491
+,,05515,"Münster, Stadt",19
+,,05566,Steinfurt,13
+,,055,Übrige Kreise (Regierungsbezirk),31
+,,055,Reg.-Bez. Münster,63
+,,05711,"Bielefeld, Stadt",17
+,,05754,Gütersloh,18
+,,05774,Paderborn,26
+,,057,Übrige Kreise (Regierungsbezirk),23
+,,057,Reg.-Bez. Detmold,84
+,,05911,"Bochum, Stadt",17
+,,05913,"Dortmund, Stadt",47
+,,05954,Ennepe-Ruhr-Kreis,13
+,,05962,Märkischer Kreis,10
+,,05970,Siegen-Wittgenstein,17
+,,059,Übrige Kreise (Regierungsbezirk),36
+,,059,Reg.-Bez. Arnsberg,140
+,,05,Nordrhein-Westfalen,"1,192"
+,,06411,"Darmstadt, Wissenschaftsstadt",401
+,,06412,"Frankfurt am Main, Stadt","7,663"
+,,06413,"Offenbach am Main, Stadt",220
+,,06414,"Wiesbaden, Landeshauptstadt","19,353"
+,,06431,Bergstraße,56
+,,06432,Darmstadt-Dieburg,139
+,,06433,Groß-Gerau,"1,450"
+,,06434,Hochtaunuskreis,"1,212"
+,,06435,Main-Kinzig-Kreis,205
+,,06436,Main-Taunus-Kreis,"2,856"
+,,06438,Offenbach,694
+,,06440,Wetteraukreis,167
+,,064,Übrige Kreise (Regierungsbezirk),9
+,,064,Reg.-Bez. Darmstadt,"34,425"
+,,06531,Gießen,77
+,,06532,Lahn-Dill-Kreis,66
+,,06533,Limburg-Weilburg,"1,399"
+,,06534,Marburg-Biedenkopf,29
+,,06535,Vogelsbergkreis,13
+,,065,Reg.-Bez. Gießen,"1,584"
+,,06611,"Kassel, documenta-Stadt",116
+,,06631,Fulda,31
+,,06632,Hersfeld-Rotenburg,10
+,,06634,Schwalm-Eder-Kreis,26
+,,06635,Waldeck-Frankenberg,10
+,,066,Übrige Kreise (Regierungsbezirk),9
+,,066,Reg.-Bez. Kassel,202
+,,06,Hessen,"36,211"
+,,07111,"Koblenz, kreisfreie Stadt",123
+,,07132,Altenkirchen (Westerwald),11
+,,07133,Bad Kreuznach,162
+,,07134,Birkenfeld,14
+,,07137,Mayen-Koblenz,38
+,,07138,Neuwied,32
+,,07140,Rhein-Hunsrück-Kreis,50
+,,07141,Rhein-Lahn-Kreis,744
+,,07143,Westerwaldkreis,123
+,,07235,Trier-Saarburg,14
+,,07311,"Frankenthal (Pfalz), kr.f. St.",12
+,,07312,"Kaiserslautern, kreisfr. Stadt",17
+,,07314,"Ludwigshafen am Rhein, Stadt",76
+,,07315,"Mainz, kreisfreie Stadt","2,543"
+,,07319,"Worms, kreisfreie Stadt",23
+,,07320,"Zweibrücken, kreisfreie Stadt",11
+,,07331,Alzey-Worms,95
+,,07333,Donnersbergkreis,15
+,,07335,Kaiserslautern,10
+,,07338,Rhein-Pfalz-Kreis,11
+,,07339,Mainz-Bingen,780
+,,070,Übrige Kreise (Regierungsbezirk),72
+,,070,Rheinland-Pfalz,"4,976"
+,,07,Rheinland-Pfalz,"4,976"
+,,08111,"Stuttgart, Landeshauptstadt",103
+,,08115,Böblingen,34
+,,08116,Esslingen,35
+,,08117,Göppingen,24
+,,08118,Ludwigsburg,37
+,,08119,Rems-Murr-Kreis,13
+,,08125,Heilbronn,19
+,,08126,Hohenlohekreis,16
+,,08136,Ostalbkreis,14
+,,081,Übrige Kreise (Regierungsbezirk),28
+,,081,Reg.-Bez. Stuttgart,323
+,,08212,"Karlsruhe, Stadt",28
+,,08215,Karlsruhe,18
+,,08216,Rastatt,19
+,,08221,"Heidelberg, Stadt",20
+,,08222,"Mannheim, Universitätsstadt",104
+,,08226,Rhein-Neckar-Kreis,74
+,,082,Übrige Kreise (Regierungsbezirk),27
+,,082,Reg.-Bez. Karlsruhe,290
+,,08311,"Freiburg im Breisgau, Stadt",18
+,,08315,Breisgau-Hochschwarzwald,11
+,,08317,Ortenaukreis,15
+,,08335,Konstanz,11
+,,08336,Lörrach,18
+,,083,Übrige Kreise (Regierungsbezirk),12
+,,083,Reg.-Bez. Freiburg,85
+,,08415,Reutlingen,12
+,,08421,"Ulm, Universitätsstadt",17
+,,084,Übrige Kreise (Regierungsbezirk),37
+,,084,Reg.-Bez. Tübingen,66
+,,08,Baden-Württemberg,764
+,,09162,"München, Landeshauptstadt",220
+,,09178,Freising,30
+,,09184,München,74
+,,091,Übrige Kreise (Regierungsbezirk),72
+,,091,Oberbayern,396
+,,092,Niederbayern,21
+,,09373,Neumarkt i.d.OPf.,12
+,,093,Übrige Kreise (Regierungsbezirk),26
+,,093,Oberpfalz,38
+,,094,Oberfranken,39
+,,09562,"Erlangen, Stadt",15
+,,09564,"Nürnberg, Stadt",27
+,,095,Übrige Kreise (Regierungsbezirk),36
+,,095,Mittelfranken,78
+,,09661,"Aschaffenburg, Stadt",46
+,,09663,"Würzburg, Stadt",14
+,,09671,Aschaffenburg,39
+,,09676,Miltenberg,18
+,,096,Übrige Kreise (Regierungsbezirk),38
+,,096,Unterfranken,155
+,,09772,Augsburg,10
+,,097,Übrige Kreise (Regierungsbezirk),49
+,,097,Schwaben,59
+,,09,Bayern,786
+,,10041,Regionalverband Saarbrücken,54
+,,10045,Saarpfalz-Kreis,16
+,,100,Übrige Kreise (Regierungsbezirk),13
+,,100,Saarland,83
+,,10,Saarland,83
+,,11000,"Berlin, Stadt",187
+,,110,Berlin,187
+,,11,Berlin,187
+,,120,Brandenburg,28
+,,12,Brandenburg,28
+,,130,Mecklenburg-Vorpommern,18
+,,13,Mecklenburg-Vorpommern,18
+,,14612,"Dresden, Stadt",12
+,,14713,"Leipzig, Stadt",11
+,,140,Übrige Kreise (Regierungsbezirk),25
+,,140,Sachsen,48
+,,14,Sachsen,48
+,,150,Sachsen-Anhalt,24
+,,15,Sachsen-Anhalt,24
+,,160,Thüringen,41
+,,16,Thüringen,41
+,,ZZ,Auspendler in das Bundesgebiet,"44,798"
+,,Z,Auspendler insgesamt,"44,798"
+06440,Wetteraukreis,,,
+,,01001,"Flensburg, Stadt",12
+,,01002,"Kiel, Landeshauptstadt",11
+,,01003,"Lübeck, Hansestadt",27
+,,01053,Herzogtum Lauenburg,13
+,,01060,Segeberg,34
+,,01062,Stormarn,22
+,,010,Übrige Kreise (Regierungsbezirk),33
+,,010,Schleswig-Holstein,152
+,,01,Schleswig-Holstein,152
+,,02000,"Hamburg, Freie und Hansestadt",350
+,,020,Hamburg,350
+,,02,Hamburg,350
+,,03101,"Braunschweig, Stadt",16
+,,03103,"Wolfsburg, Stadt",10
+,,03159,Göttingen,21
+,,031,Übrige Kreise (Regierungsbezirk),22
+,,031,Statistische Region Braunschweig,69
+,,03241,Region Hannover,134
+,,032,Übrige Kreise (Regierungsbezirk),22
+,,032,Statistische Region Hannover,156
+,,033,Statistische Region Lüneburg,39
+,,03404,"Osnabrück, Stadt",27
+,,03454,Emsland,12
+,,03460,Vechta,13
+,,034,Übrige Kreise (Regierungsbezirk),41
+,,034,Statistische Region Weser-Ems,93
+,,03,Niedersachsen,357
+,,04011,"Bremen, Stadt",46
+,,040,Übrige Kreise (Regierungsbezirk),*
+,,040,Bremen,48
+,,04,Bremen,48
+,,05111,"Düsseldorf, Stadt",312
+,,05112,"Duisburg, Stadt",29
+,,05113,"Essen, Stadt",69
+,,05114,"Krefeld, Stadt",14
+,,05116,"Mönchengladbach, Stadt",19
+,,05117,"Mülheim an der Ruhr, Stadt",10
+,,05119,"Oberhausen, Stadt",20
+,,05124,"Wuppertal, Stadt",34
+,,05154,Kleve,11
+,,05158,Mettmann,97
+,,05162,Rhein-Kreis Neuss,29
+,,05170,Wesel,18
+,,051,Übrige Kreise (Regierungsbezirk),19
+,,051,Reg.-Bez. Düsseldorf,681
+,,05314,"Bonn, Stadt",84
+,,05315,"Köln, Stadt",299
+,,05316,"Leverkusen, Stadt",11
+,,05334,Städteregion Aachen,45
+,,05358,Düren,12
+,,05362,Rhein-Erft-Kreis,35
+,,05374,Oberbergischer Kreis,39
+,,05382,Rhein-Sieg-Kreis,41
+,,053,Übrige Kreise (Regierungsbezirk),11
+,,053,Reg.-Bez. Köln,577
+,,05513,"Gelsenkirchen, Stadt",135
+,,05515,"Münster, Stadt",29
+,,05554,Borken,23
+,,05562,Recklinghausen,90
+,,05566,Steinfurt,23
+,,05570,Warendorf,10
+,,055,Übrige Kreise (Regierungsbezirk),13
+,,055,Reg.-Bez. Münster,323
+,,05711,"Bielefeld, Stadt",26
+,,05754,Gütersloh,66
+,,05758,Herford,11
+,,05766,Lippe,16
+,,05770,Minden-Lübbecke,14
+,,05774,Paderborn,18
+,,057,Übrige Kreise (Regierungsbezirk),5
+,,057,Reg.-Bez. Detmold,156
+,,05911,"Bochum, Stadt",20
+,,05913,"Dortmund, Stadt",89
+,,05914,"Hagen, Stadt der FernUniversi.",12
+,,05915,"Hamm, Stadt",10
+,,05954,Ennepe-Ruhr-Kreis,30
+,,05958,Hochsauerlandkreis,18
+,,05962,Märkischer Kreis,18
+,,05970,Siegen-Wittgenstein,59
+,,05974,Soest,13
+,,05978,Unna,54
+,,059,Übrige Kreise (Regierungsbezirk),13
+,,059,Reg.-Bez. Arnsberg,336
+,,05,Nordrhein-Westfalen,"2,073"
+,,06411,"Darmstadt, Wissenschaftsstadt",496
+,,06412,"Frankfurt am Main, Stadt","28,089"
+,,06413,"Offenbach am Main, Stadt","1,410"
+,,06414,"Wiesbaden, Landeshauptstadt",682
+,,06431,Bergstraße,104
+,,06432,Darmstadt-Dieburg,290
+,,06433,Groß-Gerau,779
+,,06434,Hochtaunuskreis,"7,648"
+,,06435,Main-Kinzig-Kreis,"7,714"
+,,06436,Main-Taunus-Kreis,"2,482"
+,,06437,Odenwaldkreis,18
+,,06438,Offenbach,"2,144"
+,,06439,Rheingau-Taunus-Kreis,152
+,,064,Reg.-Bez. Darmstadt,"52,008"
+,,06531,Gießen,"5,616"
+,,06532,Lahn-Dill-Kreis,"1,168"
+,,06533,Limburg-Weilburg,194
+,,06534,Marburg-Biedenkopf,337
+,,06535,Vogelsbergkreis,850
+,,065,Reg.-Bez. Gießen,"8,165"
+,,06611,"Kassel, documenta-Stadt",87
+,,06631,Fulda,159
+,,06632,Hersfeld-Rotenburg,34
+,,06633,Kassel,26
+,,06634,Schwalm-Eder-Kreis,45
+,,06635,Waldeck-Frankenberg,28
+,,066,Übrige Kreise (Regierungsbezirk),7
+,,066,Reg.-Bez. Kassel,386
+,,06,Hessen,"60,559"
+,,07111,"Koblenz, kreisfreie Stadt",36
+,,07132,Altenkirchen (Westerwald),15
+,,07133,Bad Kreuznach,19
+,,07137,Mayen-Koblenz,18
+,,07138,Neuwied,13
+,,07140,Rhein-Hunsrück-Kreis,19
+,,07141,Rhein-Lahn-Kreis,49
+,,07143,Westerwaldkreis,26
+,,07232,Eifelkreis Bitburg-Prüm,12
+,,07311,"Frankenthal (Pfalz), kr.f. St.",15
+,,07314,"Ludwigshafen am Rhein, Stadt",75
+,,07315,"Mainz, kreisfreie Stadt",254
+,,07318,"Speyer, kreisfreie Stadt",12
+,,07319,"Worms, kreisfreie Stadt",40
+,,07331,Alzey-Worms,18
+,,07339,Mainz-Bingen,55
+,,070,Übrige Kreise (Regierungsbezirk),97
+,,070,Rheinland-Pfalz,773
+,,07,Rheinland-Pfalz,773
+,,08111,"Stuttgart, Landeshauptstadt",143
+,,08115,Böblingen,30
+,,08116,Esslingen,60
+,,08117,Göppingen,14
+,,08118,Ludwigsburg,50
+,,08119,Rems-Murr-Kreis,17
+,,08125,Heilbronn,44
+,,08126,Hohenlohekreis,18
+,,08127,Schwäbisch Hall,19
+,,08136,Ostalbkreis,18
+,,081,Übrige Kreise (Regierungsbezirk),19
+,,081,Reg.-Bez. Stuttgart,432
+,,08212,"Karlsruhe, Stadt",71
+,,08215,Karlsruhe,43
+,,08216,Rastatt,18
+,,08221,"Heidelberg, Stadt",47
+,,08222,"Mannheim, Universitätsstadt",149
+,,08225,Neckar-Odenwald-Kreis,30
+,,08226,Rhein-Neckar-Kreis,80
+,,08231,"Pforzheim, Stadt",13
+,,082,Übrige Kreise (Regierungsbezirk),16
+,,082,Reg.-Bez. Karlsruhe,467
+,,08311,"Freiburg im Breisgau, Stadt",49
+,,08317,Ortenaukreis,32
+,,08325,Rottweil,12
+,,08326,Schwarzwald-Baar-Kreis,15
+,,08327,Tuttlingen,11
+,,08335,Konstanz,19
+,,08336,Lörrach,11
+,,08337,Waldshut,12
+,,083,Übrige Kreise (Regierungsbezirk),16
+,,083,Reg.-Bez. Freiburg,177
+,,08415,Reutlingen,16
+,,08416,Tübingen,11
+,,08417,Zollernalbkreis,14
+,,08421,"Ulm, Universitätsstadt",21
+,,08426,Biberach,10
+,,08436,Ravensburg,15
+,,084,Übrige Kreise (Regierungsbezirk),12
+,,084,Reg.-Bez. Tübingen,99
+,,08,Baden-Württemberg,"1,175"
+,,09161,"Ingolstadt, Stadt",15
+,,09162,"München, Landeshauptstadt",348
+,,09177,Erding,10
+,,09178,Freising,37
+,,09179,Fürstenfeldbruck,12
+,,09184,München,98
+,,09187,Rosenheim,11
+,,09188,Starnberg,10
+,,091,Übrige Kreise (Regierungsbezirk),69
+,,091,Oberbayern,610
+,,092,Niederbayern,45
+,,09362,"Regensburg, Stadt",23
+,,09373,Neumarkt i.d.OPf.,10
+,,093,Übrige Kreise (Regierungsbezirk),30
+,,093,Oberpfalz,63
+,,09471,Bamberg,11
+,,094,Übrige Kreise (Regierungsbezirk),50
+,,094,Oberfranken,61
+,,09562,"Erlangen, Stadt",34
+,,09564,"Nürnberg, Stadt",114
+,,09572,Erlangen-Höchstadt,12
+,,09574,Nürnberger Land,11
+,,095,Übrige Kreise (Regierungsbezirk),41
+,,095,Mittelfranken,212
+,,09661,"Aschaffenburg, Stadt",211
+,,09663,"Würzburg, Stadt",33
+,,09671,Aschaffenburg,463
+,,09672,Bad Kissingen,22
+,,09673,Rhön-Grabfeld,11
+,,09676,Miltenberg,73
+,,09677,Main-Spessart,39
+,,09678,Schweinfurt,12
+,,096,Übrige Kreise (Regierungsbezirk),20
+,,096,Unterfranken,884
+,,09761,"Augsburg, Stadt",21
+,,09774,Günzburg,11
+,,09775,Neu-Ulm,18
+,,097,Übrige Kreise (Regierungsbezirk),55
+,,097,Schwaben,105
+,,09,Bayern,"1,980"
+,,10041,Regionalverband Saarbrücken,75
+,,100,Übrige Kreise (Regierungsbezirk),21
+,,100,Saarland,96
+,,10,Saarland,96
+,,11000,"Berlin, Stadt",343
+,,110,Berlin,343
+,,11,Berlin,343
+,,12069,Potsdam-Mittelmark,11
+,,12072,Teltow-Fläming,10
+,,120,Übrige Kreise (Regierungsbezirk),38
+,,120,Brandenburg,59
+,,12,Brandenburg,59
+,,130,Mecklenburg-Vorpommern,22
+,,13,Mecklenburg-Vorpommern,22
+,,14522,Mittelsachsen,10
+,,14612,"Dresden, Stadt",24
+,,14713,"Leipzig, Stadt",24
+,,140,Übrige Kreise (Regierungsbezirk),50
+,,140,Sachsen,108
+,,14,Sachsen,108
+,,150,Sachsen-Anhalt,37
+,,15,Sachsen-Anhalt,37
+,,16051,"Erfurt, Stadt",20
+,,16063,Wartburgkreis,10
+,,16064,Unstrut-Hainich-Kreis,10
+,,160,Übrige Kreise (Regierungsbezirk),45
+,,160,Thüringen,85
+,,16,Thüringen,85
+,,ZZ,Auspendler in das Bundesgebiet,"68,217"
+,,Z,Auspendler insgesamt,"68,217"
+06531,Gießen,,,
+,,01002,"Kiel, Landeshauptstadt",11
+,,01003,"Lübeck, Hansestadt",31
+,,01060,Segeberg,17
+,,01062,Stormarn,10
+,,010,Übrige Kreise (Regierungsbezirk),42
+,,010,Schleswig-Holstein,111
+,,01,Schleswig-Holstein,111
+,,02000,"Hamburg, Freie und Hansestadt",187
+,,020,Hamburg,187
+,,02,Hamburg,187
+,,03101,"Braunschweig, Stadt",17
+,,03103,"Wolfsburg, Stadt",13
+,,03159,Göttingen,29
+,,031,Übrige Kreise (Regierungsbezirk),16
+,,031,Statistische Region Braunschweig,75
+,,03241,Region Hannover,96
+,,032,Übrige Kreise (Regierungsbezirk),31
+,,032,Statistische Region Hannover,127
+,,033,Statistische Region Lüneburg,45
+,,03403,"Oldenburg (Oldenburg), Stadt",13
+,,03404,"Osnabrück, Stadt",17
+,,03454,Emsland,16
+,,03456,Grafschaft Bentheim,16
+,,03459,Osnabrück,27
+,,03460,Vechta,13
+,,034,Übrige Kreise (Regierungsbezirk),27
+,,034,Statistische Region Weser-Ems,129
+,,03,Niedersachsen,376
+,,04011,"Bremen, Stadt",35
+,,040,Übrige Kreise (Regierungsbezirk),*
+,,040,Bremen,37
+,,04,Bremen,37
+,,05111,"Düsseldorf, Stadt",152
+,,05112,"Duisburg, Stadt",35
+,,05113,"Essen, Stadt",48
+,,05114,"Krefeld, Stadt",14
+,,05116,"Mönchengladbach, Stadt",14
+,,05117,"Mülheim an der Ruhr, Stadt",14
+,,05119,"Oberhausen, Stadt",12
+,,05124,"Wuppertal, Stadt",29
+,,05158,Mettmann,58
+,,05162,Rhein-Kreis Neuss,28
+,,05166,Viersen,14
+,,05170,Wesel,18
+,,051,Übrige Kreise (Regierungsbezirk),20
+,,051,Reg.-Bez. Düsseldorf,456
+,,05314,"Bonn, Stadt",82
+,,05315,"Köln, Stadt",295
+,,05316,"Leverkusen, Stadt",16
+,,05334,Städteregion Aachen,40
+,,05358,Düren,14
+,,05362,Rhein-Erft-Kreis,37
+,,05366,Euskirchen,13
+,,05374,Oberbergischer Kreis,54
+,,05378,Rheinisch-Bergischer Kreis,15
+,,05382,Rhein-Sieg-Kreis,35
+,,053,Übrige Kreise (Regierungsbezirk),3
+,,053,Reg.-Bez. Köln,604
+,,05513,"Gelsenkirchen, Stadt",22
+,,05515,"Münster, Stadt",21
+,,05554,Borken,16
+,,05558,Coesfeld,14
+,,05562,Recklinghausen,21
+,,05566,Steinfurt,19
+,,05570,Warendorf,10
+,,055,Übrige Kreise (Regierungsbezirk),3
+,,055,Reg.-Bez. Münster,126
+,,05711,"Bielefeld, Stadt",26
+,,05754,Gütersloh,32
+,,05758,Herford,11
+,,05766,Lippe,16
+,,05770,Minden-Lübbecke,14
+,,05774,Paderborn,16
+,,057,Übrige Kreise (Regierungsbezirk),5
+,,057,Reg.-Bez. Detmold,120
+,,05911,"Bochum, Stadt",16
+,,05913,"Dortmund, Stadt",49
+,,05914,"Hagen, Stadt der FernUniversi.",22
+,,05954,Ennepe-Ruhr-Kreis,27
+,,05958,Hochsauerlandkreis,33
+,,05962,Märkischer Kreis,23
+,,05966,Olpe,16
+,,05970,Siegen-Wittgenstein,240
+,,05974,Soest,16
+,,05978,Unna,211
+,,059,Übrige Kreise (Regierungsbezirk),11
+,,059,Reg.-Bez. Arnsberg,664
+,,05,Nordrhein-Westfalen,"1,970"
+,,06411,"Darmstadt, Wissenschaftsstadt",212
+,,06412,"Frankfurt am Main, Stadt","5,429"
+,,06413,"Offenbach am Main, Stadt",195
+,,06414,"Wiesbaden, Landeshauptstadt",322
+,,06431,Bergstraße,60
+,,06432,Darmstadt-Dieburg,218
+,,06433,Groß-Gerau,192
+,,06434,Hochtaunuskreis,"1,403"
+,,06435,Main-Kinzig-Kreis,594
+,,06436,Main-Taunus-Kreis,673
+,,06437,Odenwaldkreis,13
+,,06438,Offenbach,437
+,,06439,Rheingau-Taunus-Kreis,62
+,,06440,Wetteraukreis,"6,018"
+,,064,Reg.-Bez. Darmstadt,"15,828"
+,,06532,Lahn-Dill-Kreis,"7,069"
+,,06533,Limburg-Weilburg,429
+,,06534,Marburg-Biedenkopf,"3,655"
+,,06535,Vogelsbergkreis,"1,500"
+,,065,Reg.-Bez. Gießen,"12,653"
+,,06611,"Kassel, documenta-Stadt",287
+,,06631,Fulda,121
+,,06632,Hersfeld-Rotenburg,79
+,,06633,Kassel,34
+,,06634,Schwalm-Eder-Kreis,78
+,,06635,Waldeck-Frankenberg,227
+,,06636,Werra-Meißner-Kreis,14
+,,066,Reg.-Bez. Kassel,840
+,,06,Hessen,"29,321"
+,,07111,"Koblenz, kreisfreie Stadt",60
+,,07132,Altenkirchen (Westerwald),31
+,,07133,Bad Kreuznach,16
+,,07137,Mayen-Koblenz,24
+,,07138,Neuwied,19
+,,07140,Rhein-Hunsrück-Kreis,16
+,,07141,Rhein-Lahn-Kreis,44
+,,07143,Westerwaldkreis,75
+,,07211,"Trier, kreisfreie Stadt",10
+,,07232,Eifelkreis Bitburg-Prüm,40
+,,07311,"Frankenthal (Pfalz), kr.f. St.",15
+,,07312,"Kaiserslautern, kreisfr. Stadt",11
+,,07314,"Ludwigshafen am Rhein, Stadt",32
+,,07315,"Mainz, kreisfreie Stadt",165
+,,07319,"Worms, kreisfreie Stadt",20
+,,07331,Alzey-Worms,11
+,,07334,Germersheim,22
+,,07337,Südliche Weinstraße,57
+,,07339,Mainz-Bingen,35
+,,070,Übrige Kreise (Regierungsbezirk),52
+,,070,Rheinland-Pfalz,755
+,,07,Rheinland-Pfalz,755
+,,08111,"Stuttgart, Landeshauptstadt",90
+,,08115,Böblingen,38
+,,08116,Esslingen,47
+,,08117,Göppingen,11
+,,08118,Ludwigsburg,42
+,,08119,Rems-Murr-Kreis,14
+,,08121,"Heilbronn, Stadt",11
+,,08125,Heilbronn,27
+,,08126,Hohenlohekreis,35
+,,08128,Main-Tauber-Kreis,17
+,,08136,Ostalbkreis,22
+,,081,Übrige Kreise (Regierungsbezirk),14
+,,081,Reg.-Bez. Stuttgart,368
+,,08212,"Karlsruhe, Stadt",37
+,,08215,Karlsruhe,22
+,,08216,Rastatt,13
+,,08221,"Heidelberg, Stadt",39
+,,08222,"Mannheim, Universitätsstadt",76
+,,08226,Rhein-Neckar-Kreis,59
+,,08236,Enzkreis,13
+,,082,Übrige Kreise (Regierungsbezirk),20
+,,082,Reg.-Bez. Karlsruhe,279
+,,08311,"Freiburg im Breisgau, Stadt",20
+,,08317,Ortenaukreis,17
+,,08326,Schwarzwald-Baar-Kreis,12
+,,08335,Konstanz,13
+,,08336,Lörrach,13
+,,08337,Waldshut,10
+,,083,Übrige Kreise (Regierungsbezirk),21
+,,083,Reg.-Bez. Freiburg,106
+,,08415,Reutlingen,15
+,,08416,Tübingen,11
+,,084,Übrige Kreise (Regierungsbezirk),40
+,,084,Reg.-Bez. Tübingen,66
+,,08,Baden-Württemberg,819
+,,09161,"Ingolstadt, Stadt",14
+,,09162,"München, Landeshauptstadt",261
+,,09178,Freising,10
+,,09179,Fürstenfeldbruck,12
+,,09184,München,72
+,,09186,Pfaffenhofen a.d.Ilm,14
+,,09188,Starnberg,10
+,,091,Übrige Kreise (Regierungsbezirk),73
+,,091,Oberbayern,466
+,,092,Niederbayern,32
+,,09363,"Weiden i.d.OPf., Stadt",20
+,,093,Übrige Kreise (Regierungsbezirk),20
+,,093,Oberpfalz,40
+,,09462,"Bayreuth, Stadt",12
+,,09475,Hof,20
+,,094,Übrige Kreise (Regierungsbezirk),35
+,,094,Oberfranken,67
+,,09562,"Erlangen, Stadt",27
+,,09564,"Nürnberg, Stadt",57
+,,095,Übrige Kreise (Regierungsbezirk),48
+,,095,Mittelfranken,132
+,,09661,"Aschaffenburg, Stadt",35
+,,09663,"Würzburg, Stadt",26
+,,09671,Aschaffenburg,104
+,,09672,Bad Kissingen,11
+,,09676,Miltenberg,39
+,,096,Übrige Kreise (Regierungsbezirk),35
+,,096,Unterfranken,250
+,,09761,"Augsburg, Stadt",23
+,,09775,Neu-Ulm,10
+,,097,Übrige Kreise (Regierungsbezirk),43
+,,097,Schwaben,76
+,,09,Bayern,"1,063"
+,,10041,Regionalverband Saarbrücken,22
+,,100,Übrige Kreise (Regierungsbezirk),12
+,,100,Saarland,34
+,,10,Saarland,34
+,,11000,"Berlin, Stadt",267
+,,110,Berlin,267
+,,11,Berlin,267
+,,12069,Potsdam-Mittelmark,11
+,,120,Übrige Kreise (Regierungsbezirk),26
+,,120,Brandenburg,37
+,,12,Brandenburg,37
+,,130,Mecklenburg-Vorpommern,25
+,,13,Mecklenburg-Vorpommern,25
+,,14511,"Chemnitz, Stadt",13
+,,14612,"Dresden, Stadt",36
+,,14713,"Leipzig, Stadt",35
+,,140,Übrige Kreise (Regierungsbezirk),35
+,,140,Sachsen,119
+,,14,Sachsen,119
+,,150,Sachsen-Anhalt,43
+,,15,Sachsen-Anhalt,43
+,,16051,"Erfurt, Stadt",19
+,,16053,"Jena, Stadt",11
+,,16063,Wartburgkreis,13
+,,16066,Schmalkalden-Meiningen,11
+,,160,Übrige Kreise (Regierungsbezirk),40
+,,160,Thüringen,94
+,,16,Thüringen,94
+,,ZZ,Auspendler in das Bundesgebiet,"35,258"
+,,Z,Auspendler insgesamt,"35,258"
+06532,Lahn-Dill-Kreis,,,
+,,01056,Pinneberg,14
+,,01060,Segeberg,11
+,,010,Übrige Kreise (Regierungsbezirk),42
+,,010,Schleswig-Holstein,67
+,,01,Schleswig-Holstein,67
+,,02000,"Hamburg, Freie und Hansestadt",92
+,,020,Hamburg,92
+,,02,Hamburg,92
+,,03101,"Braunschweig, Stadt",15
+,,03159,Göttingen,12
+,,031,Übrige Kreise (Regierungsbezirk),15
+,,031,Statistische Region Braunschweig,42
+,,03241,Region Hannover,78
+,,032,Übrige Kreise (Regierungsbezirk),20
+,,032,Statistische Region Hannover,98
+,,033,Statistische Region Lüneburg,31
+,,03404,"Osnabrück, Stadt",20
+,,03459,Osnabrück,18
+,,034,Übrige Kreise (Regierungsbezirk),47
+,,034,Statistische Region Weser-Ems,85
+,,03,Niedersachsen,256
+,,04011,"Bremen, Stadt",22
+,,040,Übrige Kreise (Regierungsbezirk),*
+,,040,Bremen,24
+,,04,Bremen,24
+,,05111,"Düsseldorf, Stadt",85
+,,05112,"Duisburg, Stadt",21
+,,05113,"Essen, Stadt",51
+,,05114,"Krefeld, Stadt",18
+,,05119,"Oberhausen, Stadt",34
+,,05124,"Wuppertal, Stadt",20
+,,05158,Mettmann,36
+,,05162,Rhein-Kreis Neuss,33
+,,05166,Viersen,13
+,,05170,Wesel,23
+,,051,Übrige Kreise (Regierungsbezirk),21
+,,051,Reg.-Bez. Düsseldorf,355
+,,05314,"Bonn, Stadt",42
+,,05315,"Köln, Stadt",168
+,,05316,"Leverkusen, Stadt",16
+,,05334,Städteregion Aachen,19
+,,05358,Düren,13
+,,05362,Rhein-Erft-Kreis,38
+,,05366,Euskirchen,30
+,,05374,Oberbergischer Kreis,113
+,,05378,Rheinisch-Bergischer Kreis,39
+,,05382,Rhein-Sieg-Kreis,47
+,,053,Übrige Kreise (Regierungsbezirk),5
+,,053,Reg.-Bez. Köln,530
+,,05513,"Gelsenkirchen, Stadt",18
+,,05515,"Münster, Stadt",17
+,,05554,Borken,18
+,,05562,Recklinghausen,17
+,,05570,Warendorf,13
+,,055,Übrige Kreise (Regierungsbezirk),17
+,,055,Reg.-Bez. Münster,100
+,,05711,"Bielefeld, Stadt",17
+,,05754,Gütersloh,17
+,,05766,Lippe,17
+,,05774,Paderborn,13
+,,057,Übrige Kreise (Regierungsbezirk),23
+,,057,Reg.-Bez. Detmold,87
+,,05911,"Bochum, Stadt",22
+,,05913,"Dortmund, Stadt",79
+,,05914,"Hagen, Stadt der FernUniversi.",16
+,,05954,Ennepe-Ruhr-Kreis,69
+,,05958,Hochsauerlandkreis,40
+,,05962,Märkischer Kreis,41
+,,05966,Olpe,87
+,,05970,Siegen-Wittgenstein,"2,665"
+,,05974,Soest,10
+,,05978,Unna,43
+,,059,Übrige Kreise (Regierungsbezirk),16
+,,059,Reg.-Bez. Arnsberg,"3,088"
+,,05,Nordrhein-Westfalen,"4,160"
+,,06411,"Darmstadt, Wissenschaftsstadt",112
+,,06412,"Frankfurt am Main, Stadt","2,524"
+,,06413,"Offenbach am Main, Stadt",95
+,,06414,"Wiesbaden, Landeshauptstadt",221
+,,06431,Bergstraße,21
+,,06432,Darmstadt-Dieburg,76
+,,06433,Groß-Gerau,152
+,,06434,Hochtaunuskreis,"1,015"
+,,06435,Main-Kinzig-Kreis,257
+,,06436,Main-Taunus-Kreis,319
+,,06438,Offenbach,205
+,,06439,Rheingau-Taunus-Kreis,185
+,,06440,Wetteraukreis,"1,419"
+,,064,Übrige Kreise (Regierungsbezirk),6
+,,064,Reg.-Bez. Darmstadt,"6,607"
+,,06531,Gießen,"10,493"
+,,06533,Limburg-Weilburg,"2,105"
+,,06534,Marburg-Biedenkopf,"2,378"
+,,06535,Vogelsbergkreis,105
+,,065,Reg.-Bez. Gießen,"15,081"
+,,06611,"Kassel, documenta-Stadt",164
+,,06631,Fulda,36
+,,06632,Hersfeld-Rotenburg,27
+,,06633,Kassel,14
+,,06634,Schwalm-Eder-Kreis,20
+,,06635,Waldeck-Frankenberg,101
+,,066,Übrige Kreise (Regierungsbezirk),9
+,,066,Reg.-Bez. Kassel,371
+,,06,Hessen,"22,059"
+,,07111,"Koblenz, kreisfreie Stadt",65
+,,07132,Altenkirchen (Westerwald),190
+,,07133,Bad Kreuznach,13
+,,07137,Mayen-Koblenz,40
+,,07138,Neuwied,41
+,,07141,Rhein-Lahn-Kreis,126
+,,07143,Westerwaldkreis,913
+,,07315,"Mainz, kreisfreie Stadt",45
+,,07331,Alzey-Worms,18
+,,07332,Bad Dürkheim,11
+,,07339,Mainz-Bingen,37
+,,070,Übrige Kreise (Regierungsbezirk),93
+,,070,Rheinland-Pfalz,"1,592"
+,,07,Rheinland-Pfalz,"1,592"
+,,08111,"Stuttgart, Landeshauptstadt",53
+,,08115,Böblingen,22
+,,08116,Esslingen,48
+,,08117,Göppingen,13
+,,08118,Ludwigsburg,17
+,,08119,Rems-Murr-Kreis,13
+,,08121,"Heilbronn, Stadt",10
+,,08125,Heilbronn,30
+,,08126,Hohenlohekreis,22
+,,08136,Ostalbkreis,44
+,,081,Übrige Kreise (Regierungsbezirk),15
+,,081,Reg.-Bez. Stuttgart,287
+,,08212,"Karlsruhe, Stadt",28
+,,08215,Karlsruhe,22
+,,08221,"Heidelberg, Stadt",14
+,,08222,"Mannheim, Universitätsstadt",34
+,,08226,Rhein-Neckar-Kreis,28
+,,08235,Calw,10
+,,082,Übrige Kreise (Regierungsbezirk),26
+,,082,Reg.-Bez. Karlsruhe,162
+,,08317,Ortenaukreis,12
+,,08335,Konstanz,14
+,,08336,Lörrach,12
+,,083,Übrige Kreise (Regierungsbezirk),38
+,,083,Reg.-Bez. Freiburg,76
+,,08421,"Ulm, Universitätsstadt",10
+,,084,Übrige Kreise (Regierungsbezirk),40
+,,084,Reg.-Bez. Tübingen,50
+,,08,Baden-Württemberg,575
+,,09162,"München, Landeshauptstadt",112
+,,09184,München,41
+,,091,Übrige Kreise (Regierungsbezirk),73
+,,091,Oberbayern,226
+,,092,Niederbayern,28
+,,093,Oberpfalz,34
+,,094,Oberfranken,27
+,,09564,"Nürnberg, Stadt",62
+,,095,Übrige Kreise (Regierungsbezirk),51
+,,095,Mittelfranken,113
+,,09661,"Aschaffenburg, Stadt",16
+,,09663,"Würzburg, Stadt",17
+,,09671,Aschaffenburg,38
+,,09676,Miltenberg,25
+,,096,Übrige Kreise (Regierungsbezirk),42
+,,096,Unterfranken,138
+,,09761,"Augsburg, Stadt",13
+,,097,Übrige Kreise (Regierungsbezirk),47
+,,097,Schwaben,60
+,,09,Bayern,626
+,,10041,Regionalverband Saarbrücken,24
+,,100,Übrige Kreise (Regierungsbezirk),20
+,,100,Saarland,44
+,,10,Saarland,44
+,,11000,"Berlin, Stadt",131
+,,110,Berlin,131
+,,11,Berlin,131
+,,120,Brandenburg,31
+,,12,Brandenburg,31
+,,14612,"Dresden, Stadt",10
+,,14625,Bautzen,10
+,,14713,"Leipzig, Stadt",11
+,,140,Übrige Kreise (Regierungsbezirk),30
+,,140,Sachsen,61
+,,14,Sachsen,61
+,,150,Sachsen-Anhalt,24
+,,15,Sachsen-Anhalt,24
+,,16051,"Erfurt, Stadt",10
+,,160,Übrige Kreise (Regierungsbezirk),53
+,,160,Thüringen,63
+,,16,Thüringen,63
+,,ZZ,Übrige Bundesländer,7
+,,ZZ,Auspendler in das Bundesgebiet,"29,812"
+,,Z,Auspendler insgesamt,"29,812"
+06533,Limburg-Weilburg,,,
+,,01060,Segeberg,10
+,,010,Übrige Kreise (Regierungsbezirk),44
+,,010,Schleswig-Holstein,54
+,,01,Schleswig-Holstein,54
+,,02000,"Hamburg, Freie und Hansestadt",145
+,,020,Hamburg,145
+,,02,Hamburg,145
+,,03101,"Braunschweig, Stadt",19
+,,031,Übrige Kreise (Regierungsbezirk),20
+,,031,Statistische Region Braunschweig,39
+,,03241,Region Hannover,40
+,,032,Übrige Kreise (Regierungsbezirk),20
+,,032,Statistische Region Hannover,60
+,,033,Statistische Region Lüneburg,22
+,,03460,Vechta,23
+,,034,Übrige Kreise (Regierungsbezirk),39
+,,034,Statistische Region Weser-Ems,62
+,,03,Niedersachsen,183
+,,04011,"Bremen, Stadt",16
+,,040,Bremen,16
+,,04,Bremen,16
+,,05111,"Düsseldorf, Stadt",116
+,,05112,"Duisburg, Stadt",17
+,,05113,"Essen, Stadt",33
+,,05116,"Mönchengladbach, Stadt",10
+,,05117,"Mülheim an der Ruhr, Stadt",15
+,,05158,Mettmann,27
+,,05162,Rhein-Kreis Neuss,33
+,,05170,Wesel,18
+,,051,Übrige Kreise (Regierungsbezirk),48
+,,051,Reg.-Bez. Düsseldorf,317
+,,05314,"Bonn, Stadt",92
+,,05315,"Köln, Stadt",199
+,,05316,"Leverkusen, Stadt",18
+,,05334,Städteregion Aachen,20
+,,05358,Düren,21
+,,05362,Rhein-Erft-Kreis,38
+,,05374,Oberbergischer Kreis,18
+,,05378,Rheinisch-Bergischer Kreis,11
+,,05382,Rhein-Sieg-Kreis,84
+,,053,Übrige Kreise (Regierungsbezirk),7
+,,053,Reg.-Bez. Köln,508
+,,05513,"Gelsenkirchen, Stadt",10
+,,05515,"Münster, Stadt",12
+,,05554,Borken,14
+,,05562,Recklinghausen,12
+,,05566,Steinfurt,10
+,,055,Übrige Kreise (Regierungsbezirk),7
+,,055,Reg.-Bez. Münster,65
+,,05754,Gütersloh,24
+,,05770,Minden-Lübbecke,23
+,,057,Übrige Kreise (Regierungsbezirk),23
+,,057,Reg.-Bez. Detmold,70
+,,05911,"Bochum, Stadt",12
+,,05913,"Dortmund, Stadt",45
+,,05916,"Herne, Stadt",21
+,,05954,Ennepe-Ruhr-Kreis,21
+,,05962,Märkischer Kreis,16
+,,05970,Siegen-Wittgenstein,108
+,,05978,Unna,16
+,,059,Übrige Kreise (Regierungsbezirk),25
+,,059,Reg.-Bez. Arnsberg,264
+,,05,Nordrhein-Westfalen,"1,224"
+,,06411,"Darmstadt, Wissenschaftsstadt",197
+,,06412,"Frankfurt am Main, Stadt","7,223"
+,,06413,"Offenbach am Main, Stadt",139
+,,06414,"Wiesbaden, Landeshauptstadt","2,421"
+,,06431,Bergstraße,31
+,,06432,Darmstadt-Dieburg,110
+,,06433,Groß-Gerau,487
+,,06434,Hochtaunuskreis,"1,814"
+,,06435,Main-Kinzig-Kreis,139
+,,06436,Main-Taunus-Kreis,"1,444"
+,,06437,Odenwaldkreis,23
+,,06438,Offenbach,483
+,,06439,Rheingau-Taunus-Kreis,"2,235"
+,,06440,Wetteraukreis,472
+,,064,Reg.-Bez. Darmstadt,"17,218"
+,,06531,Gießen,739
+,,06532,Lahn-Dill-Kreis,"3,009"
+,,06534,Marburg-Biedenkopf,124
+,,06535,Vogelsbergkreis,14
+,,065,Reg.-Bez. Gießen,"3,886"
+,,06611,"Kassel, documenta-Stadt",137
+,,06631,Fulda,18
+,,06632,Hersfeld-Rotenburg,19
+,,06634,Schwalm-Eder-Kreis,87
+,,06635,Waldeck-Frankenberg,19
+,,066,Übrige Kreise (Regierungsbezirk),15
+,,066,Reg.-Bez. Kassel,295
+,,06,Hessen,"21,399"
+,,07111,"Koblenz, kreisfreie Stadt",344
+,,07131,Ahrweiler,11
+,,07132,Altenkirchen (Westerwald),86
+,,07133,Bad Kreuznach,20
+,,07137,Mayen-Koblenz,146
+,,07138,Neuwied,161
+,,07140,Rhein-Hunsrück-Kreis,19
+,,07141,Rhein-Lahn-Kreis,"2,345"
+,,07143,Westerwaldkreis,"2,292"
+,,07211,"Trier, kreisfreie Stadt",12
+,,07312,"Kaiserslautern, kreisfr. Stadt",11
+,,07314,"Ludwigshafen am Rhein, Stadt",25
+,,07315,"Mainz, kreisfreie Stadt",349
+,,07319,"Worms, kreisfreie Stadt",16
+,,07331,Alzey-Worms,14
+,,07339,Mainz-Bingen,84
+,,070,Übrige Kreise (Regierungsbezirk),69
+,,070,Rheinland-Pfalz,"6,004"
+,,07,Rheinland-Pfalz,"6,004"
+,,08111,"Stuttgart, Landeshauptstadt",61
+,,08115,Böblingen,34
+,,08116,Esslingen,28
+,,08117,Göppingen,17
+,,08118,Ludwigsburg,30
+,,08119,Rems-Murr-Kreis,13
+,,08125,Heilbronn,21
+,,08126,Hohenlohekreis,19
+,,08127,Schwäbisch Hall,13
+,,081,Übrige Kreise (Regierungsbezirk),18
+,,081,Reg.-Bez. Stuttgart,254
+,,08212,"Karlsruhe, Stadt",29
+,,08215,Karlsruhe,22
+,,08221,"Heidelberg, Stadt",12
+,,08222,"Mannheim, Universitätsstadt",50
+,,08226,Rhein-Neckar-Kreis,51
+,,082,Übrige Kreise (Regierungsbezirk),31
+,,082,Reg.-Bez. Karlsruhe,195
+,,08311,"Freiburg im Breisgau, Stadt",11
+,,08315,Breisgau-Hochschwarzwald,14
+,,08317,Ortenaukreis,12
+,,083,Übrige Kreise (Regierungsbezirk),33
+,,083,Reg.-Bez. Freiburg,70
+,,08415,Reutlingen,16
+,,08421,"Ulm, Universitätsstadt",14
+,,084,Übrige Kreise (Regierungsbezirk),25
+,,084,Reg.-Bez. Tübingen,55
+,,08,Baden-Württemberg,574
+,,09161,"Ingolstadt, Stadt",14
+,,09162,"München, Landeshauptstadt",111
+,,09178,Freising,15
+,,09184,München,37
+,,091,Übrige Kreise (Regierungsbezirk),55
+,,091,Oberbayern,232
+,,09261,"Landshut, Stadt",14
+,,092,Übrige Kreise (Regierungsbezirk),21
+,,092,Niederbayern,35
+,,093,Oberpfalz,16
+,,094,Oberfranken,18
+,,09562,"Erlangen, Stadt",13
+,,09564,"Nürnberg, Stadt",22
+,,095,Übrige Kreise (Regierungsbezirk),34
+,,095,Mittelfranken,69
+,,09661,"Aschaffenburg, Stadt",31
+,,09671,Aschaffenburg,28
+,,09676,Miltenberg,14
+,,096,Übrige Kreise (Regierungsbezirk),43
+,,096,Unterfranken,116
+,,09761,"Augsburg, Stadt",18
+,,097,Übrige Kreise (Regierungsbezirk),32
+,,097,Schwaben,50
+,,09,Bayern,536
+,,10041,Regionalverband Saarbrücken,17
+,,100,Übrige Kreise (Regierungsbezirk),14
+,,100,Saarland,31
+,,10,Saarland,31
+,,11000,"Berlin, Stadt",161
+,,110,Berlin,161
+,,11,Berlin,161
+,,120,Brandenburg,18
+,,12,Brandenburg,18
+,,140,Sachsen,37
+,,14,Sachsen,37
+,,150,Sachsen-Anhalt,21
+,,15,Sachsen-Anhalt,21
+,,160,Thüringen,44
+,,16,Thüringen,44
+,,ZZ,Übrige Bundesländer,9
+,,ZZ,Auspendler in das Bundesgebiet,"30,456"
+,,Z,Auspendler insgesamt,"30,456"
+06534,Marburg-Biedenkopf,,,
+,,01002,"Kiel, Landeshauptstadt",10
+,,01004,"Neumünster, Stadt",13
+,,010,Übrige Kreise (Regierungsbezirk),52
+,,010,Schleswig-Holstein,75
+,,01,Schleswig-Holstein,75
+,,02000,"Hamburg, Freie und Hansestadt",155
+,,020,Hamburg,155
+,,02,Hamburg,155
+,,03103,"Wolfsburg, Stadt",17
+,,03159,Göttingen,36
+,,031,Übrige Kreise (Regierungsbezirk),26
+,,031,Statistische Region Braunschweig,79
+,,03241,Region Hannover,84
+,,03251,Diepholz,10
+,,03254,Hildesheim,12
+,,032,Übrige Kreise (Regierungsbezirk),8
+,,032,Statistische Region Hannover,114
+,,033,Statistische Region Lüneburg,44
+,,03403,"Oldenburg (Oldenburg), Stadt",10
+,,03404,"Osnabrück, Stadt",42
+,,03454,Emsland,18
+,,034,Übrige Kreise (Regierungsbezirk),35
+,,034,Statistische Region Weser-Ems,105
+,,03,Niedersachsen,342
+,,04011,"Bremen, Stadt",21
+,,040,Übrige Kreise (Regierungsbezirk),3
+,,040,Bremen,24
+,,04,Bremen,24
+,,05111,"Düsseldorf, Stadt",85
+,,05113,"Essen, Stadt",24
+,,05114,"Krefeld, Stadt",10
+,,05119,"Oberhausen, Stadt",12
+,,05124,"Wuppertal, Stadt",24
+,,05158,Mettmann,37
+,,05162,Rhein-Kreis Neuss,14
+,,05170,Wesel,13
+,,051,Übrige Kreise (Regierungsbezirk),44
+,,051,Reg.-Bez. Düsseldorf,263
+,,05314,"Bonn, Stadt",64
+,,05315,"Köln, Stadt",170
+,,05334,Städteregion Aachen,41
+,,05358,Düren,54
+,,05362,Rhein-Erft-Kreis,52
+,,05374,Oberbergischer Kreis,34
+,,05378,Rheinisch-Bergischer Kreis,41
+,,05382,Rhein-Sieg-Kreis,32
+,,053,Übrige Kreise (Regierungsbezirk),18
+,,053,Reg.-Bez. Köln,506
+,,05515,"Münster, Stadt",29
+,,05562,Recklinghausen,15
+,,055,Übrige Kreise (Regierungsbezirk),37
+,,055,Reg.-Bez. Münster,81
+,,05711,"Bielefeld, Stadt",18
+,,05754,Gütersloh,15
+,,05758,Herford,13
+,,05766,Lippe,17
+,,05774,Paderborn,17
+,,057,Übrige Kreise (Regierungsbezirk),9
+,,057,Reg.-Bez. Detmold,89
+,,05911,"Bochum, Stadt",22
+,,05913,"Dortmund, Stadt",47
+,,05914,"Hagen, Stadt der FernUniversi.",14
+,,05954,Ennepe-Ruhr-Kreis,41
+,,05958,Hochsauerlandkreis,90
+,,05962,Märkischer Kreis,21
+,,05966,Olpe,29
+,,05970,Siegen-Wittgenstein,"1,119"
+,,05974,Soest,14
+,,05978,Unna,20
+,,059,Übrige Kreise (Regierungsbezirk),8
+,,059,Reg.-Bez. Arnsberg,"1,425"
+,,05,Nordrhein-Westfalen,"2,364"
+,,06411,"Darmstadt, Wissenschaftsstadt",109
+,,06412,"Frankfurt am Main, Stadt","2,100"
+,,06413,"Offenbach am Main, Stadt",76
+,,06414,"Wiesbaden, Landeshauptstadt",165
+,,06431,Bergstraße,31
+,,06432,Darmstadt-Dieburg,57
+,,06433,Groß-Gerau,79
+,,06434,Hochtaunuskreis,258
+,,06435,Main-Kinzig-Kreis,122
+,,06436,Main-Taunus-Kreis,279
+,,06438,Offenbach,157
+,,06439,Rheingau-Taunus-Kreis,44
+,,06440,Wetteraukreis,414
+,,064,Übrige Kreise (Regierungsbezirk),7
+,,064,Reg.-Bez. Darmstadt,"3,898"
+,,06531,Gießen,"5,700"
+,,06532,Lahn-Dill-Kreis,"3,709"
+,,06533,Limburg-Weilburg,90
+,,06535,Vogelsbergkreis,"1,037"
+,,065,Reg.-Bez. Gießen,"10,536"
+,,06611,"Kassel, documenta-Stadt",448
+,,06631,Fulda,137
+,,06632,Hersfeld-Rotenburg,72
+,,06633,Kassel,159
+,,06634,Schwalm-Eder-Kreis,"1,021"
+,,06635,Waldeck-Frankenberg,"1,973"
+,,066,Übrige Kreise (Regierungsbezirk),5
+,,066,Reg.-Bez. Kassel,"3,815"
+,,06,Hessen,"18,249"
+,,07111,"Koblenz, kreisfreie Stadt",24
+,,07132,Altenkirchen (Westerwald),14
+,,07137,Mayen-Koblenz,150
+,,07138,Neuwied,15
+,,07141,Rhein-Lahn-Kreis,13
+,,07143,Westerwaldkreis,48
+,,07314,"Ludwigshafen am Rhein, Stadt",18
+,,07315,"Mainz, kreisfreie Stadt",76
+,,07337,Südliche Weinstraße,12
+,,07339,Mainz-Bingen,19
+,,070,Übrige Kreise (Regierungsbezirk),91
+,,070,Rheinland-Pfalz,480
+,,07,Rheinland-Pfalz,480
+,,08111,"Stuttgart, Landeshauptstadt",90
+,,08115,Böblingen,16
+,,08116,Esslingen,27
+,,08118,Ludwigsburg,28
+,,08125,Heilbronn,15
+,,08126,Hohenlohekreis,15
+,,08127,Schwäbisch Hall,12
+,,08128,Main-Tauber-Kreis,10
+,,08136,Ostalbkreis,12
+,,081,Übrige Kreise (Regierungsbezirk),24
+,,081,Reg.-Bez. Stuttgart,249
+,,08212,"Karlsruhe, Stadt",34
+,,08215,Karlsruhe,30
+,,08221,"Heidelberg, Stadt",38
+,,08222,"Mannheim, Universitätsstadt",39
+,,08226,Rhein-Neckar-Kreis,41
+,,08231,"Pforzheim, Stadt",20
+,,082,Übrige Kreise (Regierungsbezirk),30
+,,082,Reg.-Bez. Karlsruhe,232
+,,08311,"Freiburg im Breisgau, Stadt",25
+,,08315,Breisgau-Hochschwarzwald,16
+,,08317,Ortenaukreis,15
+,,08335,Konstanz,15
+,,08336,Lörrach,10
+,,083,Übrige Kreise (Regierungsbezirk),21
+,,083,Reg.-Bez. Freiburg,102
+,,08415,Reutlingen,12
+,,08421,"Ulm, Universitätsstadt",16
+,,084,Übrige Kreise (Regierungsbezirk),35
+,,084,Reg.-Bez. Tübingen,63
+,,08,Baden-Württemberg,646
+,,09162,"München, Landeshauptstadt",159
+,,09178,Freising,11
+,,09184,München,51
+,,091,Übrige Kreise (Regierungsbezirk),78
+,,091,Oberbayern,299
+,,092,Niederbayern,22
+,,09362,"Regensburg, Stadt",11
+,,093,Übrige Kreise (Regierungsbezirk),20
+,,093,Oberpfalz,31
+,,09475,Hof,17
+,,094,Übrige Kreise (Regierungsbezirk),26
+,,094,Oberfranken,43
+,,09562,"Erlangen, Stadt",35
+,,09564,"Nürnberg, Stadt",41
+,,095,Übrige Kreise (Regierungsbezirk),36
+,,095,Mittelfranken,112
+,,09661,"Aschaffenburg, Stadt",22
+,,09663,"Würzburg, Stadt",15
+,,09671,Aschaffenburg,29
+,,09673,Rhön-Grabfeld,12
+,,096,Übrige Kreise (Regierungsbezirk),35
+,,096,Unterfranken,113
+,,09772,Augsburg,11
+,,09776,Lindau (Bodensee),12
+,,097,Übrige Kreise (Regierungsbezirk),38
+,,097,Schwaben,61
+,,09,Bayern,681
+,,100,Saarland,21
+,,10,Saarland,21
+,,11000,"Berlin, Stadt",345
+,,110,Berlin,345
+,,11,Berlin,345
+,,12054,"Potsdam, Stadt",13
+,,120,Übrige Kreise (Regierungsbezirk),37
+,,120,Brandenburg,50
+,,12,Brandenburg,50
+,,130,Mecklenburg-Vorpommern,27
+,,13,Mecklenburg-Vorpommern,27
+,,14511,"Chemnitz, Stadt",10
+,,14612,"Dresden, Stadt",14
+,,14713,"Leipzig, Stadt",21
+,,140,Übrige Kreise (Regierungsbezirk),36
+,,140,Sachsen,81
+,,14,Sachsen,81
+,,15085,Harz,13
+,,150,Übrige Kreise (Regierungsbezirk),31
+,,150,Sachsen-Anhalt,44
+,,15,Sachsen-Anhalt,44
+,,16051,"Erfurt, Stadt",13
+,,16053,"Jena, Stadt",10
+,,16063,Wartburgkreis,13
+,,16066,Schmalkalden-Meiningen,11
+,,160,Übrige Kreise (Regierungsbezirk),46
+,,160,Thüringen,93
+,,16,Thüringen,93
+,,ZZ,Auspendler in das Bundesgebiet,"23,677"
+,,Z,Auspendler insgesamt,"23,677"
+06535,Vogelsbergkreis,,,
+,,010,Schleswig-Holstein,22
+,,01,Schleswig-Holstein,22
+,,02000,"Hamburg, Freie und Hansestadt",51
+,,020,Hamburg,51
+,,02,Hamburg,51
+,,03159,Göttingen,24
+,,031,Übrige Kreise (Regierungsbezirk),16
+,,031,Statistische Region Braunschweig,40
+,,03241,Region Hannover,32
+,,032,Übrige Kreise (Regierungsbezirk),11
+,,032,Statistische Region Hannover,43
+,,033,Statistische Region Lüneburg,25
+,,034,Statistische Region Weser-Ems,39
+,,03,Niedersachsen,147
+,,05111,"Düsseldorf, Stadt",18
+,,05112,"Duisburg, Stadt",10
+,,05113,"Essen, Stadt",37
+,,05158,Mettmann,16
+,,051,Übrige Kreise (Regierungsbezirk),27
+,,051,Reg.-Bez. Düsseldorf,108
+,,05314,"Bonn, Stadt",23
+,,05315,"Köln, Stadt",62
+,,05334,Städteregion Aachen,12
+,,05374,Oberbergischer Kreis,15
+,,05382,Rhein-Sieg-Kreis,11
+,,053,Übrige Kreise (Regierungsbezirk),18
+,,053,Reg.-Bez. Köln,141
+,,05515,"Münster, Stadt",10
+,,055,Übrige Kreise (Regierungsbezirk),24
+,,055,Reg.-Bez. Münster,34
+,,05711,"Bielefeld, Stadt",12
+,,05754,Gütersloh,14
+,,05774,Paderborn,32
+,,057,Übrige Kreise (Regierungsbezirk),14
+,,057,Reg.-Bez. Detmold,72
+,,05970,Siegen-Wittgenstein,15
+,,05978,Unna,14
+,,059,Übrige Kreise (Regierungsbezirk),42
+,,059,Reg.-Bez. Arnsberg,71
+,,05,Nordrhein-Westfalen,426
+,,06411,"Darmstadt, Wissenschaftsstadt",49
+,,06412,"Frankfurt am Main, Stadt","1,118"
+,,06413,"Offenbach am Main, Stadt",79
+,,06414,"Wiesbaden, Landeshauptstadt",64
+,,06431,Bergstraße,11
+,,06432,Darmstadt-Dieburg,47
+,,06433,Groß-Gerau,66
+,,06434,Hochtaunuskreis,145
+,,06435,Main-Kinzig-Kreis,"1,033"
+,,06436,Main-Taunus-Kreis,96
+,,06438,Offenbach,152
+,,06439,Rheingau-Taunus-Kreis,17
+,,06440,Wetteraukreis,"1,848"
+,,064,Übrige Kreise (Regierungsbezirk),6
+,,064,Reg.-Bez. Darmstadt,"4,731"
+,,06531,Gießen,"3,555"
+,,06532,Lahn-Dill-Kreis,273
+,,06533,Limburg-Weilburg,41
+,,06534,Marburg-Biedenkopf,"2,070"
+,,065,Reg.-Bez. Gießen,"5,939"
+,,06611,"Kassel, documenta-Stadt",156
+,,06631,Fulda,"4,159"
+,,06632,Hersfeld-Rotenburg,644
+,,06633,Kassel,45
+,,06634,Schwalm-Eder-Kreis,570
+,,06635,Waldeck-Frankenberg,56
+,,06636,Werra-Meißner-Kreis,36
+,,066,Reg.-Bez. Kassel,"5,666"
+,,06,Hessen,"16,336"
+,,07315,"Mainz, kreisfreie Stadt",34
+,,070,Übrige Kreise (Regierungsbezirk),95
+,,070,Rheinland-Pfalz,129
+,,07,Rheinland-Pfalz,129
+,,08111,"Stuttgart, Landeshauptstadt",19
+,,08115,Böblingen,12
+,,08116,Esslingen,12
+,,08118,Ludwigsburg,14
+,,08126,Hohenlohekreis,16
+,,08136,Ostalbkreis,23
+,,081,Übrige Kreise (Regierungsbezirk),38
+,,081,Reg.-Bez. Stuttgart,134
+,,08222,"Mannheim, Universitätsstadt",17
+,,08226,Rhein-Neckar-Kreis,15
+,,082,Übrige Kreise (Regierungsbezirk),40
+,,082,Reg.-Bez. Karlsruhe,72
+,,08326,Schwarzwald-Baar-Kreis,10
+,,083,Übrige Kreise (Regierungsbezirk),27
+,,083,Reg.-Bez. Freiburg,37
+,,08415,Reutlingen,10
+,,084,Übrige Kreise (Regierungsbezirk),24
+,,084,Reg.-Bez. Tübingen,34
+,,08,Baden-Württemberg,277
+,,09162,"München, Landeshauptstadt",47
+,,09184,München,20
+,,091,Übrige Kreise (Regierungsbezirk),42
+,,091,Oberbayern,109
+,,092,Niederbayern,13
+,,093,Oberpfalz,16
+,,094,Oberfranken,32
+,,09564,"Nürnberg, Stadt",18
+,,095,Übrige Kreise (Regierungsbezirk),30
+,,095,Mittelfranken,48
+,,09661,"Aschaffenburg, Stadt",22
+,,09663,"Würzburg, Stadt",27
+,,09671,Aschaffenburg,34
+,,09672,Bad Kissingen,29
+,,09676,Miltenberg,13
+,,09677,Main-Spessart,26
+,,096,Übrige Kreise (Regierungsbezirk),23
+,,096,Unterfranken,174
+,,097,Schwaben,38
+,,09,Bayern,430
+,,100,Saarland,11
+,,10,Saarland,11
+,,11000,"Berlin, Stadt",106
+,,110,Berlin,106
+,,11,Berlin,106
+,,120,Brandenburg,22
+,,12,Brandenburg,22
+,,140,Sachsen,31
+,,14,Sachsen,31
+,,150,Sachsen-Anhalt,17
+,,15,Sachsen-Anhalt,17
+,,16063,Wartburgkreis,25
+,,16064,Unstrut-Hainich-Kreis,12
+,,16066,Schmalkalden-Meiningen,19
+,,160,Übrige Kreise (Regierungsbezirk),46
+,,160,Thüringen,102
+,,16,Thüringen,102
+,,ZZ,Übrige Bundesländer,11
+,,ZZ,Auspendler in das Bundesgebiet,"18,118"
+,,Z,Auspendler insgesamt,"18,118"
+06611,"Kassel, documenta-Stadt",,,
+,,01002,"Kiel, Landeshauptstadt",32
+,,01056,Pinneberg,24
+,,01059,Schleswig-Flensburg,12
+,,01060,Segeberg,29
+,,01062,Stormarn,10
+,,010,Übrige Kreise (Regierungsbezirk),34
+,,010,Schleswig-Holstein,141
+,,01,Schleswig-Holstein,141
+,,02000,"Hamburg, Freie und Hansestadt",198
+,,020,Hamburg,198
+,,02,Hamburg,198
+,,03101,"Braunschweig, Stadt",94
+,,03102,"Salzgitter, Stadt",12
+,,03103,"Wolfsburg, Stadt",100
+,,03151,Gifhorn,15
+,,03153,Goslar,10
+,,03155,Northeim,84
+,,03159,Göttingen,"1,569"
+,,031,Übrige Kreise (Regierungsbezirk),14
+,,031,Statistische Region Braunschweig,"1,898"
+,,03241,Region Hannover,365
+,,03251,Diepholz,21
+,,03254,Hildesheim,42
+,,03255,Holzminden,16
+,,032,Übrige Kreise (Regierungsbezirk),21
+,,032,Statistische Region Hannover,465
+,,03351,Celle,14
+,,03355,Lüneburg,12
+,,03361,Verden,11
+,,033,Übrige Kreise (Regierungsbezirk),21
+,,033,Statistische Region Lüneburg,58
+,,03404,"Osnabrück, Stadt",17
+,,03459,Osnabrück,12
+,,03461,Wesermarsch,16
+,,034,Übrige Kreise (Regierungsbezirk),66
+,,034,Statistische Region Weser-Ems,111
+,,03,Niedersachsen,"2,532"
+,,04011,"Bremen, Stadt",35
+,,040,Übrige Kreise (Regierungsbezirk),5
+,,040,Bremen,40
+,,04,Bremen,40
+,,05111,"Düsseldorf, Stadt",133
+,,05112,"Duisburg, Stadt",53
+,,05113,"Essen, Stadt",36
+,,05114,"Krefeld, Stadt",12
+,,05119,"Oberhausen, Stadt",25
+,,05124,"Wuppertal, Stadt",11
+,,05154,Kleve,11
+,,05158,Mettmann,48
+,,05162,Rhein-Kreis Neuss,20
+,,05166,Viersen,16
+,,05170,Wesel,15
+,,051,Übrige Kreise (Regierungsbezirk),22
+,,051,Reg.-Bez. Düsseldorf,402
+,,05314,"Bonn, Stadt",34
+,,05315,"Köln, Stadt",168
+,,05316,"Leverkusen, Stadt",11
+,,05334,Städteregion Aachen,22
+,,05362,Rhein-Erft-Kreis,32
+,,05374,Oberbergischer Kreis,29
+,,05378,Rheinisch-Bergischer Kreis,16
+,,05382,Rhein-Sieg-Kreis,30
+,,053,Übrige Kreise (Regierungsbezirk),11
+,,053,Reg.-Bez. Köln,353
+,,05515,"Münster, Stadt",27
+,,055,Übrige Kreise (Regierungsbezirk),49
+,,055,Reg.-Bez. Münster,76
+,,05711,"Bielefeld, Stadt",57
+,,05754,Gütersloh,58
+,,05758,Herford,18
+,,05762,Höxter,193
+,,05766,Lippe,35
+,,05770,Minden-Lübbecke,17
+,,05774,Paderborn,128
+,,057,Reg.-Bez. Detmold,506
+,,05911,"Bochum, Stadt",21
+,,05913,"Dortmund, Stadt",41
+,,05915,"Hamm, Stadt",12
+,,05958,Hochsauerlandkreis,62
+,,05962,Märkischer Kreis,10
+,,05970,Siegen-Wittgenstein,40
+,,05974,Soest,26
+,,05978,Unna,14
+,,059,Übrige Kreise (Regierungsbezirk),27
+,,059,Reg.-Bez. Arnsberg,253
+,,05,Nordrhein-Westfalen,"1,590"
+,,06411,"Darmstadt, Wissenschaftsstadt",40
+,,06412,"Frankfurt am Main, Stadt",720
+,,06413,"Offenbach am Main, Stadt",52
+,,06414,"Wiesbaden, Landeshauptstadt",73
+,,06431,Bergstraße,13
+,,06432,Darmstadt-Dieburg,29
+,,06433,Groß-Gerau,34
+,,06434,Hochtaunuskreis,77
+,,06435,Main-Kinzig-Kreis,65
+,,06436,Main-Taunus-Kreis,61
+,,06438,Offenbach,44
+,,06439,Rheingau-Taunus-Kreis,16
+,,06440,Wetteraukreis,46
+,,064,Übrige Kreise (Regierungsbezirk),4
+,,064,Reg.-Bez. Darmstadt,"1,274"
+,,06531,Gießen,116
+,,06532,Lahn-Dill-Kreis,37
+,,06533,Limburg-Weilburg,14
+,,06534,Marburg-Biedenkopf,150
+,,06535,Vogelsbergkreis,26
+,,065,Reg.-Bez. Gießen,343
+,,06631,Fulda,219
+,,06632,Hersfeld-Rotenburg,274
+,,06633,Kassel,"13,967"
+,,06634,Schwalm-Eder-Kreis,"2,674"
+,,06635,Waldeck-Frankenberg,676
+,,06636,Werra-Meißner-Kreis,457
+,,066,Reg.-Bez. Kassel,"18,267"
+,,06,Hessen,"19,884"
+,,07111,"Koblenz, kreisfreie Stadt",10
+,,07314,"Ludwigshafen am Rhein, Stadt",56
+,,07315,"Mainz, kreisfreie Stadt",36
+,,07339,Mainz-Bingen,34
+,,070,Übrige Kreise (Regierungsbezirk),84
+,,070,Rheinland-Pfalz,220
+,,07,Rheinland-Pfalz,220
+,,08111,"Stuttgart, Landeshauptstadt",80
+,,08115,Böblingen,17
+,,08116,Esslingen,29
+,,08118,Ludwigsburg,21
+,,08119,Rems-Murr-Kreis,16
+,,08125,Heilbronn,14
+,,08126,Hohenlohekreis,16
+,,081,Übrige Kreise (Regierungsbezirk),35
+,,081,Reg.-Bez. Stuttgart,228
+,,08212,"Karlsruhe, Stadt",27
+,,08215,Karlsruhe,13
+,,08221,"Heidelberg, Stadt",14
+,,08222,"Mannheim, Universitätsstadt",44
+,,08226,Rhein-Neckar-Kreis,39
+,,082,Übrige Kreise (Regierungsbezirk),20
+,,082,Reg.-Bez. Karlsruhe,157
+,,08311,"Freiburg im Breisgau, Stadt",17
+,,08317,Ortenaukreis,15
+,,08336,Lörrach,15
+,,083,Übrige Kreise (Regierungsbezirk),30
+,,083,Reg.-Bez. Freiburg,77
+,,08421,"Ulm, Universitätsstadt",18
+,,084,Übrige Kreise (Regierungsbezirk),35
+,,084,Reg.-Bez. Tübingen,53
+,,08,Baden-Württemberg,515
+,,09161,"Ingolstadt, Stadt",13
+,,09162,"München, Landeshauptstadt",172
+,,09184,München,46
+,,091,Übrige Kreise (Regierungsbezirk),50
+,,091,Oberbayern,281
+,,092,Niederbayern,16
+,,093,Oberpfalz,20
+,,094,Oberfranken,41
+,,09562,"Erlangen, Stadt",24
+,,09564,"Nürnberg, Stadt",74
+,,09565,"Schwabach, Stadt",30
+,,095,Übrige Kreise (Regierungsbezirk),28
+,,095,Mittelfranken,156
+,,09663,"Würzburg, Stadt",24
+,,09671,Aschaffenburg,10
+,,096,Übrige Kreise (Regierungsbezirk),41
+,,096,Unterfranken,75
+,,09761,"Augsburg, Stadt",13
+,,097,Übrige Kreise (Regierungsbezirk),35
+,,097,Schwaben,48
+,,09,Bayern,637
+,,10041,Regionalverband Saarbrücken,27
+,,100,Übrige Kreise (Regierungsbezirk),5
+,,100,Saarland,32
+,,10,Saarland,32
+,,11000,"Berlin, Stadt",363
+,,110,Berlin,363
+,,11,Berlin,363
+,,12054,"Potsdam, Stadt",17
+,,12067,Oder-Spree,11
+,,12069,Potsdam-Mittelmark,14
+,,120,Übrige Kreise (Regierungsbezirk),30
+,,120,Brandenburg,72
+,,12,Brandenburg,72
+,,13074,Nordwestmecklenburg,18
+,,130,Übrige Kreise (Regierungsbezirk),14
+,,130,Mecklenburg-Vorpommern,32
+,,13,Mecklenburg-Vorpommern,32
+,,14612,"Dresden, Stadt",26
+,,14713,"Leipzig, Stadt",41
+,,140,Übrige Kreise (Regierungsbezirk),48
+,,140,Sachsen,115
+,,14,Sachsen,115
+,,15003,"Magdeburg, Landeshauptstadt",34
+,,150,Übrige Kreise (Regierungsbezirk),42
+,,150,Sachsen-Anhalt,76
+,,15,Sachsen-Anhalt,76
+,,16051,"Erfurt, Stadt",47
+,,16053,"Jena, Stadt",14
+,,16061,Eichsfeld,75
+,,16062,Nordhausen,10
+,,16063,Wartburgkreis,20
+,,16064,Unstrut-Hainich-Kreis,18
+,,16067,Gotha,13
+,,16070,Ilm-Kreis,16
+,,16071,Weimarer Land,11
+,,160,Übrige Kreise (Regierungsbezirk),28
+,,160,Thüringen,252
+,,16,Thüringen,252
+,,ZZ,Auspendler in das Bundesgebiet,"26,699"
+,,Z,Auspendler insgesamt,"26,699"
+06631,Fulda,,,
+,,01056,Pinneberg,10
+,,010,Übrige Kreise (Regierungsbezirk),49
+,,010,Schleswig-Holstein,59
+,,01,Schleswig-Holstein,59
+,,02000,"Hamburg, Freie und Hansestadt",133
+,,020,Hamburg,133
+,,02,Hamburg,133
+,,03101,"Braunschweig, Stadt",15
+,,03103,"Wolfsburg, Stadt",29
+,,03159,Göttingen,60
+,,031,Übrige Kreise (Regierungsbezirk),20
+,,031,Statistische Region Braunschweig,124
+,,03241,Region Hannover,91
+,,03255,Holzminden,11
+,,032,Übrige Kreise (Regierungsbezirk),20
+,,032,Statistische Region Hannover,122
+,,033,Statistische Region Lüneburg,32
+,,03403,"Oldenburg (Oldenburg), Stadt",10
+,,03454,Emsland,10
+,,034,Übrige Kreise (Regierungsbezirk),56
+,,034,Statistische Region Weser-Ems,76
+,,03,Niedersachsen,354
+,,04011,"Bremen, Stadt",14
+,,040,Übrige Kreise (Regierungsbezirk),3
+,,040,Bremen,17
+,,04,Bremen,17
+,,05111,"Düsseldorf, Stadt",64
+,,05112,"Duisburg, Stadt",10
+,,05113,"Essen, Stadt",35
+,,05114,"Krefeld, Stadt",15
+,,05158,Mettmann,38
+,,05162,Rhein-Kreis Neuss,20
+,,05166,Viersen,15
+,,05170,Wesel,11
+,,051,Übrige Kreise (Regierungsbezirk),36
+,,051,Reg.-Bez. Düsseldorf,244
+,,05314,"Bonn, Stadt",160
+,,05315,"Köln, Stadt",163
+,,05334,Städteregion Aachen,17
+,,05358,Düren,26
+,,05362,Rhein-Erft-Kreis,18
+,,05374,Oberbergischer Kreis,12
+,,05382,Rhein-Sieg-Kreis,28
+,,053,Übrige Kreise (Regierungsbezirk),24
+,,053,Reg.-Bez. Köln,448
+,,05513,"Gelsenkirchen, Stadt",11
+,,05515,"Münster, Stadt",20
+,,05570,Warendorf,10
+,,055,Übrige Kreise (Regierungsbezirk),33
+,,055,Reg.-Bez. Münster,74
+,,05711,"Bielefeld, Stadt",23
+,,05754,Gütersloh,29
+,,05758,Herford,11
+,,05766,Lippe,12
+,,05770,Minden-Lübbecke,20
+,,05774,Paderborn,72
+,,057,Übrige Kreise (Regierungsbezirk),5
+,,057,Reg.-Bez. Detmold,172
+,,05913,"Dortmund, Stadt",24
+,,05958,Hochsauerlandkreis,14
+,,05962,Märkischer Kreis,15
+,,05970,Siegen-Wittgenstein,10
+,,05974,Soest,11
+,,05978,Unna,49
+,,059,Übrige Kreise (Regierungsbezirk),26
+,,059,Reg.-Bez. Arnsberg,149
+,,05,Nordrhein-Westfalen,"1,087"
+,,06411,"Darmstadt, Wissenschaftsstadt",142
+,,06412,"Frankfurt am Main, Stadt","2,230"
+,,06413,"Offenbach am Main, Stadt",161
+,,06414,"Wiesbaden, Landeshauptstadt",241
+,,06431,Bergstraße,28
+,,06432,Darmstadt-Dieburg,70
+,,06433,Groß-Gerau,148
+,,06434,Hochtaunuskreis,137
+,,06435,Main-Kinzig-Kreis,"2,689"
+,,06436,Main-Taunus-Kreis,152
+,,06437,Odenwaldkreis,58
+,,06438,Offenbach,208
+,,06439,Rheingau-Taunus-Kreis,15
+,,06440,Wetteraukreis,126
+,,064,Reg.-Bez. Darmstadt,"6,405"
+,,06531,Gießen,202
+,,06532,Lahn-Dill-Kreis,49
+,,06533,Limburg-Weilburg,17
+,,06534,Marburg-Biedenkopf,153
+,,06535,Vogelsbergkreis,"1,791"
+,,065,Reg.-Bez. Gießen,"2,212"
+,,06611,"Kassel, documenta-Stadt",522
+,,06632,Hersfeld-Rotenburg,"1,914"
+,,06633,Kassel,54
+,,06634,Schwalm-Eder-Kreis,183
+,,06635,Waldeck-Frankenberg,25
+,,06636,Werra-Meißner-Kreis,32
+,,066,Reg.-Bez. Kassel,"2,730"
+,,06,Hessen,"11,347"
+,,07111,"Koblenz, kreisfreie Stadt",15
+,,07143,Westerwaldkreis,11
+,,07231,Bernkastel-Wittlich,10
+,,07314,"Ludwigshafen am Rhein, Stadt",19
+,,07315,"Mainz, kreisfreie Stadt",65
+,,07331,Alzey-Worms,16
+,,07335,Kaiserslautern,13
+,,07339,Mainz-Bingen,25
+,,070,Übrige Kreise (Regierungsbezirk),87
+,,070,Rheinland-Pfalz,261
+,,07,Rheinland-Pfalz,261
+,,08111,"Stuttgart, Landeshauptstadt",81
+,,08115,Böblingen,26
+,,08116,Esslingen,33
+,,08118,Ludwigsburg,43
+,,08119,Rems-Murr-Kreis,12
+,,08121,"Heilbronn, Stadt",20
+,,08125,Heilbronn,15
+,,08126,Hohenlohekreis,17
+,,08127,Schwäbisch Hall,17
+,,08128,Main-Tauber-Kreis,29
+,,08136,Ostalbkreis,12
+,,081,Übrige Kreise (Regierungsbezirk),8
+,,081,Reg.-Bez. Stuttgart,313
+,,08212,"Karlsruhe, Stadt",27
+,,08215,Karlsruhe,200
+,,08221,"Heidelberg, Stadt",20
+,,08222,"Mannheim, Universitätsstadt",57
+,,08226,Rhein-Neckar-Kreis,33
+,,082,Übrige Kreise (Regierungsbezirk),35
+,,082,Reg.-Bez. Karlsruhe,372
+,,08311,"Freiburg im Breisgau, Stadt",14
+,,08315,Breisgau-Hochschwarzwald,11
+,,08317,Ortenaukreis,23
+,,08326,Schwarzwald-Baar-Kreis,80
+,,08335,Konstanz,10
+,,08336,Lörrach,11
+,,083,Übrige Kreise (Regierungsbezirk),17
+,,083,Reg.-Bez. Freiburg,166
+,,08421,"Ulm, Universitätsstadt",17
+,,08426,Biberach,20
+,,084,Übrige Kreise (Regierungsbezirk),38
+,,084,Reg.-Bez. Tübingen,75
+,,08,Baden-Württemberg,926
+,,09161,"Ingolstadt, Stadt",31
+,,09162,"München, Landeshauptstadt",162
+,,09178,Freising,14
+,,09184,München,68
+,,09186,Pfaffenhofen a.d.Ilm,11
+,,091,Übrige Kreise (Regierungsbezirk),69
+,,091,Oberbayern,355
+,,092,Niederbayern,36
+,,09362,"Regensburg, Stadt",10
+,,093,Übrige Kreise (Regierungsbezirk),29
+,,093,Oberpfalz,39
+,,09461,"Bamberg, Stadt",17
+,,09463,"Coburg, Stadt",11
+,,09471,Bamberg,10
+,,09475,Hof,15
+,,09477,Kulmbach,10
+,,094,Übrige Kreise (Regierungsbezirk),28
+,,094,Oberfranken,91
+,,09562,"Erlangen, Stadt",21
+,,09564,"Nürnberg, Stadt",98
+,,095,Übrige Kreise (Regierungsbezirk),49
+,,095,Mittelfranken,168
+,,09661,"Aschaffenburg, Stadt",36
+,,09662,"Schweinfurt, Stadt",53
+,,09663,"Würzburg, Stadt",139
+,,09671,Aschaffenburg,52
+,,09672,Bad Kissingen,686
+,,09673,Rhön-Grabfeld,256
+,,09676,Miltenberg,23
+,,09677,Main-Spessart,32
+,,09678,Schweinfurt,24
+,,09679,Würzburg,36
+,,096,Übrige Kreise (Regierungsbezirk),17
+,,096,Unterfranken,"1,354"
+,,09761,"Augsburg, Stadt",16
+,,09771,Aichach-Friedberg,15
+,,09772,Augsburg,10
+,,097,Übrige Kreise (Regierungsbezirk),50
+,,097,Schwaben,91
+,,09,Bayern,"2,134"
+,,10041,Regionalverband Saarbrücken,11
+,,100,Übrige Kreise (Regierungsbezirk),14
+,,100,Saarland,25
+,,10,Saarland,25
+,,11000,"Berlin, Stadt",184
+,,110,Berlin,184
+,,11,Berlin,184
+,,12054,"Potsdam, Stadt",11
+,,120,Übrige Kreise (Regierungsbezirk),28
+,,120,Brandenburg,39
+,,12,Brandenburg,39
+,,130,Mecklenburg-Vorpommern,16
+,,13,Mecklenburg-Vorpommern,16
+,,14524,Zwickau,14
+,,14612,"Dresden, Stadt",18
+,,14713,"Leipzig, Stadt",21
+,,140,Übrige Kreise (Regierungsbezirk),46
+,,140,Sachsen,99
+,,14,Sachsen,99
+,,15087,Mansfeld-Südharz,32
+,,150,Übrige Kreise (Regierungsbezirk),35
+,,150,Sachsen-Anhalt,67
+,,15,Sachsen-Anhalt,67
+,,16051,"Erfurt, Stadt",51
+,,16054,"Suhl, Stadt",11
+,,16056,"Eisenach, Stadt",19
+,,16063,Wartburgkreis,437
+,,16064,Unstrut-Hainich-Kreis,44
+,,16066,Schmalkalden-Meiningen,130
+,,16067,Gotha,18
+,,16070,Ilm-Kreis,10
+,,160,Übrige Kreise (Regierungsbezirk),46
+,,160,Thüringen,766
+,,16,Thüringen,766
+,,ZZ,Auspendler in das Bundesgebiet,"17,514"
+,,Z,Auspendler insgesamt,"17,514"
+06632,Hersfeld-Rotenburg,,,
+,,010,Schleswig-Holstein,44
+,,01,Schleswig-Holstein,44
+,,02000,"Hamburg, Freie und Hansestadt",82
+,,020,Hamburg,82
+,,02,Hamburg,82
+,,03103,"Wolfsburg, Stadt",10
+,,03159,Göttingen,72
+,,031,Übrige Kreise (Regierungsbezirk),20
+,,031,Statistische Region Braunschweig,102
+,,03241,Region Hannover,93
+,,032,Übrige Kreise (Regierungsbezirk),19
+,,032,Statistische Region Hannover,112
+,,033,Statistische Region Lüneburg,25
+,,03454,Emsland,13
+,,034,Übrige Kreise (Regierungsbezirk),30
+,,034,Statistische Region Weser-Ems,43
+,,03,Niedersachsen,282
+,,04011,"Bremen, Stadt",16
+,,040,Bremen,16
+,,04,Bremen,16
+,,05111,"Düsseldorf, Stadt",23
+,,05113,"Essen, Stadt",14
+,,05114,"Krefeld, Stadt",30
+,,05158,Mettmann,16
+,,05162,Rhein-Kreis Neuss,13
+,,051,Übrige Kreise (Regierungsbezirk),42
+,,051,Reg.-Bez. Düsseldorf,138
+,,05314,"Bonn, Stadt",68
+,,05315,"Köln, Stadt",86
+,,05334,Städteregion Aachen,10
+,,05382,Rhein-Sieg-Kreis,35
+,,053,Übrige Kreise (Regierungsbezirk),27
+,,053,Reg.-Bez. Köln,226
+,,05515,"Münster, Stadt",12
+,,055,Übrige Kreise (Regierungsbezirk),39
+,,055,Reg.-Bez. Münster,51
+,,05711,"Bielefeld, Stadt",11
+,,05754,Gütersloh,18
+,,05770,Minden-Lübbecke,16
+,,05774,Paderborn,17
+,,057,Übrige Kreise (Regierungsbezirk),10
+,,057,Reg.-Bez. Detmold,72
+,,05911,"Bochum, Stadt",18
+,,05913,"Dortmund, Stadt",18
+,,05958,Hochsauerlandkreis,23
+,,05970,Siegen-Wittgenstein,17
+,,059,Übrige Kreise (Regierungsbezirk),35
+,,059,Reg.-Bez. Arnsberg,111
+,,05,Nordrhein-Westfalen,598
+,,06411,"Darmstadt, Wissenschaftsstadt",24
+,,06412,"Frankfurt am Main, Stadt",410
+,,06413,"Offenbach am Main, Stadt",17
+,,06414,"Wiesbaden, Landeshauptstadt",35
+,,06432,Darmstadt-Dieburg,13
+,,06433,Groß-Gerau,175
+,,06434,Hochtaunuskreis,45
+,,06435,Main-Kinzig-Kreis,120
+,,06436,Main-Taunus-Kreis,45
+,,06438,Offenbach,55
+,,06440,Wetteraukreis,38
+,,064,Übrige Kreise (Regierungsbezirk),16
+,,064,Reg.-Bez. Darmstadt,993
+,,06531,Gießen,112
+,,06532,Lahn-Dill-Kreis,27
+,,06533,Limburg-Weilburg,16
+,,06534,Marburg-Biedenkopf,90
+,,06535,Vogelsbergkreis,491
+,,065,Reg.-Bez. Gießen,736
+,,06611,"Kassel, documenta-Stadt","1,088"
+,,06631,Fulda,"2,535"
+,,06633,Kassel,413
+,,06634,Schwalm-Eder-Kreis,"2,346"
+,,06635,Waldeck-Frankenberg,81
+,,06636,Werra-Meißner-Kreis,668
+,,066,Reg.-Bez. Kassel,"7,131"
+,,06,Hessen,"8,860"
+,,07143,Westerwaldkreis,11
+,,07314,"Ludwigshafen am Rhein, Stadt",20
+,,07315,"Mainz, kreisfreie Stadt",14
+,,070,Übrige Kreise (Regierungsbezirk),80
+,,070,Rheinland-Pfalz,125
+,,07,Rheinland-Pfalz,125
+,,08111,"Stuttgart, Landeshauptstadt",22
+,,08115,Böblingen,10
+,,08116,Esslingen,25
+,,08118,Ludwigsburg,17
+,,081,Übrige Kreise (Regierungsbezirk),46
+,,081,Reg.-Bez. Stuttgart,120
+,,08212,"Karlsruhe, Stadt",10
+,,08221,"Heidelberg, Stadt",26
+,,08222,"Mannheim, Universitätsstadt",25
+,,08226,Rhein-Neckar-Kreis,19
+,,082,Übrige Kreise (Regierungsbezirk),22
+,,082,Reg.-Bez. Karlsruhe,102
+,,08317,Ortenaukreis,13
+,,08326,Schwarzwald-Baar-Kreis,14
+,,083,Übrige Kreise (Regierungsbezirk),27
+,,083,Reg.-Bez. Freiburg,54
+,,08436,Ravensburg,12
+,,084,Übrige Kreise (Regierungsbezirk),25
+,,084,Reg.-Bez. Tübingen,37
+,,08,Baden-Württemberg,313
+,,09162,"München, Landeshauptstadt",77
+,,09184,München,28
+,,091,Übrige Kreise (Regierungsbezirk),64
+,,091,Oberbayern,169
+,,092,Niederbayern,17
+,,093,Oberpfalz,19
+,,09461,"Bamberg, Stadt",17
+,,09471,Bamberg,16
+,,094,Übrige Kreise (Regierungsbezirk),16
+,,094,Oberfranken,49
+,,09564,"Nürnberg, Stadt",44
+,,095,Übrige Kreise (Regierungsbezirk),23
+,,095,Mittelfranken,67
+,,09663,"Würzburg, Stadt",15
+,,09672,Bad Kissingen,15
+,,096,Übrige Kreise (Regierungsbezirk),48
+,,096,Unterfranken,78
+,,09761,"Augsburg, Stadt",10
+,,097,Übrige Kreise (Regierungsbezirk),33
+,,097,Schwaben,43
+,,09,Bayern,442
+,,100,Saarland,12
+,,10,Saarland,12
+,,11000,"Berlin, Stadt",177
+,,110,Berlin,177
+,,11,Berlin,177
+,,120,Brandenburg,26
+,,12,Brandenburg,26
+,,130,Mecklenburg-Vorpommern,12
+,,13,Mecklenburg-Vorpommern,12
+,,14523,Vogtlandkreis,13
+,,14713,"Leipzig, Stadt",15
+,,140,Übrige Kreise (Regierungsbezirk),41
+,,140,Sachsen,69
+,,14,Sachsen,69
+,,15087,Mansfeld-Südharz,65
+,,150,Übrige Kreise (Regierungsbezirk),29
+,,150,Sachsen-Anhalt,94
+,,15,Sachsen-Anhalt,94
+,,16051,"Erfurt, Stadt",129
+,,16053,"Jena, Stadt",12
+,,16056,"Eisenach, Stadt",270
+,,16061,Eichsfeld,15
+,,16063,Wartburgkreis,"1,553"
+,,16064,Unstrut-Hainich-Kreis,37
+,,16066,Schmalkalden-Meiningen,44
+,,16067,Gotha,54
+,,160,Übrige Kreise (Regierungsbezirk),48
+,,160,Thüringen,"2,162"
+,,16,Thüringen,"2,162"
+,,ZZ,Auspendler in das Bundesgebiet,"13,314"
+,,Z,Auspendler insgesamt,"13,314"
+06633,Kassel,,,
+,,01002,"Kiel, Landeshauptstadt",18
+,,01003,"Lübeck, Hansestadt",16
+,,01054,Nordfriesland,15
+,,01056,Pinneberg,20
+,,01059,Schleswig-Flensburg,14
+,,01060,Segeberg,15
+,,01062,Stormarn,12
+,,010,Übrige Kreise (Regierungsbezirk),22
+,,010,Schleswig-Holstein,132
+,,01,Schleswig-Holstein,132
+,,02000,"Hamburg, Freie und Hansestadt",165
+,,020,Hamburg,165
+,,02,Hamburg,165
+,,03101,"Braunschweig, Stadt",61
+,,03102,"Salzgitter, Stadt",11
+,,03103,"Wolfsburg, Stadt",138
+,,03151,Gifhorn,17
+,,03153,Goslar,11
+,,03155,Northeim,515
+,,03159,Göttingen,"2,566"
+,,031,Übrige Kreise (Regierungsbezirk),16
+,,031,Statistische Region Braunschweig,"3,335"
+,,03241,Region Hannover,325
+,,03252,Hameln-Pyrmont,15
+,,03254,Hildesheim,51
+,,03255,Holzminden,154
+,,032,Übrige Kreise (Regierungsbezirk),18
+,,032,Statistische Region Hannover,563
+,,03351,Celle,17
+,,03355,Lüneburg,11
+,,033,Übrige Kreise (Regierungsbezirk),44
+,,033,Statistische Region Lüneburg,72
+,,03404,"Osnabrück, Stadt",14
+,,03453,Cloppenburg,12
+,,03454,Emsland,12
+,,03459,Osnabrück,18
+,,03460,Vechta,10
+,,03461,Wesermarsch,17
+,,034,Übrige Kreise (Regierungsbezirk),43
+,,034,Statistische Region Weser-Ems,126
+,,03,Niedersachsen,"4,096"
+,,04011,"Bremen, Stadt",41
+,,040,Übrige Kreise (Regierungsbezirk),5
+,,040,Bremen,46
+,,04,Bremen,46
+,,05111,"Düsseldorf, Stadt",99
+,,05112,"Duisburg, Stadt",61
+,,05113,"Essen, Stadt",53
+,,05116,"Mönchengladbach, Stadt",10
+,,05119,"Oberhausen, Stadt",19
+,,05124,"Wuppertal, Stadt",15
+,,05158,Mettmann,55
+,,05162,Rhein-Kreis Neuss,11
+,,05166,Viersen,13
+,,05170,Wesel,22
+,,051,Übrige Kreise (Regierungsbezirk),34
+,,051,Reg.-Bez. Düsseldorf,392
+,,05314,"Bonn, Stadt",34
+,,05315,"Köln, Stadt",91
+,,05334,Städteregion Aachen,17
+,,05362,Rhein-Erft-Kreis,32
+,,05374,Oberbergischer Kreis,13
+,,05382,Rhein-Sieg-Kreis,19
+,,053,Übrige Kreise (Regierungsbezirk),25
+,,053,Reg.-Bez. Köln,231
+,,05513,"Gelsenkirchen, Stadt",13
+,,05515,"Münster, Stadt",31
+,,05554,Borken,22
+,,05558,Coesfeld,10
+,,05562,Recklinghausen,13
+,,05566,Steinfurt,13
+,,05570,Warendorf,10
+,,055,Übrige Kreise (Regierungsbezirk),*
+,,055,Reg.-Bez. Münster,114
+,,05711,"Bielefeld, Stadt",81
+,,05754,Gütersloh,68
+,,05758,Herford,24
+,,05762,Höxter,"1,083"
+,,05766,Lippe,39
+,,05770,Minden-Lübbecke,30
+,,05774,Paderborn,220
+,,057,Reg.-Bez. Detmold,"1,545"
+,,05911,"Bochum, Stadt",15
+,,05913,"Dortmund, Stadt",51
+,,05914,"Hagen, Stadt der FernUniversi.",11
+,,05915,"Hamm, Stadt",10
+,,05954,Ennepe-Ruhr-Kreis,11
+,,05958,Hochsauerlandkreis,95
+,,05962,Märkischer Kreis,35
+,,05970,Siegen-Wittgenstein,56
+,,05974,Soest,34
+,,05978,Unna,31
+,,059,Übrige Kreise (Regierungsbezirk),9
+,,059,Reg.-Bez. Arnsberg,358
+,,05,Nordrhein-Westfalen,"2,640"
+,,06411,"Darmstadt, Wissenschaftsstadt",33
+,,06412,"Frankfurt am Main, Stadt",541
+,,06413,"Offenbach am Main, Stadt",31
+,,06414,"Wiesbaden, Landeshauptstadt",91
+,,06431,Bergstraße,18
+,,06432,Darmstadt-Dieburg,15
+,,06433,Groß-Gerau,35
+,,06434,Hochtaunuskreis,96
+,,06435,Main-Kinzig-Kreis,46
+,,06436,Main-Taunus-Kreis,48
+,,06438,Offenbach,59
+,,06439,Rheingau-Taunus-Kreis,48
+,,06440,Wetteraukreis,38
+,,064,Übrige Kreise (Regierungsbezirk),3
+,,064,Reg.-Bez. Darmstadt,"1,102"
+,,06531,Gießen,73
+,,06532,Lahn-Dill-Kreis,25
+,,06533,Limburg-Weilburg,12
+,,06534,Marburg-Biedenkopf,127
+,,06535,Vogelsbergkreis,36
+,,065,Reg.-Bez. Gießen,273
+,,06611,"Kassel, documenta-Stadt","35,462"
+,,06631,Fulda,131
+,,06632,Hersfeld-Rotenburg,220
+,,06634,Schwalm-Eder-Kreis,"3,121"
+,,06635,Waldeck-Frankenberg,"1,800"
+,,06636,Werra-Meißner-Kreis,826
+,,066,Reg.-Bez. Kassel,"41,560"
+,,06,Hessen,"42,935"
+,,07138,Neuwied,11
+,,07143,Westerwaldkreis,10
+,,07314,"Ludwigshafen am Rhein, Stadt",38
+,,07315,"Mainz, kreisfreie Stadt",28
+,,07319,"Worms, kreisfreie Stadt",15
+,,07339,Mainz-Bingen,35
+,,070,Übrige Kreise (Regierungsbezirk),71
+,,070,Rheinland-Pfalz,208
+,,07,Rheinland-Pfalz,208
+,,08111,"Stuttgart, Landeshauptstadt",65
+,,08115,Böblingen,14
+,,08116,Esslingen,22
+,,08118,Ludwigsburg,21
+,,08125,Heilbronn,19
+,,08126,Hohenlohekreis,26
+,,08136,Ostalbkreis,18
+,,081,Übrige Kreise (Regierungsbezirk),34
+,,081,Reg.-Bez. Stuttgart,219
+,,08212,"Karlsruhe, Stadt",44
+,,08215,Karlsruhe,23
+,,08221,"Heidelberg, Stadt",13
+,,08222,"Mannheim, Universitätsstadt",45
+,,08226,Rhein-Neckar-Kreis,30
+,,082,Übrige Kreise (Regierungsbezirk),32
+,,082,Reg.-Bez. Karlsruhe,187
+,,08317,Ortenaukreis,15
+,,08336,Lörrach,12
+,,083,Übrige Kreise (Regierungsbezirk),36
+,,083,Reg.-Bez. Freiburg,63
+,,08415,Reutlingen,16
+,,08421,"Ulm, Universitätsstadt",18
+,,084,Übrige Kreise (Regierungsbezirk),38
+,,084,Reg.-Bez. Tübingen,72
+,,08,Baden-Württemberg,541
+,,09161,"Ingolstadt, Stadt",13
+,,09162,"München, Landeshauptstadt",134
+,,09174,Dachau,22
+,,09184,München,71
+,,091,Übrige Kreise (Regierungsbezirk),72
+,,091,Oberbayern,312
+,,092,Niederbayern,20
+,,093,Oberpfalz,15
+,,094,Oberfranken,28
+,,09562,"Erlangen, Stadt",17
+,,09564,"Nürnberg, Stadt",31
+,,09565,"Schwabach, Stadt",14
+,,09577,Weißenburg-Gunzenhausen,17
+,,095,Übrige Kreise (Regierungsbezirk),25
+,,095,Mittelfranken,104
+,,09663,"Würzburg, Stadt",13
+,,096,Übrige Kreise (Regierungsbezirk),52
+,,096,Unterfranken,65
+,,09761,"Augsburg, Stadt",16
+,,097,Übrige Kreise (Regierungsbezirk),38
+,,097,Schwaben,54
+,,09,Bayern,598
+,,10041,Regionalverband Saarbrücken,21
+,,100,Übrige Kreise (Regierungsbezirk),9
+,,100,Saarland,30
+,,10,Saarland,30
+,,11000,"Berlin, Stadt",205
+,,110,Berlin,205
+,,11,Berlin,205
+,,12054,"Potsdam, Stadt",14
+,,12065,Oberhavel,17
+,,12067,Oder-Spree,14
+,,120,Übrige Kreise (Regierungsbezirk),32
+,,120,Brandenburg,77
+,,12,Brandenburg,77
+,,13073,Vorpommern-Rügen,11
+,,130,Übrige Kreise (Regierungsbezirk),17
+,,130,Mecklenburg-Vorpommern,28
+,,13,Mecklenburg-Vorpommern,28
+,,14612,"Dresden, Stadt",14
+,,14713,"Leipzig, Stadt",21
+,,140,Übrige Kreise (Regierungsbezirk),40
+,,140,Sachsen,75
+,,14,Sachsen,75
+,,15003,"Magdeburg, Landeshauptstadt",11
+,,150,Übrige Kreise (Regierungsbezirk),53
+,,150,Sachsen-Anhalt,64
+,,15,Sachsen-Anhalt,64
+,,16051,"Erfurt, Stadt",38
+,,16056,"Eisenach, Stadt",11
+,,16061,Eichsfeld,58
+,,16063,Wartburgkreis,29
+,,16064,Unstrut-Hainich-Kreis,27
+,,160,Übrige Kreise (Regierungsbezirk),58
+,,160,Thüringen,221
+,,16,Thüringen,221
+,,ZZ,Auspendler in das Bundesgebiet,"52,061"
+,,Z,Auspendler insgesamt,"52,061"
+06634,Schwalm-Eder-Kreis,,,
+,,01002,"Kiel, Landeshauptstadt",11
+,,01004,"Neumünster, Stadt",17
+,,01059,Schleswig-Flensburg,10
+,,01060,Segeberg,13
+,,010,Übrige Kreise (Regierungsbezirk),36
+,,010,Schleswig-Holstein,87
+,,01,Schleswig-Holstein,87
+,,02000,"Hamburg, Freie und Hansestadt",113
+,,020,Hamburg,113
+,,02,Hamburg,113
+,,03101,"Braunschweig, Stadt",10
+,,03103,"Wolfsburg, Stadt",52
+,,03155,Northeim,20
+,,03159,Göttingen,286
+,,031,Übrige Kreise (Regierungsbezirk),25
+,,031,Statistische Region Braunschweig,393
+,,03241,Region Hannover,151
+,,03251,Diepholz,11
+,,03254,Hildesheim,27
+,,032,Übrige Kreise (Regierungsbezirk),18
+,,032,Statistische Region Hannover,207
+,,03351,Celle,14
+,,033,Übrige Kreise (Regierungsbezirk),21
+,,033,Statistische Region Lüneburg,35
+,,03404,"Osnabrück, Stadt",13
+,,03459,Osnabrück,10
+,,03460,Vechta,17
+,,03461,Wesermarsch,13
+,,034,Übrige Kreise (Regierungsbezirk),47
+,,034,Statistische Region Weser-Ems,100
+,,03,Niedersachsen,735
+,,04011,"Bremen, Stadt",23
+,,040,Übrige Kreise (Regierungsbezirk),*
+,,040,Bremen,25
+,,04,Bremen,25
+,,05111,"Düsseldorf, Stadt",48
+,,05112,"Duisburg, Stadt",39
+,,05113,"Essen, Stadt",26
+,,05114,"Krefeld, Stadt",12
+,,05124,"Wuppertal, Stadt",11
+,,05154,Kleve,53
+,,05158,Mettmann,79
+,,05162,Rhein-Kreis Neuss,18
+,,05166,Viersen,10
+,,05170,Wesel,15
+,,051,Übrige Kreise (Regierungsbezirk),25
+,,051,Reg.-Bez. Düsseldorf,336
+,,05314,"Bonn, Stadt",20
+,,05315,"Köln, Stadt",73
+,,05362,Rhein-Erft-Kreis,11
+,,05374,Oberbergischer Kreis,19
+,,05382,Rhein-Sieg-Kreis,19
+,,053,Übrige Kreise (Regierungsbezirk),19
+,,053,Reg.-Bez. Köln,161
+,,05515,"Münster, Stadt",18
+,,05566,Steinfurt,20
+,,055,Übrige Kreise (Regierungsbezirk),45
+,,055,Reg.-Bez. Münster,83
+,,05711,"Bielefeld, Stadt",26
+,,05754,Gütersloh,177
+,,05758,Herford,10
+,,05762,Höxter,35
+,,05766,Lippe,19
+,,05774,Paderborn,95
+,,057,Übrige Kreise (Regierungsbezirk),9
+,,057,Reg.-Bez. Detmold,371
+,,05913,"Dortmund, Stadt",34
+,,05915,"Hamm, Stadt",11
+,,05958,Hochsauerlandkreis,51
+,,05970,Siegen-Wittgenstein,54
+,,05974,Soest,12
+,,05978,Unna,17
+,,059,Übrige Kreise (Regierungsbezirk),29
+,,059,Reg.-Bez. Arnsberg,208
+,,05,Nordrhein-Westfalen,"1,159"
+,,06411,"Darmstadt, Wissenschaftsstadt",59
+,,06412,"Frankfurt am Main, Stadt",569
+,,06413,"Offenbach am Main, Stadt",29
+,,06414,"Wiesbaden, Landeshauptstadt",64
+,,06431,Bergstraße,18
+,,06432,Darmstadt-Dieburg,13
+,,06433,Groß-Gerau,53
+,,06434,Hochtaunuskreis,126
+,,06435,Main-Kinzig-Kreis,44
+,,06436,Main-Taunus-Kreis,62
+,,06438,Offenbach,68
+,,06439,Rheingau-Taunus-Kreis,45
+,,06440,Wetteraukreis,76
+,,064,Übrige Kreise (Regierungsbezirk),4
+,,064,Reg.-Bez. Darmstadt,"1,230"
+,,06531,Gießen,200
+,,06532,Lahn-Dill-Kreis,51
+,,06533,Limburg-Weilburg,12
+,,06534,Marburg-Biedenkopf,"3,064"
+,,06535,Vogelsbergkreis,"1,080"
+,,065,Reg.-Bez. Gießen,"4,407"
+,,06611,"Kassel, documenta-Stadt","8,982"
+,,06631,Fulda,280
+,,06632,Hersfeld-Rotenburg,"1,909"
+,,06633,Kassel,"8,804"
+,,06635,Waldeck-Frankenberg,"2,133"
+,,06636,Werra-Meißner-Kreis,336
+,,066,Reg.-Bez. Kassel,"22,444"
+,,06,Hessen,"28,081"
+,,07137,Mayen-Koblenz,11
+,,07143,Westerwaldkreis,21
+,,07314,"Ludwigshafen am Rhein, Stadt",27
+,,07315,"Mainz, kreisfreie Stadt",32
+,,07339,Mainz-Bingen,14
+,,070,Übrige Kreise (Regierungsbezirk),58
+,,070,Rheinland-Pfalz,163
+,,07,Rheinland-Pfalz,163
+,,08111,"Stuttgart, Landeshauptstadt",39
+,,08116,Esslingen,22
+,,08118,Ludwigsburg,18
+,,08119,Rems-Murr-Kreis,10
+,,08121,"Heilbronn, Stadt",11
+,,08125,Heilbronn,13
+,,08126,Hohenlohekreis,12
+,,081,Übrige Kreise (Regierungsbezirk),33
+,,081,Reg.-Bez. Stuttgart,158
+,,08212,"Karlsruhe, Stadt",31
+,,08215,Karlsruhe,13
+,,08222,"Mannheim, Universitätsstadt",26
+,,08226,Rhein-Neckar-Kreis,28
+,,082,Übrige Kreise (Regierungsbezirk),25
+,,082,Reg.-Bez. Karlsruhe,123
+,,08327,Tuttlingen,10
+,,083,Übrige Kreise (Regierungsbezirk),34
+,,083,Reg.-Bez. Freiburg,44
+,,08435,Bodenseekreis,10
+,,084,Übrige Kreise (Regierungsbezirk),39
+,,084,Reg.-Bez. Tübingen,49
+,,08,Baden-Württemberg,374
+,,09162,"München, Landeshauptstadt",87
+,,09184,München,36
+,,091,Übrige Kreise (Regierungsbezirk),66
+,,091,Oberbayern,189
+,,092,Niederbayern,10
+,,093,Oberpfalz,20
+,,09461,"Bamberg, Stadt",49
+,,094,Übrige Kreise (Regierungsbezirk),30
+,,094,Oberfranken,79
+,,09562,"Erlangen, Stadt",10
+,,09564,"Nürnberg, Stadt",28
+,,095,Übrige Kreise (Regierungsbezirk),39
+,,095,Mittelfranken,77
+,,09663,"Würzburg, Stadt",16
+,,09673,Rhön-Grabfeld,10
+,,096,Übrige Kreise (Regierungsbezirk),49
+,,096,Unterfranken,75
+,,09761,"Augsburg, Stadt",11
+,,09775,Neu-Ulm,12
+,,097,Übrige Kreise (Regierungsbezirk),39
+,,097,Schwaben,62
+,,09,Bayern,512
+,,10041,Regionalverband Saarbrücken,24
+,,100,Übrige Kreise (Regierungsbezirk),10
+,,100,Saarland,34
+,,10,Saarland,34
+,,11000,"Berlin, Stadt",132
+,,110,Berlin,132
+,,11,Berlin,132
+,,12054,"Potsdam, Stadt",75
+,,12067,Oder-Spree,16
+,,120,Übrige Kreise (Regierungsbezirk),21
+,,120,Brandenburg,112
+,,12,Brandenburg,112
+,,14612,"Dresden, Stadt",17
+,,14713,"Leipzig, Stadt",15
+,,140,Übrige Kreise (Regierungsbezirk),31
+,,140,Sachsen,63
+,,14,Sachsen,63
+,,15087,Mansfeld-Südharz,12
+,,150,Übrige Kreise (Regierungsbezirk),38
+,,150,Sachsen-Anhalt,50
+,,15,Sachsen-Anhalt,50
+,,16051,"Erfurt, Stadt",19
+,,16056,"Eisenach, Stadt",11
+,,16061,Eichsfeld,42
+,,16063,Wartburgkreis,46
+,,16064,Unstrut-Hainich-Kreis,22
+,,16067,Gotha,18
+,,16070,Ilm-Kreis,16
+,,160,Übrige Kreise (Regierungsbezirk),35
+,,160,Thüringen,209
+,,16,Thüringen,209
+,,ZZ,Übrige Bundesländer,8
+,,ZZ,Auspendler in das Bundesgebiet,"31,857"
+,,Z,Auspendler insgesamt,"31,857"
+06635,Waldeck-Frankenberg,,,
+,,010,Schleswig-Holstein,48
+,,01,Schleswig-Holstein,48
+,,02000,"Hamburg, Freie und Hansestadt",67
+,,020,Hamburg,67
+,,02,Hamburg,67
+,,03103,"Wolfsburg, Stadt",12
+,,03159,Göttingen,75
+,,031,Übrige Kreise (Regierungsbezirk),31
+,,031,Statistische Region Braunschweig,118
+,,03241,Region Hannover,83
+,,03252,Hameln-Pyrmont,16
+,,03254,Hildesheim,15
+,,03257,Schaumburg,10
+,,032,Übrige Kreise (Regierungsbezirk),12
+,,032,Statistische Region Hannover,136
+,,033,Statistische Region Lüneburg,19
+,,034,Statistische Region Weser-Ems,53
+,,03,Niedersachsen,326
+,,05111,"Düsseldorf, Stadt",38
+,,05112,"Duisburg, Stadt",20
+,,05113,"Essen, Stadt",29
+,,05119,"Oberhausen, Stadt",13
+,,05124,"Wuppertal, Stadt",13
+,,05154,Kleve,28
+,,05158,Mettmann,28
+,,05162,Rhein-Kreis Neuss,12
+,,05170,Wesel,11
+,,051,Übrige Kreise (Regierungsbezirk),19
+,,051,Reg.-Bez. Düsseldorf,211
+,,05314,"Bonn, Stadt",12
+,,05315,"Köln, Stadt",77
+,,05334,Städteregion Aachen,18
+,,05362,Rhein-Erft-Kreis,12
+,,05374,Oberbergischer Kreis,25
+,,05382,Rhein-Sieg-Kreis,13
+,,053,Übrige Kreise (Regierungsbezirk),18
+,,053,Reg.-Bez. Köln,175
+,,05513,"Gelsenkirchen, Stadt",18
+,,05515,"Münster, Stadt",21
+,,05558,Coesfeld,11
+,,05562,Recklinghausen,12
+,,05566,Steinfurt,13
+,,05570,Warendorf,14
+,,055,Übrige Kreise (Regierungsbezirk),4
+,,055,Reg.-Bez. Münster,93
+,,05711,"Bielefeld, Stadt",56
+,,05754,Gütersloh,50
+,,05758,Herford,12
+,,05762,Höxter,634
+,,05766,Lippe,40
+,,05774,Paderborn,340
+,,057,Übrige Kreise (Regierungsbezirk),7
+,,057,Reg.-Bez. Detmold,"1,139"
+,,05913,"Dortmund, Stadt",35
+,,05915,"Hamm, Stadt",12
+,,05954,Ennepe-Ruhr-Kreis,14
+,,05958,Hochsauerlandkreis,"2,614"
+,,05966,Olpe,10
+,,05970,Siegen-Wittgenstein,316
+,,05974,Soest,72
+,,05978,Unna,30
+,,059,Übrige Kreise (Regierungsbezirk),22
+,,059,Reg.-Bez. Arnsberg,"3,125"
+,,05,Nordrhein-Westfalen,"4,743"
+,,06411,"Darmstadt, Wissenschaftsstadt",26
+,,06412,"Frankfurt am Main, Stadt",232
+,,06413,"Offenbach am Main, Stadt",12
+,,06414,"Wiesbaden, Landeshauptstadt",43
+,,06432,Darmstadt-Dieburg,18
+,,06433,Groß-Gerau,26
+,,06434,Hochtaunuskreis,141
+,,06435,Main-Kinzig-Kreis,57
+,,06436,Main-Taunus-Kreis,46
+,,06437,Odenwaldkreis,51
+,,06438,Offenbach,39
+,,06439,Rheingau-Taunus-Kreis,103
+,,06440,Wetteraukreis,48
+,,064,Übrige Kreise (Regierungsbezirk),4
+,,064,Reg.-Bez. Darmstadt,846
+,,06531,Gießen,284
+,,06532,Lahn-Dill-Kreis,87
+,,06534,Marburg-Biedenkopf,"2,278"
+,,06535,Vogelsbergkreis,49
+,,065,Übrige Kreise (Regierungsbezirk),4
+,,065,Reg.-Bez. Gießen,"2,702"
+,,06611,"Kassel, documenta-Stadt","1,940"
+,,06631,Fulda,42
+,,06632,Hersfeld-Rotenburg,78
+,,06633,Kassel,"1,936"
+,,06634,Schwalm-Eder-Kreis,"1,443"
+,,06636,Werra-Meißner-Kreis,30
+,,066,Reg.-Bez. Kassel,"5,469"
+,,06,Hessen,"9,017"
+,,07315,"Mainz, kreisfreie Stadt",10
+,,070,Übrige Kreise (Regierungsbezirk),80
+,,070,Rheinland-Pfalz,90
+,,07,Rheinland-Pfalz,90
+,,08111,"Stuttgart, Landeshauptstadt",34
+,,08115,Böblingen,10
+,,08116,Esslingen,13
+,,08118,Ludwigsburg,13
+,,08126,Hohenlohekreis,16
+,,081,Übrige Kreise (Regierungsbezirk),42
+,,081,Reg.-Bez. Stuttgart,128
+,,08212,"Karlsruhe, Stadt",18
+,,08215,Karlsruhe,15
+,,08222,"Mannheim, Universitätsstadt",39
+,,08226,Rhein-Neckar-Kreis,16
+,,082,Übrige Kreise (Regierungsbezirk),26
+,,082,Reg.-Bez. Karlsruhe,114
+,,083,Reg.-Bez. Freiburg,40
+,,084,Reg.-Bez. Tübingen,35
+,,08,Baden-Württemberg,317
+,,09162,"München, Landeshauptstadt",54
+,,09184,München,30
+,,091,Übrige Kreise (Regierungsbezirk),35
+,,091,Oberbayern,119
+,,092,Niederbayern,10
+,,093,Oberpfalz,15
+,,094,Oberfranken,20
+,,09564,"Nürnberg, Stadt",25
+,,09575,Neustadt a.d.Aisch-Bad Windsh.,10
+,,095,Übrige Kreise (Regierungsbezirk),24
+,,095,Mittelfranken,59
+,,09661,"Aschaffenburg, Stadt",21
+,,09671,Aschaffenburg,10
+,,09676,Miltenberg,13
+,,096,Übrige Kreise (Regierungsbezirk),24
+,,096,Unterfranken,68
+,,097,Schwaben,24
+,,09,Bayern,315
+,,100,Saarland,10
+,,10,Saarland,10
+,,11000,"Berlin, Stadt",90
+,,110,Berlin,90
+,,11,Berlin,90
+,,120,Brandenburg,27
+,,12,Brandenburg,27
+,,130,Mecklenburg-Vorpommern,15
+,,13,Mecklenburg-Vorpommern,15
+,,14713,"Leipzig, Stadt",12
+,,140,Übrige Kreise (Regierungsbezirk),32
+,,140,Sachsen,44
+,,14,Sachsen,44
+,,15003,"Magdeburg, Landeshauptstadt",10
+,,150,Übrige Kreise (Regierungsbezirk),15
+,,150,Sachsen-Anhalt,25
+,,15,Sachsen-Anhalt,25
+,,16051,"Erfurt, Stadt",17
+,,160,Übrige Kreise (Regierungsbezirk),58
+,,160,Thüringen,75
+,,16,Thüringen,75
+,,ZZ,Übrige Bundesländer,9
+,,ZZ,Auspendler in das Bundesgebiet,"15,218"
+,,Z,Auspendler insgesamt,"15,218"
+06636,Werra-Meißner-Kreis,,,
+,,010,Schleswig-Holstein,36
+,,01,Schleswig-Holstein,36
+,,02000,"Hamburg, Freie und Hansestadt",61
+,,020,Hamburg,61
+,,02,Hamburg,61
+,,03101,"Braunschweig, Stadt",20
+,,03103,"Wolfsburg, Stadt",14
+,,03155,Northeim,67
+,,03159,Göttingen,"2,134"
+,,031,Übrige Kreise (Regierungsbezirk),27
+,,031,Statistische Region Braunschweig,"2,262"
+,,03241,Region Hannover,160
+,,03252,Hameln-Pyrmont,11
+,,03254,Hildesheim,18
+,,03256,Nienburg (Weser),21
+,,03257,Schaumburg,13
+,,032,Übrige Kreise (Regierungsbezirk),16
+,,032,Statistische Region Hannover,239
+,,033,Statistische Region Lüneburg,35
+,,034,Statistische Region Weser-Ems,51
+,,03,Niedersachsen,"2,587"
+,,04011,"Bremen, Stadt",20
+,,040,Übrige Kreise (Regierungsbezirk),*
+,,040,Bremen,22
+,,04,Bremen,22
+,,05111,"Düsseldorf, Stadt",30
+,,05112,"Duisburg, Stadt",18
+,,05113,"Essen, Stadt",10
+,,05158,Mettmann,20
+,,051,Übrige Kreise (Regierungsbezirk),39
+,,051,Reg.-Bez. Düsseldorf,117
+,,05315,"Köln, Stadt",58
+,,05374,Oberbergischer Kreis,11
+,,053,Übrige Kreise (Regierungsbezirk),38
+,,053,Reg.-Bez. Köln,107
+,,05515,"Münster, Stadt",10
+,,05566,Steinfurt,16
+,,055,Übrige Kreise (Regierungsbezirk),32
+,,055,Reg.-Bez. Münster,58
+,,05711,"Bielefeld, Stadt",12
+,,05754,Gütersloh,28
+,,05762,Höxter,13
+,,05770,Minden-Lübbecke,14
+,,05774,Paderborn,21
+,,057,Übrige Kreise (Regierungsbezirk),11
+,,057,Reg.-Bez. Detmold,99
+,,05913,"Dortmund, Stadt",15
+,,05958,Hochsauerlandkreis,28
+,,05970,Siegen-Wittgenstein,30
+,,05974,Soest,10
+,,059,Übrige Kreise (Regierungsbezirk),20
+,,059,Reg.-Bez. Arnsberg,103
+,,05,Nordrhein-Westfalen,484
+,,06411,"Darmstadt, Wissenschaftsstadt",12
+,,06412,"Frankfurt am Main, Stadt",147
+,,06414,"Wiesbaden, Landeshauptstadt",26
+,,06433,Groß-Gerau,25
+,,06434,Hochtaunuskreis,25
+,,06435,Main-Kinzig-Kreis,20
+,,06436,Main-Taunus-Kreis,19
+,,06438,Offenbach,23
+,,06440,Wetteraukreis,21
+,,064,Übrige Kreise (Regierungsbezirk),28
+,,064,Reg.-Bez. Darmstadt,346
+,,06531,Gießen,48
+,,06532,Lahn-Dill-Kreis,10
+,,06533,Limburg-Weilburg,10
+,,06534,Marburg-Biedenkopf,40
+,,06535,Vogelsbergkreis,52
+,,065,Reg.-Bez. Gießen,160
+,,06611,"Kassel, documenta-Stadt","3,444"
+,,06631,Fulda,98
+,,06632,Hersfeld-Rotenburg,"1,741"
+,,06633,Kassel,"2,032"
+,,06634,Schwalm-Eder-Kreis,"1,311"
+,,06635,Waldeck-Frankenberg,55
+,,066,Reg.-Bez. Kassel,"8,681"
+,,06,Hessen,"9,187"
+,,07314,"Ludwigshafen am Rhein, Stadt",14
+,,07315,"Mainz, kreisfreie Stadt",28
+,,070,Übrige Kreise (Regierungsbezirk),57
+,,070,Rheinland-Pfalz,99
+,,07,Rheinland-Pfalz,99
+,,08111,"Stuttgart, Landeshauptstadt",35
+,,08116,Esslingen,23
+,,08118,Ludwigsburg,15
+,,08125,Heilbronn,11
+,,081,Übrige Kreise (Regierungsbezirk),40
+,,081,Reg.-Bez. Stuttgart,124
+,,08212,"Karlsruhe, Stadt",14
+,,08215,Karlsruhe,11
+,,08226,Rhein-Neckar-Kreis,10
+,,082,Übrige Kreise (Regierungsbezirk),25
+,,082,Reg.-Bez. Karlsruhe,60
+,,083,Reg.-Bez. Freiburg,25
+,,084,Reg.-Bez. Tübingen,24
+,,08,Baden-Württemberg,233
+,,09162,"München, Landeshauptstadt",38
+,,09184,München,23
+,,091,Übrige Kreise (Regierungsbezirk),34
+,,091,Oberbayern,95
+,,092,Niederbayern,10
+,,094,Oberfranken,19
+,,09564,"Nürnberg, Stadt",19
+,,095,Übrige Kreise (Regierungsbezirk),20
+,,095,Mittelfranken,39
+,,096,Unterfranken,28
+,,097,Schwaben,25
+,,09,Übrige Regierungsbezirke (Bundesland),8
+,,09,Bayern,224
+,,11000,"Berlin, Stadt",89
+,,110,Berlin,89
+,,11,Berlin,89
+,,120,Brandenburg,25
+,,12,Brandenburg,25
+,,130,Mecklenburg-Vorpommern,13
+,,13,Mecklenburg-Vorpommern,13
+,,14713,"Leipzig, Stadt",18
+,,140,Übrige Kreise (Regierungsbezirk),34
+,,140,Sachsen,52
+,,14,Sachsen,52
+,,15084,Burgenlandkreis,11
+,,150,Übrige Kreise (Regierungsbezirk),34
+,,150,Sachsen-Anhalt,45
+,,15,Sachsen-Anhalt,45
+,,16051,"Erfurt, Stadt",63
+,,16053,"Jena, Stadt",17
+,,16056,"Eisenach, Stadt",462
+,,16061,Eichsfeld,571
+,,16062,Nordhausen,12
+,,16063,Wartburgkreis,501
+,,16064,Unstrut-Hainich-Kreis,249
+,,16067,Gotha,41
+,,16070,Ilm-Kreis,10
+,,160,Übrige Kreise (Regierungsbezirk),44
+,,160,Thüringen,"1,970"
+,,16,Thüringen,"1,970"
+,,ZZ,Übrige Bundesländer,7
+,,ZZ,Auspendler in das Bundesgebiet,"15,134"
+,,Z,Auspendler insgesamt,"15,134"
