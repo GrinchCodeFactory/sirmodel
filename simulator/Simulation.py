@@ -1,6 +1,12 @@
+import time
+import timeit
+from collections import defaultdict
+from typing import List, Dict
+
 from Commuter import Commuter
 from CommuterFactory import CommuterFactory
 from SIRModel import SIRModel
+from util.cpu_profiler import profiler_start, profiler_print
 
 '''
 #N, S, I, R, idFrom, idTo
@@ -26,7 +32,7 @@ def runSimulation(days):
         for sir in sirList.values():
 
             # find commuter coming to your city
-            incCom = list(filter(lambda com: com.idTo == sir.id, comList))
+            incCom = comByIdTo[sir.id]
 
             # iterate modle one step and get commuter after work
             newCom = sir.nextTimeStep(incCom)
@@ -56,6 +62,30 @@ cf = CommuterFactory()
 sirList = cf.loadAll()
 comList = cf.getCommuterList()
 
+comByIdTo: Dict[str, List[Commuter]] = defaultdict(list)
+for com in comList:
+    comByIdTo[com.idTo].append(com)
+
 makePeopleSick()
 
-runSimulation(10)
+t0 = time.perf_counter()
+
+# profiler_start()
+
+runSimulation(20)
+
+# profiler_print()
+
+t1 = time.perf_counter()
+
+print('Simulation took %.2f seconds' % ((t1 - t0)))
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+np.random.seed(367)
+plot_keys = np.random.choice(list(sirList.keys()), 4, replace=False)
+for k in plot_keys:
+    sirList[k].plot()
+
+plt.show()
