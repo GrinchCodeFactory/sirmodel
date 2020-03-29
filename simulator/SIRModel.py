@@ -130,7 +130,7 @@ class SIRModel:
         print("set gamma to :" + str(self.gamma))
 
     def __str__(self):
-        msg = "SIRModel " + str(self.name) + " at t=" + str(self.timeStep) + "\n"
+        msg = "SIRModel " + str(self.name) + " at t=" + str(self.timeStep/2) + "\n"
         msg += "Population: " + str(self.N) + "\n"
         msg += "Suseptible: " + str(self.S) + "P(S): " + str(self.S / self.N) + "\n"
         msg += "Infected: " + str(self.I) + "P(I): " + str(self.I / self.N) + "\n"
