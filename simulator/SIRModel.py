@@ -64,8 +64,16 @@ class SIRModel:
         dI = self.dInf()
         dR = self.dRec()
 
+        servedN = 0
+
         # distribution of dS/dI/dR on basis vaules
-        self.S = max(self.S + (self.N / self.NwC) * dS, 0)
+        SN = self.S + (self.N / self.NwC) * dS
+        if self.S == 0:
+            servedN += self.N
+        elif SN < 0:
+            servedN += self.N * (SN / self.S)
+        self.S = max(SN, 0)
+
         self.I = max(self.I + (self.N / self.NwC) * dI, 0)
         self.R = max(self.R + (self.N / self.NwC) * dR, 0)
 
@@ -74,9 +82,17 @@ class SIRModel:
             commie = self.outgoingCommuters.values()
         # distribution of dS/dI/dR on commuters
         for c in commie:
-            c.S = max(c.S + (c.N / self.NwC) * dS, 0)
-            c.I = max(c.I + (c.N / self.NwC) * dI, 0)
-            c.R = max(c.R + (c.N / self.NwC) * dR, 0)
+            SC = c.S + (c.N / (self.NwC - servedN)) * dS
+            if c.S == 0:
+                servedN += c.N
+            elif SC < 0:
+                servedN += c.N * (SC / c.S)
+            c.S = max(SC, 0)
+            # c.S = max(c.S + (c.N / (self.NwC-servedS)) * dS, 0)
+            if self.NwC - servedN == 0:
+                continue
+            c.I = max(c.I + (c.N / (self.NwC - servedN)) * dI, 0)
+            c.R = max(c.R + (c.N / (self.NwC - servedN)) * dR, 0)
 
         self.timeStep += 1
 
@@ -130,7 +146,7 @@ class SIRModel:
         print("set gamma to :" + str(self.gamma))
 
     def __str__(self):
-        msg = "SIRModel " + str(self.name) + " at t=" + str(self.timeStep/2) + "\n"
+        msg = "SIRModel " + str(self.name) + " at t=" + str(self.timeStep / 2) + "\n"
         msg += "Population: " + str(self.N) + "\n"
         msg += "Suseptible: " + str(self.S) + "P(S): " + str(self.S / self.N) + "\n"
         msg += "Infected: " + str(self.I) + "P(I): " + str(self.I / self.N) + "\n"

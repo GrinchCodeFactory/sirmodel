@@ -58,4 +58,4 @@ comList = cf.getCommuterList()
 
 makePeopleSick()
 
-runSimulation(10)
+runSimulation(100)
