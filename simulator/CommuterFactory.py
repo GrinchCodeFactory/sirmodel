@@ -116,5 +116,6 @@ class CommuterFactory:
         return self.lkDict
 
 
-cf = CommuterFactory()
-cf.loadAll()
+if __name__ == '__main__':
+    cf = CommuterFactory()
+    cf.loadAll()
