@@ -57,7 +57,7 @@ class CommuterFactory:
     def loadLandKreise(self, path):
         global irg
         global irg2
-        df = pd.read_csv(path, sep=',|;', engine='python')
+        df = pd.read_csv(path, sep=';', header=None)
         values = df.values
         sirDict: {int: SIRModel} = {}
 
