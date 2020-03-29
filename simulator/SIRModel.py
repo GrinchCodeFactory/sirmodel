@@ -10,7 +10,7 @@ import Commuter
 
 class SIRModel:
     id = 0
-    name=""
+    name = ""
 
     N = 0
     S = 0
@@ -30,10 +30,9 @@ class SIRModel:
     timeStep = 0
 
     def __init__(self, id, N, S, I, R, commuter: {int: Commuter}, name="NO_NAME"):
-        #print("init id: " + str(id) + ", name: "+ str(name) + " with N: " + str(N) + ", S: " + str(I) + ", I: " + str(I) + ", R: " + str(R))
+        # print("init id: " + str(id) + ", name: "+ str(name) + " with N: " + str(N) + ", S: " + str(I) + ", I: " + str(I) + ", R: " + str(R))
         self.id = id
         self.name = name
-
 
         self.N = N
         self.S = S
@@ -66,18 +65,18 @@ class SIRModel:
         dR = self.dRec()
 
         # distribution of dS/dI/dR on basis vaules
-        self.S = self.S + (self.N / self.NwC) * dS
-        self.I = self.I + (self.N / self.NwC) * dI
-        self.R = self.R + (self.N / self.NwC) * dR
+        self.S = max(self.S + (self.N / self.NwC) * dS, 0)
+        self.I = max(self.I + (self.N / self.NwC) * dI, 0)
+        self.R = max(self.R + (self.N / self.NwC) * dR, 0)
+
         commie = commuter
         if not dayTime:
             commie = self.outgoingCommuters.values()
         # distribution of dS/dI/dR on commuters
         for c in commie:
-            c.S += (c.N/self.NwC) * dS
-            c.I += (c.N/self.NwC) * dI
-            c.R += (c.N/self.NwC) * dR
-
+            c.S = max(c.S + (c.N / self.NwC) * dS, 0)
+            c.I = max(c.I + (c.N / self.NwC) * dI, 0)
+            c.R = max(c.R + (c.N / self.NwC) * dR, 0)
 
         self.timeStep += 1
 
