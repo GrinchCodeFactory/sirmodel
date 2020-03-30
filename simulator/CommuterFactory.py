@@ -115,9 +115,24 @@ class CommuterFactory:
 
         print("Notfound: " + str(self.irg) + ", Found: " + str(self.irg2))
 
+        self.loadAndSetStartingValue()
+
         return list(self.lkDict.values())
 
+    def loadAndSetStartingValue(self):
+
+        startingValues = pd.read_csv("pendlerData/start.csv")
+        for start in startingValues.values:
+            if start[0] in self.lkDict:
+                lk = self.lkDict[start[0]]
+                lk.S -= start[1]
+                lk.S -= start[2]
+                lk.I += start[1]
+                lk.R += start[2]
+            else:
+                print("ID NOT FOUND FOR: " +start)
 
 if __name__ == '__main__':
     cf = CommuterFactory()
-    cf.loadAll()
+    #cf.loadAll()
+    cf.loadAndSetStartingValue()

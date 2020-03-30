@@ -33,23 +33,10 @@ def runSimulation(sirList, comList, days):
     t1 = time.perf_counter()
     print('Simulation took %.2f seconds' % ((t1 - t0)))
 
-
-def makePeopleSick(sirList):
-    counter = 0
-    for sir in sirList:
-        if counter % 250 == 0:
-            print("YOU GOT CORONA!")
-            sir.I = 1000
-            sir.S -= 1000
-            counter += 1
-
-
 def main():
     cf = CommuterFactory()
     sirList = cf.loadAll()
     comList = cf.getCommuterList()
-
-    makePeopleSick(sirList)
 
     runSimulation(sirList, comList, days=40)
 
