@@ -77,6 +77,7 @@ class CommuterFactory:
             R = 0
             fromId = int(row[0])
             cODict: {int: Commuter} = {}
+            nReduction = 0
 
             if fromId not in self.commuterDict.keys():
                 self.irg = self.irg + 1
@@ -84,10 +85,11 @@ class CommuterFactory:
                 commuterOutgoingList: [] = self.commuterDict[fromId]
                 for commie in commuterOutgoingList:
                     self.irg2 = self.irg2 + 1
+                    nReduction += commie.N
                     cODict.update({commie.idTo: commie})
 
             # id, N, S, I, R, commuter: {int: Commuter}
-            sir = SIRModel(fromId, N, S, I, R, list(cODict.values()), row[1])
+            sir = SIRModel(fromId, N - nReduction, S - nReduction, I, R, list(cODict.values()), row[1])
             sirDict.update({sir.id: sir})
         return sirDict
 
@@ -113,9 +115,24 @@ class CommuterFactory:
 
         print("Notfound: " + str(self.irg) + ", Found: " + str(self.irg2))
 
+        self.loadAndSetStartingValue()
+
         return list(self.lkDict.values())
 
+    def loadAndSetStartingValue(self):
+
+        startingValues = pd.read_csv("pendlerData/start.csv")
+        for start in startingValues.values:
+            if start[0] in self.lkDict:
+                lk = self.lkDict[start[0]]
+                lk.S -= start[1]
+                lk.S -= start[2]
+                lk.I += start[1]
+                lk.R += start[2]
+            else:
+                print("ID NOT FOUND FOR: " +start)
 
 if __name__ == '__main__':
     cf = CommuterFactory()
-    cf.loadAll()
+    #cf.loadAll()
+    cf.loadAndSetStartingValue()

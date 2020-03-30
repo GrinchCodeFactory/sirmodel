@@ -31,10 +31,6 @@ class DisplayMap:
                 newVal = "fill: rgb("+str(red)+", 0, 0); stroke: rgb(76, 76, 76)"
                 childK.attrib['style'] = newVal
 
-
-
-
-
     def saveMap(self, path):
         self.tree.write(path)
 
