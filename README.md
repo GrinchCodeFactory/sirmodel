@@ -6,6 +6,18 @@ This program simulates epidemiology of the COVID-19 virus using [SIR Models](htt
 Each regional area, which can be a city, district or any other type of division, has its own SIR model instance. We model social exchange between those area using commuter data. For simplification, we assume that during daytime, commuters are at there working place, interacting with everyone in the same area. At night, everyone is at home, possibly infecting everyone else with the same home area.
 
 
-We use [SIR models](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology#The_SIR_model)
+# Configuartion
+* SIR Parameters
+* Initial infections
 
-Simulator for 
+# Run
+```
+git clone https://github.com/fl4p/sirmodel
+cd sirmodel
+pip install -r requirements.txt
+python3 Simulation.py
+```
+
+After the simulation has finished, open `web/animation.html` with your browser to view the animated map.
+
+
