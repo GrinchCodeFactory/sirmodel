@@ -1,4 +1,5 @@
 import math
+
 import pandas as pd
 
 from Commuter import Commuter
@@ -20,8 +21,8 @@ class CommuterFactory:
         df = pd.read_csv(path, header=None)
         values = df.values
 
-        currentFromName = values[0,1]
-        currentFromId = int(values[0,0])
+        currentFromName = values[0, 1]
+        currentFromId = int(values[0, 0])
 
         commuterGoingList = []
         commDict = {}
@@ -91,7 +92,9 @@ class CommuterFactory:
 
             # id, N, S, I, R, commuter: {int: Commuter}
             sir = SIRModel(fromId, N - nReduction, S - nReduction, I, R, list(cODict.values()), row[1])
-            sirDict.update({sir.id: sir})
+            assert sir.id not in sirDict, "id %s collission with %s: %s" % (sir.id, sirDict[sir.id].name, row)
+            sirDict[sir.id] = sir
+
         return sirDict
 
     def getCommuterList(self):
@@ -131,9 +134,10 @@ class CommuterFactory:
                 lk.I += start[1]
                 lk.R += start[2]
             else:
-                print("ID NOT FOUND FOR: " +start)
+                print("ID NOT FOUND FOR: " + start)
+
 
 if __name__ == '__main__':
     cf = CommuterFactory()
-    #cf.loadAll()
+    # cf.loadAll()
     cf.loadAndSetStartingValue()
