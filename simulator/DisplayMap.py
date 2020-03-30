@@ -21,6 +21,8 @@ class DisplayMap:
     def updateMap(self):
         for childK in self.karte:
             idFound = childK.attrib['id']
+            if len(idFound) > 5:
+                idFound = idFound[0:5]
 
             if idFound.isdigit():
                 idFound = int(idFound)
@@ -30,6 +32,8 @@ class DisplayMap:
                     sm = self.sirDict[idFound]
                     red = int(255 * sm.I/sm.N)
                     green = int(255* sm.R/sm.N)
+                else:
+                    print("MISSING:ID " + str(idFound))
                 newVal = "fill: rgb("+str(red)+", "+str(green)+", 0); stroke: rgb(76, 76, 76)"
                 childK.attrib['style'] = newVal
 
