@@ -7,10 +7,11 @@ from CommuterFactory import CommuterFactory
 from DisplayMap import DisplayMap
 
 
-def runSimulation(sirList, comList, days, dm):
+def runSimulation(sirList, comList, days):
     t0 = time.perf_counter()
 
     sirDict = {s.id: s for s in sirList}
+    dm = DisplayMap(sirDict)
 
     comByIdTo: Dict[str, List[Commuter]] = defaultdict(list)
     for com in comList:
@@ -36,7 +37,7 @@ def runSimulation(sirList, comList, days, dm):
 def makePeopleSick(sirList):
     counter = 0
     for sir in sirList:
-        if counter % 25 == 0:
+        if counter % 250 == 0:
             print("YOU GOT CORONA!")
             sir.I = 1000
             sir.S -= 1000
@@ -49,9 +50,8 @@ def main():
     comList = cf.getCommuterList()
 
     makePeopleSick(sirList)
-    dm = DisplayMap(sirList)
 
-    runSimulation(sirList, comList, days=40, dm=dm)
+    runSimulation(sirList, comList, days=40)
 
     import numpy as np
     import matplotlib.pyplot as plt
