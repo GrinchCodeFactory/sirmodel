@@ -5,6 +5,7 @@ from typing import List, Dict
 
 from Commuter import Commuter
 from CommuterFactory import CommuterFactory
+from DisplayMap import DisplayMap
 from SIRModel import SIRModel
 from util.cpu_profiler import profiler_start, profiler_print
 
@@ -27,6 +28,7 @@ sirList = {sir1.id:sir1, sir2.id:sir2, sir3.id:sir3}
 
 
 def runSimulation(days):
+    counter = 1
     for i in range(2 * days):
 
         for sir in sirList.values():
@@ -45,8 +47,10 @@ def runSimulation(days):
                         print("KEY -1 !!" + str(newC))
                     sirList[newC.idFrom].setOutgoingCommuter(newC)
 
-        print(sirList[1004])
-
+        #print(sirList[1004])
+        dm.updateMap()
+        counter += 1
+        dm.saveMap("out/output"+str(counter)+".svg")
 
 def makePeopleSick():
     counter = 0
@@ -58,9 +62,14 @@ def makePeopleSick():
             counter += 1
 
 
+
+
+
 cf = CommuterFactory()
 sirList = cf.loadAll()
 comList = cf.getCommuterList()
+
+dm = DisplayMap(sirList)
 
 comByIdTo: Dict[str, List[Commuter]] = defaultdict(list)
 for com in comList:
@@ -72,7 +81,7 @@ t0 = time.perf_counter()
 
 # profiler_start()
 
-runSimulation(20)
+runSimulation(10)
 
 # profiler_print()
 
