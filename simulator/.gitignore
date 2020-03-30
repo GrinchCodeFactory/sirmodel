@@ -2,3 +2,4 @@ venv/
 .idea/
 simulator/.idea/
 __pycache__
+simulator/out/
