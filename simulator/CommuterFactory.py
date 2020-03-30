@@ -81,6 +81,7 @@ class CommuterFactory:
 
             if fromId not in self.commuterDict.keys():
                 self.irg = self.irg + 1
+                print("FROMID NOT FOUND: " + str(fromId))
             else:
                 commuterOutgoingList: [] = self.commuterDict[fromId]
                 for commie in commuterOutgoingList:
