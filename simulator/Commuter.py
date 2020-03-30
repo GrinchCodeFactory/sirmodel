@@ -9,13 +9,15 @@ class Commuter:
 
     def __init__(self, N, S, I, R, idFrom, idTo):
         # print("init Commuter from:" + str(idFrom) + " to: " + str(idTo)+ " with N: " + str(N) + ", S: " + str(
-         #   S) + ", I: " + str(I) + ", R: " + str(R))
+        #   S) + ", I: " + str(I) + ", R: " + str(R))
         self.idFrom = idFrom
         self.idTo = idTo
         self.N = N
         self.S = S
         self.I = I
         self.R = R
+
+        assert N == S + I + R
 
     def __str__(self):
         msg = "Commuter from: " + str(self.idFrom) + ", to: " + str(self.idTo) + "\n"

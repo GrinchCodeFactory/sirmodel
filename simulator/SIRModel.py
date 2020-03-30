@@ -1,3 +1,5 @@
+from typing import Iterable, List
+
 import Commuter
 
 
@@ -8,14 +10,17 @@ import Commuter
 ##                                                          ##
 ##############################################################
 
+def apply_sir_differential(o, beta, gamma, ir):
+    ds = beta * ir * o.S
+    dr = o.I * gamma
+    o.S -= ds
+    o.I += ds - dr
+    o.R += dr
+
+
 class SIRModel:
     id = 0
     name = ""
-
-    N = 0
-    S = 0
-    I = 0
-    R = 0
 
     outgoingCommuters: {int: Commuter}
 
@@ -24,12 +29,12 @@ class SIRModel:
     IwC = 0
     RwC = 0
 
-    beta = 0.00001
+    beta = 1.1
     gamma = 1 / 14
 
     timeStep = 0
 
-    def __init__(self, id, N, S, I, R, commuter: {int: Commuter}, name="NO_NAME"):
+    def __init__(self, id, N, S, I, R, commuters: List[Commuter.Commuter], name="NO_NAME"):
         # print("init id: " + str(id) + ", name: "+ str(name) + " with N: " + str(N) + ", S: " + str(I) + ", I: " + str(I) + ", R: " + str(R))
         self.id = id
         self.name = name
@@ -39,102 +44,56 @@ class SIRModel:
         self.I = I
         self.R = R
 
-        self.outgoingCommuters = commuter
+        assert N == S + I + R
+
+        self.outgoingCommuters = commuters
+        for c in commuters:
+            assert c.idFrom == self.id
 
         self.timeStep = 0
 
         self.sirSeries = []
 
-    def dSus(self):
-        return - 1 * self.beta * self.IwC * self.SwC
-
-    def dInf(self):
-        return self.beta * self.IwC * self.SwC - self.gamma * self.IwC
-
-    def dRec(self):
-        return self.gamma * self.IwC
-
-    def nextTimeStep(self, commuter):
+    def nextTimeStep(self, commuter: List[Commuter.Commuter]):
 
         # imitate day and night cycle
         dayTime = self.timeStep % 2 == 0
 
-        self.includeCommuters(dayTime, commuter)
+        present = commuter if dayTime else self.outgoingCommuters
 
-        # calculating the "ableitung" for the total number of ppl
-        dS = self.dSus()
-        dI = self.dInf()
-        dR = self.dRec()
+        self.includeCommuters(present)
 
-        servedN = 0
+        if self.NwC:
 
-        # distribution of dS/dI/dR on basis vaules
-        SN = self.S + (self.N / self.NwC) * dS
-        if self.S == 0:
-            servedN += self.N
-        elif SN < 0:
-            servedN += self.N * (SN / self.S)
-        self.S = max(SN, 0)
+            ir = self.IwC / self.NwC  # infection ratio
 
-        self.I = max(self.I + (self.N / self.NwC) * dI, 0)
-        self.R = max(self.R + (self.N / self.NwC) * dR, 0)
+            apply_sir_differential(self, beta=self.beta, gamma=self.gamma, ir=ir)
 
-        self.sirSeries.append((self.S, self.I, self.R))
+            for c in present:
+                apply_sir_differential(c, beta=self.beta, gamma=self.gamma, ir=ir)
 
-        commie = commuter
-        if not dayTime:
-            commie = self.outgoingCommuters.values()
-        # distribution of dS/dI/dR on commuters
-        for c in commie:
-            SC = c.S + (c.N / (self.NwC - servedN)) * dS
-            if c.S == 0:
-                servedN += c.N
-            elif SC < 0:
-                servedN += c.N * (SC / c.S)
-            c.S = max(SC, 0)
-            # c.S = max(c.S + (c.N / (self.NwC-servedS)) * dS, 0)
-            if self.NwC - servedN == 0:
-                continue
-            c.I = max(c.I + (c.N / (self.NwC - servedN)) * dI, 0)
-            c.R = max(c.R + (c.N / (self.NwC - servedN)) * dR, 0)
+        # capture SIR for plotting
+        self.sirSeries.append((self.SwC, self.IwC, self.RwC))
 
         self.timeStep += 1
 
-        return commuter
-
     # add commuters from outside or add comuters coming home
-    def includeCommuters(self, workingTime: bool, commuter: [Commuter]):
+    def includeCommuters(self, commuter: Iterable[Commuter.Commuter]):
         self.NwC = self.N
         self.SwC = self.S
         self.IwC = self.I
         self.RwC = self.R
 
-        # during the day the incoming comuters are considered
-        if workingTime:
-            for cIn in commuter:
-                self.NwC += cIn.N
-                self.SwC += cIn.S
-                self.IwC += cIn.I
-                self.RwC += cIn.R
-        # during the night the outgoing comuters coming back are considered
-        else:
-            for key in self.outgoingCommuters:
-                self.NwC += self.outgoingCommuters[key].N
-                self.SwC += self.outgoingCommuters[key].S
-                self.IwC += self.outgoingCommuters[key].I
-                self.RwC += self.outgoingCommuters[key].R
+        for cIn in commuter:
+            self.NwC += cIn.N
+            self.SwC += cIn.S
+            self.IwC += cIn.I
+            self.RwC += cIn.R
 
     ##########################Setter and toString
 
-    def setOutgoingCommuter(self, oCom: Commuter):
-        self.outgoingCommuters[oCom.idTo] = oCom
-
     def setBeta(self, beta):
         self.beta = beta
-        print("set beta to :" + str(self.beta))
-
-    def setBeta(self, avgContactPerPerson, chanceToInfect):
-        self.beta = avgContactPerPerson * chanceToInfect
         print("set beta to :" + str(self.beta))
 
     def setGamma(self, gamma):
@@ -145,16 +104,19 @@ class SIRModel:
         self.gamma = 1 / duration
         print("set gamma to :" + str(self.gamma))
 
-    def setGamma(self):
+    def computeGamma(self):
         self.gamma = self.R / self.I
         print("set gamma to :" + str(self.gamma))
 
     def plot(self):
         import pandas as pd
         import matplotlib.pyplot as plt
-        pd.DataFrame(self.sirSeries, columns=['S','I','R']).plot()
+        df = pd.DataFrame(self.sirSeries, columns=['S', 'I', 'R'])
+        df.plot()
+        df.sum(axis=1).plot(label='N')
+        plt.axhline(0, c='k')
+        plt.grid()
         plt.title(self.name)
-
 
     def __str__(self):
         msg = "SIRModel " + str(self.name) + " at t=" + str(self.timeStep / 2) + "\n"
