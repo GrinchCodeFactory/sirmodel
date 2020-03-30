@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+    }
+
+    #frame {
+        max-width: 100vw;
+        max-height: calc(100vh - 4em);
+    }
+
+    #anim-menu {
+        background: #ccc;
+        height: 4em;
+    }
+
+    #frame-slider {
+        width: 100%;
+    }
+</style>
+
+<img src="../out/output0.svg" alt="frame" id="frame">
+<div id="anim-menu">
+    <input type="range" min="1" max="100" value="50" class="slider" id="frame-slider">
+    <button onclick="anim.play();">▶️</button>
+</div>
+
+<script>
+
+    class Animator {
+        constructor(imgEl, sliderEl, frameList) {
+            this.imgEl = imgEl;
+            this.sliderEl = sliderEl;
+            this.frameList = frameList;
+
+            this.frameIdx = 0;
+            this.playing = false;
+
+            sliderEl.min = 0;
+            sliderEl.max = frameList.length - 1;
+            sliderEl.value = 0;
+
+            sliderEl.addEventListener('change', (e) => this._sliderChanged());
+            sliderEl.addEventListener('input', (e) => this._sliderChanged());
+        }
+
+        _drawFrame(i) {
+            this.imgEl.src = this.frameList[i];
+            this.sliderEl.value = i;
+            this.frameIdx = i;
+        }
+
+        _sliderChanged(e) {
+            this.playing = false;
+            console.log(this.sliderEl.value, this.frameIdx);
+            this._drawFrame(+this.sliderEl.value);
+        }
+
+        _playNextFrame() {
+            const fps = 5;
+            this.frameIdx = (this.frameIdx + 1) % this.frameList.length;
+            this._drawFrame(this.frameIdx);
+            if(this.frameIdx === 0)
+                this.playing = false;
+            if(this.playing)
+                setTimeout(() => this._playNextFrame(), 1000 / fps);
+        }
+
+        play() {
+            this.playing = !this.playing;
+            this._playNextFrame();
+        }
+    }
+
+
+    const frameList = [];
+    for (var i = 0; i < 78; i += 2) frameList.push('../out/output' + i + '.svg');
+
+    const anim = new Animator(
+        document.querySelector('#frame'),
+        document.querySelector('#frame-slider'),
+        frameList
+    );
+
+
+</script>
+
+</body>
+</html>
