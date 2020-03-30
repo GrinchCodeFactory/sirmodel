@@ -5,8 +5,11 @@ from typing import List, Dict
 from Commuter import Commuter
 from CommuterFactory import CommuterFactory
 
+
 def runSimulation(sirList, comList, days):
     t0 = time.perf_counter()
+
+    sirDict = {s.id: s for s in sirList}
 
     comByIdTo: Dict[str, List[Commuter]] = defaultdict(list)
     for com in comList:
@@ -15,13 +18,11 @@ def runSimulation(sirList, comList, days):
     for i in range(2 * days):
 
         for sir in sirList:
-
             # find commuter coming to your city
             incCom = comByIdTo[sir.id]
             sir.nextTimeStep(incCom)
 
-
-         # print(sirList[min(1004, len(sirList)])
+        print(sirDict[1004])
 
     t1 = time.perf_counter()
     print('Simulation took %.2f seconds' % ((t1 - t0)))
@@ -44,8 +45,7 @@ def main():
 
     makePeopleSick(sirList)
 
-    runSimulation(sirList, comList, 60)
-
+    runSimulation(sirList, comList, 40)
 
     import numpy as np
     import matplotlib.pyplot as plt

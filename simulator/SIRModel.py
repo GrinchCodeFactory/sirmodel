@@ -73,7 +73,7 @@ class SIRModel:
                 apply_sir_differential(c, beta=self.beta, gamma=self.gamma, ir=ir)
 
         # capture SIR for plotting
-        self.sirSeries.append((self.S, self.I, self.R))
+        self.sirSeries.append((self.SwC, self.IwC, self.RwC))
 
         self.timeStep += 1
 
