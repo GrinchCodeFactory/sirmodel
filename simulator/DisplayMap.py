@@ -24,11 +24,12 @@ class DisplayMap:
 
             if idFound.isdigit():
                 idFound = int(idFound)
+                red = 0
                 if idFound in self.sirDict:
                     sm = self.sirDict[idFound]
-                    red = 255 * sm.I/sm.N
-                    newVal = "fill: rgb(0, "+str(red)+", 0); stroke: rgb(76, 76, 76)"
-                    childK.attrib['style'] = newVal
+                    red = int(255 * sm.I/sm.N)
+                newVal = "fill: rgb("+str(red)+", 0, 0); stroke: rgb(76, 76, 76)"
+                childK.attrib['style'] = newVal
 
 
 

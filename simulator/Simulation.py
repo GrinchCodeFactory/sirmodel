@@ -48,14 +48,15 @@ def runSimulation(days):
                     sirList[newC.idFrom].setOutgoingCommuter(newC)
 
         #print(sirList[1004])
-        dm.updateMap()
         counter += 1
-        dm.saveMap("out/output"+str(counter)+".svg")
+        if counter % 2==0:
+            dm.updateMap()
+            dm.saveMap("out/output"+str(counter)+".svg")
 
 def makePeopleSick():
     counter = 0
     for sir in sirList.values():
-        if counter % 25 == 0:
+        if counter % 250 == 0:
             print("YOU GOT CORONA!")
             sir.I = 1000
             sir.S -= 1000
