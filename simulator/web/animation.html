@@ -21,6 +21,7 @@
     #anim-menu {
         background: #ccc;
         height: 4em;
+        padding: .6em;
     }
 
     #frame-slider {
@@ -30,7 +31,7 @@
 
 <img src="../out/output0.svg" alt="frame" id="frame">
 <div id="anim-menu">
-    <input type="range" min="1" max="100" value="50" class="slider" id="frame-slider">
+    <input type="range" id="frame-slider">
     <button onclick="anim.play();">▶️</button>
 </div>
 
@@ -60,7 +61,7 @@
         }
 
         _sliderChanged(e) {
-            this.playing = false;
+            this.stop();
             console.log(this.sliderEl.value, this.frameIdx);
             this._drawFrame(+this.sliderEl.value);
         }
@@ -69,15 +70,24 @@
             const fps = 5;
             this.frameIdx = (this.frameIdx + 1) % this.frameList.length;
             this._drawFrame(this.frameIdx);
-            if(this.frameIdx === 0)
+            if (this.frameIdx === 0)
                 this.playing = false;
-            if(this.playing)
-                setTimeout(() => this._playNextFrame(), 1000 / fps);
+            if (this.playing)
+                this._timer = setTimeout(() => this._playNextFrame(), 1000 / fps);
+        }
+
+        stop() {
+            this.playing = false;
+            if (this._timer)
+                clearTimeout(this._timer);
         }
 
         play() {
             this.playing = !this.playing;
-            this._playNextFrame();
+            if (this.playing)
+                this._playNextFrame();
+            else if (this._timer)
+                this.stop()
         }
     }
 

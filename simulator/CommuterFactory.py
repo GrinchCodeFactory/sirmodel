@@ -1,4 +1,5 @@
 import math
+
 import pandas as pd
 
 from Commuter import Commuter
@@ -99,7 +100,9 @@ class CommuterFactory:
 
             # id, N, S, I, R, commuter: {int: Commuter}
             sir = SIRModel(fromId, N - nReduction, S - nReduction, I, R, list(cODict.values()), row[1])
-            sirDict.update({sir.id: sir})
+            assert sir.id not in sirDict, "id %s collission with %s: %s" % (sir.id, sirDict[sir.id].name, row)
+            sirDict[sir.id] = sir
+
         return sirDict
 
     def getCommuterList(self):
