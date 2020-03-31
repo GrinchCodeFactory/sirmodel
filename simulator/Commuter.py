@@ -4,8 +4,8 @@ class Commuter:
     I = 0
     R = 0
 
-    idFrom = 0
-    idTo = 0
+    idFrom = ""
+    idTo = ""
 
     def __init__(self, N, S, I, R, idFrom, idTo):
         # print("init Commuter from:" + str(idFrom) + " to: " + str(idTo)+ " with N: " + str(N) + ", S: " + str(
@@ -20,7 +20,7 @@ class Commuter:
         assert N == S + I + R
 
     def __str__(self):
-        msg = "Commuter from: " + str(self.idFrom) + ", to: " + str(self.idTo) + "\n"
+        msg = "Commuter from: " + self.idFrom + ", to: " + self.idTo + "\n"
         msg += "Population: " + str(self.N) + "\n"
         msg += "Suseptible: " + str(self.S) + "\n"
         msg += "Infected: " + str(self.I) + "\n"

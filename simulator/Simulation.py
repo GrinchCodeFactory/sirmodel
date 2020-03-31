@@ -24,7 +24,7 @@ def runSimulation(sirList, comList, days):
             incCom = comByIdTo[sir.id]
             sir.nextTimeStep(incCom)
 
-        print(sirDict[1004])
+        #print(sirDict['01004'])
 
         if i % 2 == 0:
             dm.updateMap()

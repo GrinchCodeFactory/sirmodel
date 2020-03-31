@@ -19,7 +19,7 @@ def apply_sir_differential(o, beta, gamma, ir):
 
 
 class SIRModel:
-    id = 0
+    id = ""
     name = ""
 
     outgoingCommuters: {int: Commuter}

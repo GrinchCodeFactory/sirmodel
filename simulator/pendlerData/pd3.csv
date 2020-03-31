@@ -1,4 +1,10 @@
-﻿03101,"Braunschweig, Stadt",,,
+﻿03156,"Fake,h",,,
+,,03153,Fake,"11158"
+,,01059,fake,"11,143"
+03152,"Fake,b",,,
+,,03153,Peine,"11958"
+,,01059,Wolfenbüttel,"11,143"
+03101,"Braunschweig, Stadt",,,
 ,,01002,"Kiel, Landeshauptstadt",49
 ,,01003,"Lübeck, Hansestadt",30
 ,,01055,Ostholstein,10
@@ -15,9 +21,11 @@
 ,,03102,"Salzgitter, Stadt","4,421"
 ,,03103,"Wolfsburg, Stadt","11,527"
 ,,03151,Gifhorn,"3,054"
+,,03152,Fake,"5000"
 ,,03153,Goslar,550
 ,,03154,Helmstedt,"1,257"
 ,,03155,Northeim,84
+,,03156,Fake,"5000"
 ,,03157,Peine,"1,958"
 ,,03158,Wolfenbüttel,"3,143"
 ,,03159,Göttingen,173

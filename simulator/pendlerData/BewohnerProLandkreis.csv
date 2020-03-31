@@ -19,11 +19,11 @@
 03102;Salzgitter; kreisfreie Stadt;98966;101079;103668;104548;104948
 03103;Wolfsburg; kreisfreie Stadt;123027;124045;123909;123914;124151
 03151;Gifhorn; Landkreis;172541;174205;174749;175079;175920
-03152;Göttingen; Landkreis (bis 31.10.2016);250220;255653;-;-;-
+03152;Göttingen; Landkreis;250220;255653;-;-;-
 03153;Goslar; Landkreis;137256;138236;137979;137563;137014
 03154;Helmstedt; Landkreis;90908;91500;92079;91720;91307
 03155;Northeim; Landkreis;133905;134896;133610;133046;132765
-03156;Osterode am Harz; Landkreis (bis 31.10.2016);73793;73885;-;-;-
+03156;Osterode am Harz; Landkreis;73793;73885;-;-;-
 03157;Peine; Landkreis;130601;132320;132979;133368;133965
 03158;Wolfenbüttel; Landkreis;120035;120981;120904;120437;119960
 03159;Göttingen; Landkreis;-;-;327065;328036;-
@@ -348,8 +348,8 @@
 12071;Spree-Neiße; Landkreis;118030;117635;116826;115456;114429
 12072;Teltow-Fläming; Landkreis;161488;163553;164771;166890;168296
 12073;Uckermark; Landkreis;120829;121014;120878;120349;119552
-13001;Greifswald; kreisfreie Stadt (bis 03.09.2011);57626;-;-;-;-
-13002;Neubrandenburg; kreisfreie Stadt (bis 03.09.2011);65175;-;-;-;-
+13001;Greifswald; kreisfreie Stadt;57626;-;-;-;-
+13002;Neubrandenburg; kreisfreie Stadt;65175;-;-;-;65175
 13003;Rostock; kreisfreie Stadt;204167;206011;207513;208409;208886
 13004;Schwerin; kreisfreie Stadt;92138;96800;95668;95797;95818
 13005;Stralsund; kreisfreie Stadt (bis 03.09.2011);59000;-;-;-;-

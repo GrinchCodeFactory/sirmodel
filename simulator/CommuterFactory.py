@@ -17,71 +17,79 @@ class CommuterFactory:
         lkDict: {}
 
     def loadCommuterRegion(self, path):
-        df = pd.read_csv(path, header=None)
+        df = pd.read_csv(path, header=None).ffill(axis=0)
+        df = df.astype('str')
         values = df.values
-
-        currentFromName = values[0,1]
-        currentFromId = int(values[0,0])
 
         commuterGoingList = []
         commDict = {}
 
         for row in values:
-            if math.isnan(row[0]):
-                # they have commas in their numbers
-                r4 = row[4].replace(",", "")
-                # they have stars for anonym 1 or 2, so i just set it 2
-                if r4 == "*":
-                    N = 2
-                    S = 2
-                else:
-                    N = int(r4)
-                    S = int(r4)
 
-                # fucking z i don t know what that is
-                if "Z" in row[2]:
-                    continue
-                idTo = int(row[2])
-                com = Commuter(N, S, 0, 0, currentFromId, idTo)
+            if not row[2].isdigit():
+                # skip filler
+                continue
 
+            # fucking z i don t know what that is
+            if "Z" in row[2]:
+                continue
+
+            r2 = row[2]
+            if r2[0] == '0':
+                r2 = r2[1:]
+
+            # they have commas in their numbers
+            r4 = row[4].replace(",", "")
+
+            r0 = row[0].replace(".0", "")
+
+            # they have stars for anonym 1 or 2, so i just set it 2
+            if r4 == "*":
+                N = 2
+                S = 2
+            else:
+                N = int(r4)
+                S = int(r4)
+
+
+
+            com = Commuter(N, S, 0, 0, r0, r2)
+            if r0 in commDict:
                 commuterGoingList.append(com)
             else:
-                if len(commuterGoingList) > 0:
-                    commDict.update({currentFromId: commuterGoingList})
-                    commuterGoingList = []
+                commuterGoingList = []
+                commDict.update({r0: commuterGoingList})
 
-                currentFromId = row[0]
-                currentFromName = row[1]
         return commDict
 
     def loadLandKreise(self, path):
-        global irg
-        global irg2
-        df = pd.read_csv(path, sep=';', header=None)
+        self.irg
+        self.irg2
+        df = pd.read_csv(path, sep=';', header=None).astype('str')
         values = df.values
-        sirDict: {int: SIRModel} = {}
+        sirDict: {str: SIRModel} = {}
 
         for row in values:
             ind = 7
             # get the latest counting
-            if isinstance(row[ind], float):
-                row[ind] = str(row[ind])
-            while ind > 3 and not row[ind].isdigit():
+            while ind > 2 and not row[ind].isdigit():
                 ind -= 1
-            if ind <= 3:
+            if ind <= 2:
                 continue
 
             N = int(row[ind])
-            S = N  # at the moment everybudy is still healthy
+            S = N
             I = 0
             R = 0
-            fromId = int(row[0])
-            cODict: {int: Commuter} = {}
+
+            fromId = row[0]
+
+            cODict: {str: Commuter} = {}
             nReduction = 0
 
             if fromId not in self.commuterDict.keys():
                 self.irg = self.irg + 1
-                print("FROMID NOT FOUND: " + str(fromId))
+                print("FROMID NOT FOUND: " + fromId)
             else:
                 commuterOutgoingList: [] = self.commuterDict[fromId]
                 for commie in commuterOutgoingList:
@@ -123,6 +131,7 @@ class CommuterFactory:
     def loadAndSetStartingValue(self):
 
         startingValues = pd.read_csv("pendlerData/start.csv")
+        startingValues['id'] = startingValues['id'].astype('str')
         for start in startingValues.values:
             if start[0] in self.lkDict:
                 lk = self.lkDict[start[0]]
@@ -131,9 +140,10 @@ class CommuterFactory:
                 lk.I += start[1]
                 lk.R += start[2]
             else:
-                print("ID NOT FOUND FOR: " +start)
+                print("ID NOT FOUND FOR: " + start)
+
 
 if __name__ == '__main__':
     cf = CommuterFactory()
-    #cf.loadAll()
+    # cf.loadAll()
     cf.loadAndSetStartingValue()
