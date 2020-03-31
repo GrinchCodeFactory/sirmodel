@@ -29,8 +29,9 @@ class SIRModel:
     IwC = 0
     RwC = 0
 
-    beta = 1.1
-    gamma = 1 / 14
+    dayBeta = 1.1
+    nightBeta = 0.5
+    gamma = 1 / 28
 
     timeStep = 0
 
@@ -65,12 +66,16 @@ class SIRModel:
 
         if self.NwC:
 
+            beta = self.nightBeta
+            if dayTime:
+                beta = self.dayBeta
+
             ir = self.IwC / self.NwC  # infection ratio
 
-            apply_sir_differential(self, beta=self.beta, gamma=self.gamma, ir=ir)
+            apply_sir_differential(self, beta=beta, gamma=self.gamma, ir=ir)
 
             for c in present:
-                apply_sir_differential(c, beta=self.beta, gamma=self.gamma, ir=ir)
+                apply_sir_differential(c, beta=beta, gamma=self.gamma, ir=ir)
 
         # capture SIR for plotting
         self.sirSeries.append((self.SwC, self.IwC, self.RwC))
@@ -93,8 +98,9 @@ class SIRModel:
     ##########################Setter and toString
 
     def setBeta(self, beta):
-        self.beta = beta
-        print("set beta to :" + str(self.beta))
+        self.dayBeta = beta
+        self.nightBeta = beta
+        print("set beta to :" + str(self.dayBeta))
 
     def setGamma(self, gamma):
         self.gamma = gamma
